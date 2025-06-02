@@ -1,4 +1,36 @@
 Team,Season,Name
+ARZ,2024-25,kyler murray
+ATL,2024-25,kirk cousins
+BAL,2024-25,lamar jackson
+BUF,2024-25,josh allen
+CAR,2024-25,bryce young
+CHI,2024-25,caleb williams
+CIN,2024-25,joe burrow
+CLE,2024-25,deshaun watson
+DAL,2024-25,dak prescott
+DEN,2024-25,bo nix
+DET,2024-25,jared goff
+GB,2024-25,jordan love
+HOU,2024-25,c.j. stroud
+IND,2024-25,anthony richardson
+JAX,2024-25,trevor lawrence
+KC,2024-25,patrick mahomes
+LAC,2024-25,justin herbert
+LAR,2024-25,matthew stafford
+LV,2024-25,gardner minshew
+MIA,2024-25,tua tagovailoa
+MIN,2024-25,sam darnold
+NE,2024-25,jacoby brissett
+NO,2024-25,derek carr
+NYG,2024-25,daniel jones
+NYJ,2024-25,aaron rodgers
+PHI,2024-25,jalen hurts
+PIT,2024-25,russell wilson
+SEA,2024-25,geno smith
+SF,2024-25,brock purdy
+TB,2024-25,baker mayfield
+TEN,2024-25,will levis
+WAS,2024-25,jayden daniels
 ARZ,2023-24,joshua dobbs
 ATL,2023-24,desmond ridder
 BAL,2023-24,lamar jackson
@@ -230,7 +262,7 @@ BUF,2016-17,tyrod taylor
 CAR,2016-17,cam newton
 CHI,2016-17,jay cutler
 CIN,2016-17,andy dalton
-CLE,2016-17,robert griffin iii iii iii
+CLE,2016-17,robert griffin iii
 DAL,2016-17,dak prescott
 DEN,2016-17,trevor siemian
 DET,2016-17,matthew stafford
@@ -318,4 +350,4 @@ SEA,2014-15,russell wilson
 SF,2014-15,colin kaepernick
 TB,2014-15,josh mccown
 TEN,2014-15,jake locker
-WAS,2014-15,robert griffin iii iii iii
+WAS,2014-15,robert griffin iii
