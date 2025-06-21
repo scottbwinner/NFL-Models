@@ -11,7 +11,8 @@ Final Data Sources
 - pff_receiving: https://premium.pff.com/nfl/positions/2023/REG/receiving-scheme?minimum=1
 - pff_man_zone: https://premium.pff.com/nfl/positions/2023/REG/receiving
 - pfr_fp: https://www.pro-football-reference.com/years/2023/fantasy.htm
-- pfr_rz: https://www.pro-football-reference.com/years/2023/redzone-receiving.htm
+- pfr_rz_rec: https://www.pro-football-reference.com/years/2023/redzone-receiving.htm
+- pfr_rz_run: https://www.pro-football-reference.com/years/2024/redzone-rushing.htm
 - pfr_tm_off: https://www.pro-football-reference.com/years/2023/ (Team Offense Table)
 - pff_ol: https://premium.pff.com/nfl/positions/2023/REG/ol-pass-blocking-efficiency
 - pff_qb: https://premium.pff.com/nfl/positions/2023/REG/passing?position=QB
