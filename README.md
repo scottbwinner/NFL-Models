@@ -21,7 +21,10 @@ Final Data Sources
 - pff_x_fantasy_week_points: https://www.pff.com/fantasy/stats/finishes
     - Week to week fantasy point data from 2022/23-2024/25 seasons
 - fantasy_adp: https://www.fantasypros.com/nfl/adp/ppr-overall.php?year=2024
-
+- pff_ol_run: https://premium.pff.com/nfl/positions/2024/REG/offense-run-blocking
+- pfr_draft: https://www.pro-football-reference.com/years/2024/draft.htm
+- pfr_combine: https://www.pro-football-reference.com/draft/2025-combine.htm
+- pff_ncaa_rushing: https://premium.pff.com/ncaa/positions/2024/REGPO/rushing?division=fbs&customMinimum=1&minimum=5
 
 
 Problems
