@@ -14,7 +14,7 @@ Final Data Sources
 - pfr_rz_rec: https://www.pro-football-reference.com/years/2023/redzone-receiving.htm
 - pfr_rz_run: https://www.pro-football-reference.com/years/2024/redzone-rushing.htm
 - pfr_tm_off: https://www.pro-football-reference.com/years/2023/ (Team Offense Table)
-- pff_ol: https://premium.pff.com/nfl/positions/2023/REG/ol-pass-blocking-efficiency
+- pff_ol_pass: https://premium.pff.com/nfl/positions/2023/REG/ol-pass-blocking-efficiency
 - pff_qb: https://premium.pff.com/nfl/positions/2023/REG/passing?position=QB
 - qb_depth_chart: https://www.ourlads.com/nfldepthcharts/
 - pff_rushing: https://premium.pff.com/nfl/positions/2024/REG/rushing
@@ -25,6 +25,10 @@ Final Data Sources
 - pfr_draft: https://www.pro-football-reference.com/years/2024/draft.htm
 - pfr_combine: https://www.pro-football-reference.com/draft/2025-combine.htm
 - pff_ncaa_rushing: https://premium.pff.com/ncaa/positions/2024/REGPO/rushing?division=fbs&customMinimum=1&minimum=5
+- pff_behind_los_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=behindLos
+- pff_short_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=short
+- pff_int_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=medium
+- pff_deep_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=deep
 
 
 Problems
