@@ -8,8 +8,8 @@ Potential Data Sources
 - https://nflsavant.com/targets.php?ddlYear=2022&ddlPosition=&week=&rz=redzone&ddlTeam=
 
 Final Data Sources
-- pff_receiving: https://premium.pff.com/nfl/positions/2023/REG/receiving-scheme?minimum=1
-- pff_man_zone: https://premium.pff.com/nfl/positions/2023/REG/receiving
+- pff_receiving: https://premium.pff.com/nfl/positions/2023/REG/receiving 
+- pff_man_zone: https://premium.pff.com/nfl/positions/2023/REG/receiving-scheme?minimum=1
 - pfr_fp: https://www.pro-football-reference.com/years/2023/fantasy.htm
 - pfr_rz_rec: https://www.pro-football-reference.com/years/2023/redzone-receiving.htm
 - pfr_rz_run: https://www.pro-football-reference.com/years/2024/redzone-rushing.htm
@@ -29,6 +29,8 @@ Final Data Sources
 - pff_short_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=short
 - pff_int_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=medium
 - pff_deep_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=deep
+- pff_ncaa_receiving: https://premium.pff.com/ncaa/positions/2023/REGPO/receiving?division=fbs&position=WR,TE,RB&customMinimum=1&minimum=5
+- pff_ncaa_passing: https://premium.pff.com/ncaa/positions/2024/REGPO/passing?division=fbs&position=QB&customMinimum=1&minimum=10
 
 
 Problems
