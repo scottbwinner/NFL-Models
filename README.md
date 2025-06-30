@@ -32,6 +32,7 @@ Final Data Sources
 - pff_ncaa_receiving: https://premium.pff.com/ncaa/positions/2023/REGPO/receiving?division=fbs&position=WR,TE,RB&customMinimum=1&minimum=5
 - pff_ncaa_passing: https://premium.pff.com/ncaa/positions/2024/REGPO/passing?division=fbs&position=QB&customMinimum=1&minimum=10
 - pff_screens: https://premium.pff.com/nfl/positions/2024/REG/receiving-concept?position=WR,TE,RB&split=screen&minimum=1
+- pff_blitz:  https://premium.pff.com/nfl/positions/2024/REG/passing-pressure?position=QB&split=blitz
 
 Problems
 1. Rookies
