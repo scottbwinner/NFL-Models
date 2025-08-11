@@ -1,0 +1,2162 @@
+Season,Player,Team,position_copy,Sleeper,AVG,draft_id,draft_slot,is_keeper,pick_no,picked_by,player_id,reactions,roster_id,round,name,position,team,years_experience,injury_status,pick_diff
+2021-22,Christian McCaffrey,SF,RB,1.0,1.0,7.261601181352632e+17,1.0,,1.0,Adam,4034,,7.0,1.0,Christian McCaffrey,RB,CAR,4.0,,0.0
+2021-22,Dalvin Cook,,RB,2.0,2.0,7.261601181352632e+17,3.0,,3.0,Scott,4029,,2.0,1.0,Dalvin Cook,RB,MIN,4.0,,-1.0
+2021-22,Alvin Kamara,NO,RB,3.0,3.0,7.261601181352632e+17,2.0,,2.0,Eric,4035,,6.0,1.0,Alvin Kamara,RB,NO,4.0,,1.0
+2021-22,Derrick Henry,BAL,RB,4.0,4.0,7.261601181352632e+17,4.0,,4.0,Ira,3198,,8.0,1.0,Derrick Henry,RB,TEN,5.0,,0.0
+2021-22,Ezekiel Elliott,,RB,5.0,5.8,7.261601181352632e+17,5.0,,5.0,Kiyan,3164,,10.0,1.0,Ezekiel Elliott,RB,DAL,5.0,,0.0
+2021-22,Davante Adams,LAR,WR,10.0,6.6,7.261601181352632e+17,7.0,,7.0,Logan,2133,,9.0,1.0,Davante Adams,WR,GB,7.0,,3.0
+2021-22,Travis Kelce,KC,TE,12.0,8.4,7.261601181352632e+17,8.0,,8.0,Nate,1466,,1.0,1.0,Travis Kelce,TE,KC,8.0,,4.0
+2021-22,Aaron Jones,MIN,RB,11.0,9.4,7.261601181352632e+17,6.0,,6.0,Trent,4199,,4.0,1.0,Aaron Jones,RB,GB,4.0,,5.0
+2021-22,Saquon Barkley,PHI,RB,7.0,9.6,7.261601181352632e+17,10.0,,10.0,James,4866,,5.0,1.0,Saquon Barkley,RB,NYG,3.0,Questionable,-3.0
+2021-22,Austin Ekeler,WAS,RB,13.0,10.4,7.261601181352632e+17,8.0,,13.0,Nate,4663,,1.0,2.0,Austin Ekeler,RB,LAC,4.0,,0.0
+2021-22,Jonathan Taylor,IND,RB,9.0,10.4,7.261601181352632e+17,10.0,,11.0,James,6813,,5.0,2.0,Jonathan Taylor,RB,IND,1.0,,-2.0
+2021-22,Nick Chubb,,RB,6.0,10.4,7.261601181352632e+17,9.0,,9.0,Zack,4988,,3.0,1.0,Nick Chubb,RB,CLE,3.0,,-3.0
+2021-22,Tyreek Hill,MIA,WR,8.0,10.6,7.261601181352632e+17,9.0,,12.0,Zack,3321,,3.0,2.0,Tyreek Hill,WR,KC,5.0,,-4.0
+2021-22,Stefon Diggs,NE,WR,15.0,14.0,7.261601181352632e+17,5.0,,16.0,Kiyan,2449,,10.0,2.0,Stefon Diggs,WR,BUF,6.0,Questionable,-1.0
+2021-22,Najee Harris,LAC,RB,16.0,15.6,7.261601181352632e+17,3.0,,18.0,Scott,7528,,2.0,2.0,Najee Harris,RB,PIT,0.0,,-2.0
+2021-22,DeAndre Hopkins,BAL,WR,17.0,17.2,7.261601181352632e+17,7.0,,14.0,Logan,1426,,9.0,2.0,DeAndre Hopkins,WR,ARI,8.0,Questionable,3.0
+2021-22,Antonio Gibson,NE,RB,21.0,17.6,7.261601181352632e+17,6.0,,15.0,Trent,6945,,4.0,2.0,Antonio Gibson,RB,WAS,1.0,,6.0
+2021-22,Patrick Mahomes,KC,QB,14.0,18.2,7.261601181352632e+17,7.0,,27.0,Logan,4046,,9.0,3.0,Patrick Mahomes,QB,KC,4.0,,-13.0
+2021-22,Calvin Ridley,TEN,WR,19.0,18.4,7.261601181352632e+17,1.0,,20.0,Adam,4981,,7.0,2.0,Calvin Ridley,WR,ATL,3.0,,-1.0
+2021-22,DK Metcalf,PIT,WR,18.0,18.8,7.261601181352632e+17,4.0,,17.0,Ira,5846,,8.0,2.0,DK Metcalf,WR,SEA,2.0,,1.0
+2021-22,Joe Mixon,HOU,RB,20.0,20.8,7.261601181352632e+17,2.0,,19.0,Eric,4018,,6.0,2.0,Joe Mixon,RB,CIN,4.0,,1.0
+2021-22,Darren Waller,,TE,26.0,22.4,7.261601181352632e+17,2.0,,22.0,Eric,2505,,6.0,3.0,Darren Waller,TE,LV,6.0,,4.0
+2021-22,Justin Jefferson,MIN,WR,23.0,23.4,7.261601181352632e+17,6.0,,26.0,Trent,6794,,4.0,3.0,Justin Jefferson,WR,MIN,1.0,Questionable,-3.0
+2021-22,A.J. Brown,PHI,WR,22.0,23.8,7.261601181352632e+17,4.0,,24.0,Ira,5859,,8.0,3.0,A.J. Brown,WR,TEN,2.0,Questionable,-2.0
+2021-22,Clyde Edwards-Helaire,NO,RB,25.0,24.2,7.261601181352632e+17,9.0,,32.0,Zack,6820,,3.0,4.0,Clyde Edwards-Helaire,RB,KC,1.0,Questionable,-7.0
+2021-22,George Kittle,SF,TE,24.0,26.8,7.261601181352632e+17,1.0,,21.0,Adam,4217,,7.0,3.0,George Kittle,TE,SF,4.0,,3.0
+2021-22,Keenan Allen,,WR,27.0,27.4,7.261601181352632e+17,8.0,,28.0,Nate,1479,,1.0,3.0,Keenan Allen,WR,LAC,8.0,,-1.0
+2021-22,Terry McLaurin,WAS,WR,29.0,29.6,7.261601181352632e+17,9.0,,29.0,Zack,5927,,3.0,3.0,Terry McLaurin,WR,WAS,2.0,,0.0
+2021-22,Josh Allen,BUF,QB,28.0,30.0,7.261601181352632e+17,2.0,,39.0,Eric,4984,,6.0,4.0,Josh Allen,QB,BUF,3.0,,-11.0
+2021-22,David Montgomery,DET,RB,35.0,30.2,7.261601181352632e+17,8.0,,33.0,Nate,5892,,1.0,4.0,David Montgomery,RB,CHI,2.0,,2.0
+2021-22,Allen Robinson,II,WR,31.0,32.0,7.261601181352632e+17,10.0,,30.0,James,1992,,5.0,3.0,Allen Robinson,WR,CHI,7.0,,1.0
+2021-22,Chris Carson,,RB,34.0,32.4,7.261601181352632e+17,3.0,,23.0,Scott,4273,,2.0,3.0,Chris Carson,RB,SEA,4.0,,11.0
+2021-22,CeeDee Lamb,DAL,WR,40.0,32.8,7.261601181352632e+17,6.0,,35.0,Trent,6786,,4.0,4.0,CeeDee Lamb,WR,DAL,1.0,,5.0
+2021-22,James Robinson,,RB,37.0,33.4,7.261601181352632e+17,5.0,,25.0,Kiyan,6955,,10.0,3.0,James Robinson,RB,JAX,1.0,,12.0
+2021-22,Mike Evans,TB,WR,32.0,35.4,7.261601181352632e+17,10.0,,31.0,James,2216,,5.0,4.0,Mike Evans,WR,TB,7.0,,1.0
+2021-22,Josh Jacobs,GB,RB,30.0,36.4,7.261601181352632e+17,7.0,,34.0,Logan,5850,,9.0,4.0,Josh Jacobs,RB,LV,2.0,,-4.0
+2021-22,D'Andre Swift,CHI,RB,33.0,36.8,7.261601181352632e+17,1.0,,40.0,Adam,6790,,7.0,4.0,D'Andre Swift,RB,DET,1.0,Questionable,-7.0
+2021-22,Miles Sanders,DAL,RB,39.0,38.2,7.261601181352632e+17,4.0,,44.0,Ira,6151,,8.0,5.0,Miles Sanders,RB,PHI,2.0,,-5.0
+2021-22,Robert Woods,PIT,WR,47.0,38.4,7.261601181352632e+17,3.0,,38.0,Scott,1352,,2.0,4.0,Robert Woods,WR,LAR,8.0,,9.0
+2021-22,Kyler Murray,ARI,QB,36.0,40.2,7.261601181352632e+17,4.0,,37.0,Ira,5849,,8.0,4.0,Kyler Murray,QB,ARI,2.0,,-1.0
+2021-22,Amari Cooper,,WR,42.0,41.2,7.261601181352632e+17,5.0,,36.0,Kiyan,2309,,10.0,4.0,Amari Cooper,WR,DAL,6.0,,6.0
+2021-22,Chris Godwin,TB,WR,44.0,42.4,7.261601181352632e+17,2.0,,42.0,Eric,4037,,6.0,5.0,Chris Godwin,WR,TB,4.0,,2.0
+2021-22,Lamar Jackson,BAL,QB,43.0,44.8,7.261601181352632e+17,10.0,,50.0,James,4881,,5.0,5.0,Lamar Jackson,QB,BAL,3.0,,-7.0
+2021-22,Cooper Kupp,SEA,WR,46.0,46.0,7.261601181352632e+17,6.0,,46.0,Trent,4039,,4.0,5.0,Cooper Kupp,WR,LAR,4.0,,0.0
+2021-22,Julio Jones,,WR,41.0,46.2,7.261601181352632e+17,8.0,,48.0,Nate,947,,1.0,5.0,Julio Jones,WR,TEN,10.0,Questionable,-7.0
+2021-22,Kyle Pitts,ATL,TE,38.0,47.0,7.261601181352632e+17,5.0,,45.0,Kiyan,7553,,10.0,5.0,Kyle Pitts,TE,ATL,0.0,,-7.0
+2021-22,Tyler Lockett,TEN,WR,52.0,49.2,7.261601181352632e+17,1.0,,41.0,Adam,2374,,7.0,5.0,Tyler Lockett,WR,SEA,6.0,Questionable,11.0
+2021-22,Myles Gaskin,,RB,56.0,49.8,7.261601181352632e+17,2.0,,59.0,Eric,5980,,6.0,6.0,Myles Gaskin,RB,MIA,2.0,,-3.0
+2021-22,Mark Andrews,BAL,TE,48.0,50.6,7.261601181352632e+17,7.0,,47.0,Logan,5012,,9.0,5.0,Mark Andrews,TE,BAL,3.0,,1.0
+2021-22,Adam Thielen,CAR,WR,51.0,50.6,7.261601181352632e+17,10.0,,51.0,James,1689,,5.0,6.0,Adam Thielen,WR,MIN,8.0,Questionable,0.0
+2021-22,Diontae Johnson,CLE,WR,60.0,51.8,7.261601181352632e+17,9.0,,52.0,Zack,5937,,3.0,6.0,Diontae Johnson,WR,PIT,2.0,,8.0
+2021-22,D.J. Moore,CHI,WR,50.0,53.4,7.261601181352632e+17,9.0,,49.0,Zack,4983,,3.0,5.0,D.J. Moore,WR,CAR,3.0,,1.0
+2021-22,Aaron Rodgers,,QB,57.0,54.4,7.261601181352632e+17,3.0,,78.0,Scott,96,,2.0,8.0,Aaron Rodgers,QB,GB,16.0,,-21.0
+2021-22,Russell Wilson,NYG,QB,49.0,55.6,7.261601181352632e+17,9.0,,69.0,Zack,1234,,3.0,7.0,Russell Wilson,QB,SEA,9.0,,-20.0
+2021-22,Dak Prescott,DAL,QB,59.0,56.0,7.261601181352632e+17,6.0,,55.0,Trent,3294,,4.0,6.0,Dak Prescott,QB,DAL,5.0,,4.0
+2021-22,Mike Davis,,RB,64.0,56.8,7.261601181352632e+17,8.0,,53.0,Nate,2431,,1.0,6.0,Mike Davis,RB,ATL,6.0,,11.0
+2021-22,Kareem Hunt,KC,RB,53.0,57.2,7.261601181352632e+17,7.0,,67.0,Logan,4098,,9.0,7.0,Kareem Hunt,RB,CLE,4.0,,-14.0
+2021-22,T.J. Hockenson,MIN,TE,55.0,58.2,7.261601181352632e+17,3.0,,63.0,Scott,5844,,2.0,7.0,T.J. Hockenson,TE,DET,2.0,Questionable,-8.0
+2021-22,Darrell Henderson,,RB,45.0,60.0,7.261601181352632e+17,1.0,,60.0,Adam,5916,,7.0,6.0,Darrell Henderson,RB,LAR,2.0,Questionable,-15.0
+2021-22,Javonte Williams,DAL,RB,62.0,60.6,7.261601181352632e+17,5.0,,65.0,Kiyan,7588,,10.0,7.0,Javonte Williams,RB,DEN,0.0,,-3.0
+2021-22,Brandon Aiyuk,SF,WR,61.0,60.8,7.261601181352632e+17,5.0,,56.0,Kiyan,6803,,10.0,6.0,Brandon Aiyuk,WR,SF,1.0,Questionable,5.0
+2021-22,Chase Edmonds,,RB,70.0,62.0,7.261601181352632e+17,4.0,,57.0,Ira,5000,,8.0,6.0,Chase Edmonds,RB,ARI,3.0,,13.0
+2021-22,Justin Herbert,LAC,QB,54.0,62.2,7.261601181352632e+17,8.0,,73.0,Nate,6797,,1.0,8.0,Justin Herbert,QB,LAC,1.0,,-19.0
+2021-22,Tee Higgins,CIN,WR,66.0,64.8,7.261601181352632e+17,3.0,,58.0,Scott,6801,,2.0,6.0,Tee Higgins,WR,CIN,1.0,,8.0
+2021-22,Gus Edwards,,RB,68.0,65.2,7.261601181352632e+17,3.0,,43.0,Scott,5248,,2.0,5.0,Gus Edwards,RB,BAL,3.0,,25.0
+2021-22,Odell Beckham,,WR,65.0,67.8,7.261601181352632e+17,5.0,,76.0,Kiyan,2078,,10.0,8.0,Odell Beckham,WR,CLE,7.0,Questionable,-11.0
+2021-22,Raheem Mostert,LV,RB,72.0,68.8,7.261601181352632e+17,10.0,,70.0,James,2749,,5.0,7.0,Raheem Mostert,RB,SF,6.0,,2.0
+2021-22,Chase Claypool,,WR,71.0,69.2,7.261601181352632e+17,7.0,,54.0,Logan,6886,,9.0,6.0,Chase Claypool,WR,PIT,1.0,,17.0
+2021-22,JuJu Smith-Schuster,KC,WR,69.0,70.8,7.261601181352632e+17,2.0,,79.0,Eric,4040,,6.0,8.0,JuJu Smith-Schuster,WR,PIT,4.0,,-10.0
+2021-22,Tom Brady,,QB,75.0,71.8,7.261601181352632e+17,5.0,,85.0,Kiyan,167,,10.0,9.0,Tom Brady,QB,TB,21.0,,-10.0
+2021-22,Damien Harris,,RB,88.0,72.0,7.261601181352632e+17,2.0,,62.0,Eric,5890,,6.0,7.0,Damien Harris,RB,NE,2.0,,26.0
+2021-22,Jerry Jeudy,CLE,WR,76.0,72.4,7.261601181352632e+17,1.0,,61.0,Adam,6783,,7.0,7.0,Jerry Jeudy,WR,DEN,1.0,,15.0
+2021-22,Ja'Marr Chase,CIN,WR,58.0,74.4,7.261601181352632e+17,6.0,,66.0,Trent,7564,,4.0,7.0,Ja'Marr Chase,WR,CIN,0.0,,-8.0
+2021-22,Kenny Golladay,,WR,67.0,74.8,7.261601181352632e+17,4.0,,64.0,Ira,4131,,8.0,7.0,Kenny Golladay,WR,NYG,4.0,Questionable,3.0
+2021-22,DeVonta Smith,PHI,WR,73.0,77.0,7.261601181352632e+17,8.0,,88.0,Nate,7525,,1.0,9.0,DeVonta Smith,WR,PHI,0.0,,-15.0
+2021-22,Robbie Chosen,,WR,80.0,77.4,,,,,,,,,,,,,,,
+2021-22,Michael Thomas,,WR,63.0,79.2,7.261601181352632e+17,8.0,,68.0,Nate,3199,,1.0,7.0,Michael Thomas,WR,NO,5.0,PUP,-5.0
+2021-22,Courtland Sutton,DEN,WR,81.0,79.6,7.261601181352632e+17,10.0,,71.0,James,5045,,5.0,8.0,Courtland Sutton,WR,DEN,3.0,,10.0
+2021-22,Melvin Gordon,III,RB,77.0,79.6,7.261601181352632e+17,4.0,,84.0,Ira,2320,,8.0,9.0,Melvin Gordon,RB,DEN,6.0,,-7.0
+2021-22,Logan Thomas,,TE,103.0,81.2,7.261601181352632e+17,9.0,,89.0,Zack,2251,,3.0,9.0,Logan Thomas,TE,WAS,7.0,,14.0
+2021-22,Noah Fant,SEA,TE,74.0,84.2,7.261601181352632e+17,2.0,,82.0,Eric,5857,,6.0,9.0,Noah Fant,TE,DEN,2.0,Questionable,-8.0
+2021-22,Leonard Fournette,,RB,78.0,86.4,7.261601181352632e+17,1.0,,101.0,Adam,3969,,7.0,11.0,Leonard Fournette,RB,TB,4.0,,-23.0
+2021-22,Trey Sermon,PIT,RB,82.0,87.2,7.261601181352632e+17,6.0,,75.0,Trent,7593,,4.0,8.0,Trey Sermon,RB,SF,0.0,,7.0
+2021-22,Deebo Samuel,WAS,WR,84.0,88.0,7.261601181352632e+17,4.0,,77.0,Ira,5872,,8.0,8.0,Deebo Samuel,WR,SF,2.0,,7.0
+2021-22,Matthew Stafford,LAR,QB,89.0,88.2,,,,,,,,,,,,,,,
+2021-22,Robert Tonyan,KC,TE,93.0,88.4,7.261601181352632e+17,7.0,,94.0,Logan,4602,,9.0,10.0,Robert Tonyan,TE,GB,4.0,,-1.0
+2021-22,Tyler Boyd,,WR,102.0,91.2,7.261601181352632e+17,7.0,,74.0,Logan,3225,,9.0,8.0,Tyler Boyd,WR,CIN,5.0,,28.0
+2021-22,Ronald Jones,II,RB,83.0,91.8,7.261601181352632e+17,8.0,,93.0,Nate,5052,,1.0,10.0,Ronald Jones,RB,TB,3.0,,-10.0
+2021-22,Laviska Shenault,BUF,WR,96.0,91.8,7.261601181352632e+17,9.0,,92.0,Zack,6814,,3.0,10.0,Laviska Shenault,WR,JAX,1.0,,4.0
+2021-22,Brandin Cooks,NO,WR,94.0,92.8,7.261601181352632e+17,3.0,,83.0,Scott,2197,,2.0,9.0,Brandin Cooks,WR,HOU,7.0,,11.0
+2021-22,Michael Carter,ARI,RB,95.0,93.4,7.261601181352632e+17,10.0,,91.0,James,7607,,5.0,10.0,Michael Carter,RB,NYJ,0.0,Questionable,4.0
+2021-22,Ryan Tannehill,,QB,98.0,93.4,7.261601181352632e+17,1.0,,81.0,Adam,1049,,7.0,9.0,Ryan Tannehill,QB,TEN,9.0,,17.0
+2021-22,Antonio Brown,,WR,97.0,94.6,7.261601181352632e+17,2.0,,102.0,Eric,536,,6.0,11.0,Antonio Brown,WR,TB,11.0,,-5.0
+2021-22,Corey Davis,,WR,105.0,95.6,7.261601181352632e+17,3.0,,98.0,Scott,4036,,2.0,10.0,Corey Davis,WR,NYJ,4.0,,7.0
+2021-22,Jalen Hurts,PHI,QB,107.0,97.0,7.261601181352632e+17,3.0,,138.0,Scott,6904,,2.0,14.0,Jalen Hurts,QB,PHI,1.0,,-31.0
+2021-22,Dallas Goedert,PHI,TE,85.0,99.2,7.261601181352632e+17,10.0,,90.0,James,5022,,5.0,9.0,Dallas Goedert,TE,PHI,3.0,,-5.0
+2021-22,James Conner,ARI,RB,101.0,100.8,7.261601181352632e+17,1.0,,121.0,Adam,4137,,7.0,13.0,James Conner,RB,ARI,4.0,,-20.0
+2021-22,DJ Chark Jr. ,,WR,79.0,102.0,,,,,,,,,,,,,,,
+2021-22,Jarvis Landry,,WR,91.0,103.4,7.261601181352632e+17,1.0,,100.0,Adam,1825,,7.0,10.0,Jarvis Landry,WR,CLE,7.0,,-9.0
+2021-22,Tampa Bay Buccaneers,DST,DS,92.0,105.4,7.261601181352632e+17,10.0,,110.0,James,TB,,5.0,11.0,Tampa Bay Buccaneers,DEF,TB,,,-18.0
+2021-22,AJ Dillon,PHI,RB,112.0,105.8,,,,,,,,,,,,,,,
+2021-22,Michael Pittman,IND,WR,111.0,106.4,7.261601181352632e+17,2.0,,99.0,Eric,6819,,6.0,10.0,Michael Pittman,WR,IND,1.0,,12.0
+2021-22,Kenyan Drake,,RB,104.0,106.4,7.261601181352632e+17,8.0,,113.0,Nate,3242,,1.0,12.0,Kenyan Drake,RB,LV,5.0,,-9.0
+2021-22,Zack Moss,CIN,RB,110.0,106.6,7.261601181352632e+17,10.0,,111.0,James,6845,,5.0,12.0,Zack Moss,RB,BUF,1.0,,-1.0
+2021-22,Jaylen Waddle,MIA,WR,87.0,107.4,7.261601181352632e+17,5.0,,96.0,Kiyan,7526,,10.0,10.0,Jaylen Waddle,WR,MIA,0.0,,-9.0
+2021-22,Los Angeles Rams,DST,DS,99.0,107.8,7.261601181352632e+17,4.0,,117.0,Ira,LAR,,8.0,12.0,Los Angeles Rams,DEF,LAR,,,-18.0
+2021-22,Will Fuller,V,WR,116.0,109.8,7.261601181352632e+17,6.0,,95.0,Trent,3157,,4.0,10.0,Will Fuller,WR,MIA,5.0,Sus,21.0
+2021-22,Mike Gesicki,CIN,TE,90.0,109.8,7.261601181352632e+17,4.0,,137.0,Ira,4993,,8.0,14.0,Mike Gesicki,TE,MIA,3.0,,-47.0
+2021-22,Pittsburgh Steelers,DST,DS,114.0,111.2,7.261601181352632e+17,2.0,,122.0,Eric,PIT,,6.0,13.0,Pittsburgh Steelers,DEF,PIT,,,-8.0
+2021-22,Joe Burrow,CIN,QB,113.0,111.2,,,,,,,,,,,,,,,
+2021-22,Tyler Higbee,LAR,TE,108.0,112.0,7.261601181352632e+17,6.0,,115.0,Trent,3271,,4.0,12.0,Tyler Higbee,TE,LAR,5.0,,-7.0
+2021-22,Devin Singletary,NYG,RB,117.0,112.4,7.261601181352632e+17,7.0,,87.0,Logan,6130,,9.0,9.0,Devin Singletary,RB,BUF,2.0,,30.0
+2021-22,Jamaal Williams,,RB,134.0,116.4,7.261601181352632e+17,9.0,,109.0,Zack,4149,,3.0,11.0,Jamaal Williams,RB,DET,4.0,,25.0
+2021-22,Sony Michel,,RB,151.0,117.8,7.261601181352632e+17,9.0,,112.0,Zack,4962,,3.0,12.0,Sony Michel,RB,LAR,3.0,,39.0
+2021-22,Michael Gallup,WAS,WR,122.0,118.0,7.261601181352632e+17,10.0,,131.0,James,5038,,5.0,14.0,Michael Gallup,WR,DAL,3.0,,-9.0
+2021-22,Curtis Samuel,BUF,WR,120.0,118.2,7.261601181352632e+17,3.0,,103.0,Scott,4082,,2.0,11.0,Curtis Samuel,WR,WAS,4.0,Questionable,17.0
+2021-22,Washington Commanders,DST,DS,109.0,120.0,7.261601181352632e+17,5.0,,105.0,Kiyan,WAS,,10.0,11.0,Washington Commanders,DEF,WAS,,,4.0
+2021-22,Marvin Jones,,WR,148.0,122.4,7.261601181352632e+17,7.0,,127.0,Logan,1067,,9.0,13.0,Marvin Jones,WR,JAX,9.0,Questionable,21.0
+2021-22,Marquez Callaway,,WR,130.0,123.0,7.261601181352632e+17,9.0,,129.0,Zack,6989,,3.0,13.0,Marquez Callaway,WR,NO,1.0,,1.0
+2021-22,Mike Williams,LAC,WR,115.0,123.0,7.261601181352632e+17,10.0,,130.0,James,4068,,5.0,13.0,Mike Williams,WR,LAC,4.0,,-15.0
+2021-22,Jonnu Smith,MIA,TE,142.0,123.0,,,,,,,,,,,,,,,
+2021-22,Hollywood Brown,KC,WR,118.0,123.2,7.261601181352632e+17,2.0,,119.0,Eric,5848,,6.0,12.0,Hollywood Brown,WR,BAL,2.0,,-1.0
+2021-22,Baltimore Ravens,DST,DS,106.0,123.8,7.261601181352632e+17,8.0,,133.0,Nate,BAL,,1.0,14.0,Baltimore Ravens,DEF,BAL,,,-27.0
+2021-22,Nyheim Hines,,RB,127.0,124.0,,,,,,,,,,,,,,,
+2021-22,Rob Gronkowski,,TE,86.0,125.6,7.261601181352632e+17,4.0,,97.0,Ira,515,,8.0,10.0,Rob Gronkowski,TE,TB,11.0,,-11.0
+2021-22,Harrison Butker,KC,K1,131.0,127.8,7.261601181352632e+17,5.0,,136.0,Kiyan,4227,,10.0,14.0,Harrison Butker,K,KC,4.0,,-5.0
+2021-22,Justin Tucker,,K2,129.0,127.8,7.261601181352632e+17,7.0,,114.0,Logan,1264,,9.0,12.0,Justin Tucker,K,BAL,9.0,,15.0
+2021-22,Trevor Lawrence,JAC,QB,100.0,128.0,7.261601181352632e+17,5.0,,116.0,Kiyan,7523,,10.0,12.0,Trevor Lawrence,QB,JAX,0.0,,-16.0
+2021-22,Darnell Mooney,ATL,WR,124.0,128.6,7.261601181352632e+17,4.0,,104.0,Ira,7090,,8.0,11.0,Darnell Mooney,WR,CHI,1.0,,20.0
+2021-22,Henry Ruggs III ,,WR,135.0,129.0,,,,,,,,,,,,,,,
+2021-22,David Johnson,,RB,121.0,129.8,7.261601181352632e+17,5.0,,125.0,Kiyan,2391,,10.0,13.0,David Johnson,RB,HOU,6.0,,-4.0
+2021-22,Tony Pollard,TEN,RB,144.0,132.6,7.261601181352632e+17,9.0,,132.0,Zack,5967,,3.0,14.0,Tony Pollard,RB,DAL,2.0,,12.0
+2021-22,Mecole Hardman Jr.,GB,WR,125.0,132.8,,,,,,,,,,,,,,,
+2021-22,DeVante Parker,,WR,149.0,134.2,,,,,,,,,,,,,,,
+2021-22,San Francisco 49ers,DST,DS,123.0,136.8,7.261601181352632e+17,6.0,,135.0,Trent,SF,,4.0,14.0,San Francisco 49ers,DEF,SF,,,-12.0
+2021-22,Baker Mayfield,TB,QB,126.0,138.6,,,,,,,,,,,,,,,
+2021-22,Buffalo Bills,DST,DS,119.0,139.0,7.261601181352632e+17,7.0,,107.0,Logan,BUF,,9.0,11.0,Buffalo Bills,DEF,BUF,,,12.0
+2021-22,J.D. McKissic,,RB,162.0,139.8,,,,,,,,,,,,,,,
+2021-22,Justin Fields,NYJ,QB,128.0,140.8,7.261601181352632e+17,8.0,,128.0,Nate,7591,,1.0,13.0,Justin Fields,QB,CHI,0.0,,0.0
+2021-22,Matt Ryan,,QB,158.0,141.8,,,,,,,,,,,,,,,
+2021-22,Younghoe Koo,ATL,K3,132.0,143.2,7.261601181352632e+17,3.0,,118.0,Scott,4666,,2.0,12.0,Younghoe Koo,K,ATL,4.0,,14.0
+2021-22,Cole Beasley,,WR,159.0,143.8,7.261601181352632e+17,7.0,,134.0,Logan,1144,,9.0,14.0,Cole Beasley,WR,BUF,9.0,,25.0
+2021-22,Jakobi Meyers,LV,WR,152.0,145.0,7.261601181352632e+17,2.0,,139.0,Eric,5947,,6.0,14.0,Jakobi Meyers,WR,NE,2.0,,13.0
+2021-22,Elijah Moore,BUF,WR,136.0,145.6,7.261601181352632e+17,6.0,,106.0,Trent,7596,,4.0,11.0,Elijah Moore,WR,NYJ,0.0,,30.0
+2021-22,Phillip Lindsay,,RB,143.0,146.2,,,,,,,,,,,,,,,
+2021-22,Russell Gage Jr.,SF,WR,155.0,148.8,,,,,,,,,,,,,,,
+2021-22,Trey Lance,LAC,QB,146.0,149.0,7.261601181352632e+17,1.0,,141.0,Adam,7610,,7.0,15.0,Trey Lance,QB,SF,0.0,Questionable,5.0
+2021-22,James White ,,RB,179.0,151.8,,,,,,,,,,,,,,,
+2021-22,Indianapolis Colts,DST,DS,150.0,151.8,,,,,,,,,,,,,,,
+2021-22,Hunter Henry,NE,TE,141.0,153.2,,,,,,,,,,,,,,,
+2021-22,Alexander Mattison,MIA,RB,170.0,154.2,,,,,,,,,,,,,,,
+2021-22,Tyler Bass,BUF,K4,133.0,155.0,7.261601181352632e+17,2.0,,142.0,Eric,7042,,6.0,15.0,Tyler Bass,K,BUF,1.0,,-9.0
+2021-22,Kirk Cousins,ATL,QB,163.0,157.8,,,,,,,,,,,,,,,
+2021-22,Tua Tagovailoa,MIA,QB,193.0,158.6,,,,,,,,,,,,,,,
+2021-22,New England Patriots,DST,DS,156.0,158.8,7.261601181352632e+17,3.0,,143.0,Scott,NE,,2.0,15.0,New England Patriots,DEF,NE,,,13.0
+2021-22,Evan Engram,DEN,TE,164.0,159.8,,,,,,,,,,,,,,,
+2021-22,Denver Broncos,DST,DS,138.0,163.2,7.261601181352632e+17,9.0,,149.0,Zack,DEN,,3.0,15.0,Denver Broncos,DEF,DEN,,,-11.0
+2021-22,Jason Sanders,MIA,K5,140.0,163.4,7.261601181352632e+17,1.0,,120.0,Adam,5119,,7.0,12.0,Jason Sanders,K,MIA,3.0,,20.0
+2021-22,Ben Roethlisberger,,QB,181.0,165.0,,,,,,,,,,,,,,,
+2021-22,Zach Ertz,WAS,TE,161.0,165.2,,,,,,,,,,,,,,,
+2021-22,Jared Cook,,TE,160.0,165.4,,,,,,,,,,,,,,,
+2021-22,Ryan Succop,,K6,139.0,165.8,,,,,,,,,,,,,,,
+2021-22,Tevin Coleman,,RB,185.0,167.8,,,,,,,,,,,,,,,
+2021-22,Jameis Winston,NYG,QB,175.0,168.2,,,,,,,,,,,,,,,
+2021-22,Rhamondre Stevenson,NE,RB,177.0,169.0,7.261601181352632e+17,5.0,,145.0,Kiyan,7611,,10.0,15.0,Rhamondre Stevenson,RB,NE,0.0,,32.0
+2021-22,Sterling Shepard,TB,WR,184.0,172.4,,,,,,,,,,,,,,,
+2021-22,Austin Hooper,NE,TE,166.0,174.2,,,,,,,,,,,,,,,
+2021-22,Cleveland Browns,DST,DS,137.0,174.4,7.261601181352632e+17,1.0,,140.0,Adam,CLE,,7.0,14.0,Cleveland Browns,DEF,CLE,,,-3.0
+2021-22,Giovani Bernard,,RB,192.0,174.4,,,,,,,,,,,,,,,
+2021-22,Nelson Agholor,,WR,167.0,176.2,,,,,,,,,,,,,,,
+2021-22,Chuba Hubbard,CAR,RB,154.0,176.6,,,,,,,,,,,,,,,
+2021-22,Mac Jones,SF,QB,176.0,177.0,,,,,,,,,,,,,,,
+2021-22,Rondale Moore,MIN,WR,165.0,177.0,7.261601181352632e+17,8.0,,108.0,Nate,7601,,1.0,11.0,Rondale Moore,WR,ARI,0.0,,57.0
+2021-22,Rodrigo Blankenship,,K7,145.0,177.6,7.261601181352632e+17,10.0,,150.0,James,7062,,5.0,15.0,Rodrigo Blankenship,K,IND,1.0,,-5.0
+2021-22,Greg Zuerlein,,K8,153.0,177.6,,,,,,,,,,,,,,,
+2021-22,Kenneth Gainwell,PIT,RB,195.0,177.8,,,,,,,,,,,,,,,
+2021-22,Gerald Everett,,TE,190.0,179.6,,,,,,,,,,,,,,,
+2021-22,Ryan Fitzpatrick ,,QB,197.0,182.8,,,,,,,,,,,,,,,
+2021-22,Daniel Carlson,LV,K9,202.0,183.6,,,,,,,,,,,,,,,
+2021-22,Kansas City Chiefs,DST,DS,178.0,186.4,,,,,,,,,,,,,,,
+2021-22,Derek Carr,,QB,213.0,186.4,,,,,,,,,,,,,,,
+2021-22,Jalen Reagor,LAC,WR,196.0,187.4,,,,,,,,,,,,,,,
+2021-22,Cole Kmet,CHI,TE,186.0,187.4,,,,,,,,,,,,,,,
+2021-22,Tyrell Williams,,WR,206.0,188.4,,,,,,,,,,,,,,,
+2021-22,New Orleans Saints,DST,DS,203.0,189.2,,,,,,,,,,,,,,,
+2021-22,Rashaad Penny,,RB,211.0,190.6,,,,,,,,,,,,,,,
+2021-22,Terrace Marshall Jr.,PHI,WR,183.0,191.0,,,,,,,,,,,,,,,
+2021-22,Miami Dolphins,DST,DS,182.0,191.6,,,,,,,,,,,,,,,
+2021-22,Zach Wilson,MIA,QB,194.0,192.4,,,,,,,,,,,,,,,
+2021-22,Jason Myers,SEA,K1,147.0,193.4,,,,,,,,,,,,,,,
+2021-22,Latavius Murray,,RB,169.0,194.2,,,,,,,,,,,,,,,
+2021-22,Mason Crosby,,K1,157.0,195.0,,,,,,,,,,,,,,,
+2021-22,Emmanuel Sanders,,WR,209.0,195.4,,,,,,,,,,,,,,,
+2021-22,A.J. Green,,WR,187.0,197.0,7.261601181352632e+17,8.0,,148.0,Nate,830,,1.0,15.0,A.J. Green,WR,ARI,10.0,,39.0
+2021-22,Ty'Son Williams,,RB,225.0,198.6,,,,,,,,,,,,,,,
+2021-22,Randall Cobb,,WR,174.0,199.6,,,,,,,,,,,,,,,
+2021-22,Gabe Davis,,WR,208.0,204.6,,,,,,,,,,,,,,,
+2021-22,Matt Prater,,K1,168.0,207.2,,,,,,,,,,,,,,,
+2021-22,Daniel Jones,IND,QB,221.0,207.2,,,,,,,,,,,,,,,
+2021-22,Green Bay Packers,DST,DS,229.0,207.4,,,,,,,,,,,,,,,
+2021-22,Bryan Edwards,,WR,191.0,207.4,7.261601181352632e+17,6.0,,126.0,Trent,6870,,4.0,13.0,Bryan Edwards,WR,LV,1.0,,65.0
+2021-22,Matt Gay,WAS,K1,,209.0,,,,,,,,,,,,,,,
+2021-22,Deshaun Watson,CLE,QB,171.0,209.2,,,,,,,,,,,,,,,
+2021-22,Pat Freiermuth,PIT,TE,180.0,210.4,,,,,,,,,,,,,,,
+2021-22,Sam Darnold,SEA,QB,216.0,212.0,,,,,,,,,,,,,,,
+2021-22,Darrel Williams,,RB,239.0,213.2,,,,,,,,,,,,,,,
+2021-22,Anthony Firkser,,TE,220.0,215.4,,,,,,,,,,,,,,,
+2021-22,Brandon McManus,GB,K1,,195.5,,,,,,,,,,,,,,,
+2021-22,Eric Ebron,,TE,212.0,217.2,,,,,,,,,,,,,,,
+2021-22,Blake Jarwin,,TE,218.0,219.0,,,,,,,,,,,,,,,
+2021-22,Amon-Ra St. Brown,DET,WR,189.0,198.5,,,,,,,,,,,,,,,
+2021-22,Mark Ingram,II,RB,234.0,221.6,,,,,,,,,,,,,,,
+2021-22,Seattle Seahawks,DST,DS,233.0,222.6,,,,,,,,,,,,,,,
+2021-22,Parris Campbell,DAL,WR,214.0,223.6,,,,,,,,,,,,,,,
+2021-22,Tarik Cohen,,RB,254.0,206.5,,,,,,,,,,,,,,,
+2021-22,Tony Jones Jr.,,RB,,207.0,,,,,,,,,,,,,,,
+2021-22,Chicago Bears,DST,DS,227.0,226.4,,,,,,,,,,,,,,,
+2021-22,Adam Trautman,DEN,TE,200.0,207.5,,,,,,,,,,,,,,,
+2021-22,Robbie Gould,,K1,188.0,227.8,,,,,,,,,,,,,,,
+2021-22,Christian Kirk,HOU,WR,219.0,209.3,,,,,,,,,,,,,,,
+2021-22,Jamison Crowder,,WR,222.0,228.2,,,,,,,,,,,,,,,
+2021-22,Ty Johnson,BUF,RB,232.0,210.5,,,,,,,,,,,,,,,
+2021-22,T.Y. Hilton,,WR,199.0,210.5,,,,,,,,,,,,,,,
+2021-22,Damien Williams,,RB,210.0,211.5,,,,,,,,,,,,,,,
+2021-22,Tennessee Titans,DST,DS,241.0,230.4,,,,,,,,,,,,,,,
+2021-22,Minnesota Vikings,DST,DS,201.0,232.4,,,,,,,,,,,,,,,
+2021-22,Carson Wentz,,QB,242.0,231.8,,,,,,,,,,,,,,,
+2021-22,Rashod Bateman,BAL,WR,173.0,214.3,,,,,,,,,,,,,,,
+2021-22,Tre'Quan Smith,,WR,215.0,215.8,,,,,,,,,,,,,,,
+2021-22,Malcolm Brown,,RB,246.0,218.3,,,,,,,,,,,,,,,
+2021-22,Marlon Mack,,RB,217.0,223.5,,,,,,,,,,,,,,,
+2021-22,Graham Gano,NYG,K1,,229.5,,,,,,,,,,,,,,,
+2021-22,Devontae Booker,,RB,198.0,200.0,7.261601181352632e+17,4.0,,144.0,Ira,3209,,8.0,15.0,Devontae Booker,RB,NYG,5.0,,54.0
+2021-22,Arizona Cardinals,DST,DS,,227.0,,,,,,,,,,,,,,,
+2021-22,Allen Lazard,NYJ,WR,244.0,227.8,,,,,,,,,,,,,,,
+2021-22,Wil Lutz,DEN,K1,247.0,204.3,,,,,,,,,,,,,,,
+2021-22,Los Angeles Chargers,DST,DS,230.0,245.6,,,,,,,,,,,,,,,
+2021-22,Marquez Valdes-Scantling,SEA,WR,205.0,230.0,,,,,,,,,,,,,,,
+2021-22,Carolina Panthers,DST,DS,226.0,245.8,,,,,,,,,,,,,,,
+2021-22,Le'Veon Bell,,RB,238.0,232.3,,,,,,,,,,,,,,,
+2021-22,Cam Newton,,QB,258.0,234.8,,,,,,,,,,,,,,,
+2021-22,Chris Boswell,PIT,K1,,239.5,,,,,,,,,,,,,,,
+2021-22,Jerick McKinnon,,RB,237.0,235.5,,,,,,,,,,,,,,,
+2021-22,Sammy Watkins,,WR,207.0,236.0,,,,,,,,,,,,,,,
+2021-22,Jared Goff,DET,QB,,238.0,,,,,,,,,,,,,,,
+2021-22,Boston Scott,,RB,204.0,238.8,,,,,,,,,,,,,,,
+2021-22,Cam Akers,,RB,,271.7,,,,,,,,,,,,,,,
+2021-22,O.J. Howard,,TE,243.0,254.8,,,,,,,,,,,,,,,
+2021-22,Kadarius Toney,,WR,224.0,243.8,,,,,,,,,,,,,,,
+2021-22,Todd Gurley,II,RB,,225.3,7.261601181352632e+17,7.0,,147.0,Logan,2315,,9.0,15.0,Todd Gurley,RB,,6.0,,
+2021-22,Teddy Bridgewater,,QB,,248.8,,,,,,,,,,,,,,,
+2021-22,Evan McPherson,CIN,K1,,248.8,,,,,,,,,,,,,,,
+2021-22,Carlos Hyde ,,RB,228.0,249.5,,,,,,,,,,,,,,,
+2021-22,Amari Rodgers,,WR,249.0,259.5,,,,,,,,,,,,,,,
+2021-22,Darrynton Evans,BUF,RB,260.0,238.0,,,,,,,,,,,,,,,
+2021-22,Nico Collins,HOU,WR,252.0,241.0,,,,,,,,,,,,,,,
+2021-22,Tim Tebow,,TE,223.0,244.3,,,,,,,,,,,,,,,
+2021-22,Benny Snell Jr.,,RB,,244.7,,,,,,,,,,,,,,,
+2021-22,Dallas Cowboys,DST,DS,,245.7,,,,,,,,,,,,,,,
+2021-22,Joshua Palmer,BUF,WR,235.0,246.0,,,,,,,,,,,,,,,
+2021-22,Hayden Hurst,,TE,,246.7,,,,,,,,,,,,,,,
+2021-22,Hunter Renfrow,CAR,WR,245.0,260.8,,,,,,,,,,,,,,,
+2021-22,Taysom Hill,NO,TE,,247.0,,,,,,,,,,,,,,,
+2021-22,Cordarrelle Patterson,PIT,RB,231.0,248.3,,,,,,,,,,,,,,,
+2021-22,Josh Lambo,,K2,,273.5,,,,,,,,,,,,,,,
+2021-22,Salvon Ahmed,IND,RB,255.0,250.3,,,,,,,,,,,,,,,
+2021-22,J.J. Taylor,HOU,RB,,251.3,,,,,,,,,,,,,,,
+2021-22,Justin Jackson,,RB,,235.0,,,,,,,,,,,,,,,
+2021-22,Cairo Santos,CHI,K2,,249.5,,,,,,,,,,,,,,,
+2021-22,Jimmy Graham,,TE,,260.3,,,,,,,,,,,,,,,
+2021-22,Donovan Peoples-Jones,NO,WR,236.0,271.3,,,,,,,,,,,,,,,
+2021-22,Jimmy Garoppolo,LAR,QB,,262.3,,,,,,,,,,,,,,,
+2021-22,Jordan Akins,,TE,,186.0,,,,,,,,,,,,,,,
+2021-22,John Brown,,WR,264.0,273.7,,,,,,,,,,,,,,,
+2021-22,New York Giants,DST,DS,,272.3,,,,,,,,,,,,,,,
+2021-22,Dustin Hopkins,CLE,K2,,286.3,,,,,,,,,,,,,,,
+2021-22,Giovanni Ricci,,TE,,200.0,,,,,,,,,,,,,,,
+2021-22,Dalton Schultz,HOU,TE,,269.0,,,,,,,,,,,,,,,
+2021-22,Wayne Gallman Jr.,,RB,,252.5,,,,,,,,,,,,,,,
+2021-22,Jeff Wilson Jr.,,RB,,252.5,,,,,,,,,,,,,,,
+2021-22,Javian Hawkins,TEN,RB,265.0,253.5,,,,,,,,,,,,,,,
+2021-22,Austin Seibert ,,K2,,211.0,,,,,,,,,,,,,,,
+2021-22,Chase McLaughlin,TB,K2,,284.0,,,,,,,,,,,,,,,
+2021-22,Juwan Johnson,NO,TE,,259.0,,,,,,,,,,,,,,,
+2021-22,Dawson Knox,BUF,TE,,274.0,,,,,,,,,,,,,,,
+2021-22,Michael Badgley,,K2,,280.5,,,,,,,,,,,,,,,
+2021-22,Philadelphia Eagles,DST,DS,,289.0,,,,,,,,,,,,,,,
+2021-22,Elijah Mitchell,KC,RB,,219.0,,,,,,,,,,,,,,,
+2021-22,Denzel Mims,,WR,,261.5,,,,,,,,,,,,,,,
+2021-22,Ka'imi Fairbairn,HOU,K2,,281.5,,,,,,,,,,,,,,,
+2021-22,Tyler Kroft,,TE,,265.0,,,,,,,,,,,,,,,
+2021-22,Sam Ficken,,K2,,229.0,,,,,,,,,,,,,,,
+2021-22,Byron Pringle,,WR,,267.0,,,,,,,,,,,,,,,
+2021-22,Jake Elliott,PHI,K2,,286.0,,,,,,,,,,,,,,,
+2021-22,Jacksonville Jaguars,DST,DS,,291.0,,,,,,,,,,,,,,,
+2021-22,DeSean Jackson,,WR,,280.3,,,,,,,,,,,,,,,
+2021-22,Anthony McFarland Jr.,,RB,,236.0,,,,,,,,,,,,,,,
+2021-22,Andy Dalton,CAR,QB,,238.0,,,,,,,,,,,,,,,
+2021-22,Joshua Kelley,,RB,,270.5,,,,,,,,,,,,,,,
+2021-22,Dan Arnold,,TE,,270.5,,,,,,,,,,,,,,,
+2021-22,Larry Rountree,III,RB,,271.0,,,,,,,,,,,,,,,
+2021-22,Jake Funk,,RB,,240.0,,,,,,,,,,,,,,,
+2021-22,Xavier Jones,,RB,240.0,347.0,,,,,,,,,,,,,,,
+2021-22,Las Vegas Raiders,DST,DS,,243.0,,,,,,,,,,,,,,,
+2021-22,Royce Freeman,,RB,,244.0,,,,,,,,,,,,,,,
+2021-22,Detrez Newsome,,RB,248.0,248.0,,,,,,,,,,,,,,,
+2021-22,Stephen Gostkowski,,K2,,249.0,,,,,,,,,,,,,,,
+2021-22,Paul McRoberts,,WR,250.0,250.0,,,,,,,,,,,,,,,
+2021-22,Jonathan Brown,,K3,251.0,251.0,,,,,,,,,,,,,,,
+2021-22,Jaret Patterson,LAC,RB,,277.0,,,,,,,,,,,,,,,
+2021-22,Nick Folk,,K3,,295.0,,,,,,,,,,,,,,,
+2021-22,Nick Tiano,,QB,253.0,253.0,,,,,,,,,,,,,,,
+2021-22,Joey Slye,TEN,K3,,300.0,,,,,,,,,,,,,,,
+2021-22,Demarcus Robinson,SF,WR,,278.5,,,,,,,,,,,,,,,
+2021-22,La'Mical Perine,,RB,,255.0,,,,,,,,,,,,,,,
+2021-22,Kent Taylor,,TE,256.0,256.0,,,,,,,,,,,,,,,
+2021-22,Anthony Miller,BAL,WR,,279.5,,,,,,,,,,,,,,,
+2021-22,Stevan Ridley,,RB,257.0,257.0,,,,,,,,,,,,,,,
+2021-22,Breshad Perriman,,WR,,257.0,,,,,,,,,,,,,,,
+2021-22,KJ Hamler,BUF,WR,,288.7,,,,,,,,,,,,,,,
+2021-22,Austin MacGinnis,,K3,,259.0,,,,,,,,,,,,,,,
+2021-22,Juwan Green,,WR,259.0,259.0,,,,,,,,,,,,,,,
+2021-22,Justice Hill,BAL,RB,,260.0,,,,,,,,,,,,,,,
+2021-22,Van Jefferson,TEN,WR,261.0,294.0,,,,,,,,,,,,,,,
+2021-22,Donald Parham Jr.,PIT,TE,,312.5,,,,,,,,,,,,,,,
+2021-22,Taywan Taylor,,WR,262.0,262.0,,,,,,,,,,,,,,,
+2021-22,Samaje Perine,CIN,RB,,282.5,,,,,,,,,,,,,,,
+2021-22,Tyler Davis,,WR,263.0,263.0,,,,,,,,,,,,,,,
+2021-22,David Njoku,CLE,TE,,324.0,,,,,,,,,,,,,,,
+2021-22,Josh Hammond,,WR,266.0,266.0,,,,,,,,,,,,,,,
+2021-22,Austin Traylor,,TE,267.0,267.0,,,,,,,,,,,,,,,
+2021-22,Brian Hill,,RB,,267.0,,,,,,,,,,,,,,,
+2021-22,Larry Fitzgerald,,WR,,268.0,,,,,,,,,,,,,,,
+2021-22,Jarvion Franklin,,RB,268.0,268.0,,,,,,,,,,,,,,,
+2021-22,Manasseh Bailey,,WR,269.0,269.0,,,,,,,,,,,,,,,
+2021-22,Chris Herndon,IV,TE,,292.0,,,,,,,,,,,,,,,
+2021-22,Alex Collins,,RB,,270.0,,,,,,,,,,,,,,,
+2021-22,Quinton Flowers,,QB,270.0,270.0,,,,,,,,,,,,,,,
+2021-22,Darius Slayton,NYG,WR,,286.5,,,,,,,,,,,,,,,
+2021-22,Darrin Hall,,RB,271.0,271.0,,,,,,,,,,,,,,,
+2021-22,Mekhi Sargent,,RB,,271.0,,,,,,,,,,,,,,,
+2021-22,Josh Adams,,RB,272.0,272.0,,,,,,,,,,,,,,,
+2021-22,Pooka Williams Jr.,,RB,,272.0,,,,,,,,,,,,,,,
+2021-22,Kyle Juszczyk,SF,RB,,353.5,,,,,,,,,,,,,,,
+2021-22,Qadree Ollison,,RB,,273.0,,,,,,,,,,,,,,,
+2021-22,Phillip Andersen,,K3,273.0,273.0,,,,,,,,,,,,,,,
+2021-22,Jamal Robinson,,WR,274.0,274.0,,,,,,,,,,,,,,,
+2021-22,Mike White,BUF,QB,275.0,275.0,,,,,,,,,,,,,,,
+2021-22,Jeremy Kerley,,WR,276.0,276.0,,,,,,,,,,,,,,,
+2021-22,Tyrod Taylor,NYJ,QB,,289.5,,,,,,,,,,,,,,,
+2021-22,Dalton Crossan,,RB,277.0,277.0,,,,,,,,,,,,,,,
+2021-22,Keke Coutee,,WR,,277.0,,,,,,,,,,,,,,,
+2021-22,JaMycal Hasty,,RB,,277.0,,,,,,,,,,,,,,,
+2021-22,Ralph Webb,,RB,278.0,278.0,,,,,,,,,,,,,,,
+2021-22,Mike Boone,,RB,,278.0,,,,,,,,,,,,,,,
+2021-22,Taylor Russolino,,K3,279.0,279.0,,,,,,,,,,,,,,,
+2021-22,Quez Watkins,ARI,WR,,291.0,,,,,,,,,,,,,,,
+2021-22,Detroit Lions,DST,DS,,321.0,,,,,,,,,,,,,,,
+2021-22,Brandon Wilds,,RB,280.0,280.0,,,,,,,,,,,,,,,
+2021-22,Chris Evans,,RB,,297.0,,,,,,,,,,,,,,,
+2021-22,Daniel Crawford,,TE,281.0,281.0,,,,,,,,,,,,,,,
+2021-22,Tyler Conklin,LAC,TE,,339.5,,,,,,,,,,,,,,,
+2021-22,Josh Reynolds,NYJ,WR,,302.5,,,,,,,,,,,,,,,
+2021-22,Atlanta Falcons,DST,DS,,314.0,,,,,,,,,,,,,,,
+2021-22,Randy Bullock,,K3,,326.5,,,,,,,,,,,,,,,
+2021-22,Dyami Brown,JAC,WR,,304.0,,,,,,,,,,,,,,,
+2021-22,Scotty Miller,PIT,WR,,296.0,,,,,,,,,,,,,,,
+2021-22,Adrian Peterson ,,RB,,349.5,,,,,,,,,,,,,,,
+2021-22,Cincinnati Bengals,DST,DS,,290.0,,,,,,,,,,,,,,,
+2021-22,C.J. Uzomah,,TE,,308.0,,,,,,,,,,,,,,,
+2021-22,Mo Alie-Cox,IND,TE,,291.0,,,,,,,,,,,,,,,
+2021-22,Kendrick Bourne,NE,WR,,320.5,,,,,,,,,,,,,,,
+2021-22,Houston Texans,DST,DS,,326.0,,,,,,,,,,,,,,,
+2021-22,Trace McSorley,,QB,,292.0,,,,,,,,,,,,,,,
+2021-22,New York Jets,DST,DS,,316.5,,,,,,,,,,,,,,,
+2021-22,Drew Lock,SEA,QB,,296.0,,,,,,,,,,,,,,,
+2021-22,Rashard Higgins,,WR,,313.5,,,,,,,,,,,,,,,
+2021-22,Jalen Richard,,RB,,297.0,,,,,,,,,,,,,,,
+2021-22,Eno Benjamin,,RB,,299.0,,,,,,,,,,,,,,,
+2021-22,Cody Parkey,,K3,,316.0,,,,,,,,,,,,,,,
+2021-22,Jack Doyle,,TE,,344.5,,,,,,,,,,,,,,,
+2021-22,Travis Fulgham,,WR,,302.0,,,,,,,,,,,,,,,
+2021-22,Olamide Zaccheaus,CHI,WR,,307.0,,,,,,,,,,,,,,,
+2021-22,Quintez Cephus,LAR,WR,,308.0,,,,,,,,,,,,,,,
+2021-22,Adam Humphries,,WR,,309.0,,,,,,,,,,,,,,,
+2021-22,Dee Eskridge,MIA,WR,,311.0,,,,,,,,,,,,,,,
+2021-22,Ke'Shawn Vaughn,,RB,,313.0,,,,,,,,,,,,,,,
+2021-22,Tim Patrick,DET,WR,,317.0,,,,,,,,,,,,,,,
+2021-22,Kalen Ballage,,RB,,318.0,,,,,,,,,,,,,,,
+2021-22,Chris Conley,,WR,,319.0,,,,,,,,,,,,,,,
+2021-22,De'Angelo Henderson Sr.,,RB,,322.0,,,,,,,,,,,,,,,
+2021-22,Deonte Harty,,WR,,325.0,,,,,,,,,,,,,,,
+2021-22,David Moore,CAR,WR,,329.0,,,,,,,,,,,,,,,
+2021-22,Kerryon Johnson,,RB,,334.0,,,,,,,,,,,,,,,
+2021-22,D'Onta Foreman,,RB,,335.0,,,,,,,,,,,,,,,
+2021-22,Ito Smith,,RB,,337.0,,,,,,,,,,,,,,,
+2021-22,Zach Pascal,NYG,WR,,341.0,,,,,,,,,,,,,,,
+2021-22,Ameer Abdullah,,RB,,343.0,,,,,,,,,,,,,,,
+2021-22,Devin Funchess,,WR,,349.0,,,,,,,,,,,,,,,
+2021-22,Keelan Cole Sr.,,WR,,351.0,,,,,,,,,,,,,,,
+2021-22,Marquise Goodwin,,WR,,352.0,,,,,,,,,,,,,,,
+2021-22,Jonathan Williams,,RB,,353.0,,,,,,,,,,,,,,,
+2021-22,Terry Godwin,,WR,,354.0,,,,,,,,,,,,,,,
+2021-22,Stephen Anderson,,TE,,355.0,,,,,,,,,,,,,,,
+2021-22,Case Cookus,,QB,,358.0,,,,,,,,,,,,,,,
+2021-22,Marcus Mariota,WAS,QB,,359.0,,,,,,,,,,,,,,,
+2021-22,Matt Breida,,RB,,360.0,,,,,,,,,,,,,,,
+2021-22,Tylan Wallace,BAL,WR,,362.0,,,,,,,,,,,,,,,
+2021-22,Antonio Gandy-Golden,,WR,,365.0,,,,,,,,,,,,,,,
+2021-22,James Washington,,WR,,366.0,,,,,,,,,,,,,,,
+2021-22,N'Keal Harry,,WR,,368.0,,,,,,,,,,,,,,,
+2021-22,Tucker McCann,,K3,,369.0,,,,,,,,,,,,,,,
+2021-22,Tutu Atwell,LAR,WR,,371.0,,,,,,,,,,,,,,,
+2021-22,Preston Williams,,WR,,372.0,,,,,,,,,,,,,,,
+2021-22,Jalen Guyton,,WR,,373.0,,,,,,,,,,,,,,,
+2021-22,Mohamed Sanu Sr.,,WR,,374.0,,,,,,,,,,,,,,,
+2021-22,Cam Sims,,WR,,375.0,,,,,,,,,,,,,,,
+2021-22,Shi Smith,,WR,,376.0,,,,,,,,,,,,,,,
+2021-22,Damiere Byrd,,WR,,377.0,,,,,,,,,,,,,,,
+2021-22,Mitchell Trubisky,BUF,QB,,378.0,,,,,,,,,,,,,,,
+2021-22,Albert Wilson,,WR,,379.0,,,,,,,,,,,,,,,
+2021-22,Sam Ehlinger,DEN,QB,,380.0,,,,,,,,,,,,,,,
+2021-22,Anthony Schwartz,,WR,,381.0,,,,,,,,,,,,,,,
+2021-22,Antonio Williams,,RB,,384.0,,,,,,,,,,,,,,,
+2021-22,Tyler Johnson,NYJ,WR,,385.0,,,,,,,,,,,,,,,
+2021-22,Antonio Callaway,,WR,,386.0,,,,,,,,,,,,,,,
+2021-22,Dez Fitzpatrick,LAC,WR,,387.0,,,,,,,,,,,,,,,
+2021-22,Jordan Love,GB,QB,,388.0,,,,,,,,,,,,,,,
+2021-22,Foster Moreau,NO,TE,,389.0,,,,,,,,,,,,,,,
+2021-22,Ty Montgomery,II,RB,,391.0,,,,,,,,,,,,,,,
+2021-22,James O'Shaughnessy,,TE,,392.0,,,,,,,,,,,,,,,
+2021-22,Tyron Billy-Johnson,,WR,,393.0,,,,,,,,,,,,,,,
+2021-22,Matt Ammendola,,K3,,394.0,,,,,,,,,,,,,,,
+2021-22,Jacob Eason,,QB,,395.0,,,,,,,,,,,,,,,
+2021-22,Jermar Jefferson,,RB,,396.0,,,,,,,,,,,,,,,
+2021-22,Jaylen Samuels,,RB,,397.0,,,,,,,,,,,,,,,
+2021-22,Colin Kaepernick,,QB,,399.0,,,,,,,,,,,,,,,
+2021-22,Ryan Santoso,,K4,,400.0,,,,,,,,,,,,,,,
+2021-22,Johnny Manziel,,QB,,401.0,,,,,,,,,,,,,,,
+2021-22,Albert Okwuegbunam Jr.,IND,TE,,402.0,,,,,,,,,,,,,,,
+2021-22,Ray Rice,,RB,,403.0,,,,,,,,,,,,,,,
+2021-22,Kylin Hill ,,RB,,404.0,,,,,,,,,,,,,,,
+2021-22,Greg Ward,,WR,,405.0,,,,,,,,,,,,,,,
+2021-22,Easop Winston Jr.,,WR,,406.0,,,,,,,,,,,,,,,
+2021-22,Michael Strachan,WAS,WR,,407.0,,,,,,,,,,,,,,,
+2021-22,Devin Smith,,WR,,408.0,,,,,,,,,,,,,,,
+2021-22,Riley Ridley,,WR,,409.0,,,,,,,,,,,,,,,
+2021-22,Aldrick Rosas,,K4,,411.0,,,,,,,,,,,,,,,
+2021-22,Dazz Newsome,,WR,,412.0,,,,,,,,,,,,,,,
+2021-22,Jody Fortson Jr. ,,TE,,413.0,,,,,,,,,,,,,,,
+2021-22,Dede Westbrook,,WR,,414.0,,,,,,,,,,,,,,,
+2021-22,Tony Romo,,QB,,415.0,,,,,,,,,,,,,,,
+2021-22,Andy Isabella,,WR,,416.0,,,,,,,,,,,,,,,
+2021-22,Zay Jones,ARI,WR,,417.0,,,,,,,,,,,,,,,
+2021-22,DeeJay Dallas,ARI,RB,,418.0,,,,,,,,,,,,,,,
+2021-22,Corey Clement,,RB,,419.0,,,,,,,,,,,,,,,
+2021-22,Demetric Felton Jr.,WAS,RB,,420.0,,,,,,,,,,,,,,,
+2021-22,Will Dissly,LAC,TE,,421.0,,,,,,,,,,,,,,,
+2021-22,Tom Kennedy,DET,WR,,422.0,,,,,,,,,,,,,,,
+2021-22,Kylen Granson,PHI,TE,,423.0,,,,,,,,,,,,,,,
+2021-22,Devin Duvernay,CHI,WR,,424.0,,,,,,,,,,,,,,,
+2021-22,Noah Gray,KC,TE,,425.0,,,,,,,,,,,,,,,
+2021-22,Gerrid Doaks,,RB,,426.0,,,,,,,,,,,,,,,
+2021-22,Simi Fehoko,ARI,WR,,427.0,,,,,,,,,,,,,,,
+2021-22,Damoun Patterson,,WR,,428.0,,,,,,,,,,,,,,,
+2021-22,Charlie Woerner,ATL,TE,,429.0,,,,,,,,,,,,,,,
+2021-22,Greg Joseph,SF,K4,,430.0,,,,,,,,,,,,,,,
+2021-22,Pharoh Cooper,,WR,,431.0,,,,,,,,,,,,,,,
+2021-22,Kyle Rudolph,,TE,,432.0,,,,,,,,,,,,,,,
+2021-22,Jeremy McNichols,WAS,RB,,433.0,,,,,,,,,,,,,,,
+2021-22,Brandon Dillon,,TE,,434.0,,,,,,,,,,,,,,,
+2021-22,Chad Beebe,,WR,,436.0,,,,,,,,,,,,,,,
+2021-22,Taylor Heinicke,LAC,QB,,437.0,,,,,,,,,,,,,,,
+2021-22,Trent Sherfield Sr.,DEN,WR,,438.0,,,,,,,,,,,,,,,
+2021-22,Davis Mills,HOU,QB,,439.0,,,,,,,,,,,,,,,
+2021-22,Durham Smythe,CHI,TE,,440.0,,,,,,,,,,,,,,,
+2021-22,Chad Henne,,QB,,441.0,,,,,,,,,,,,,,,
+2021-22,Eddy Pineiro,,K4,,442.0,,,,,,,,,,,,,,,
+2021-22,John Wolford,JAC,QB,,443.0,,,,,,,,,,,,,,,
+2021-22,Mike Glennon,,QB,,444.0,,,,,,,,,,,,,,,
+2021-22,Rex Burkhead,,RB,,445.0,,,,,,,,,,,,,,,
+2021-22,Willie Snead,IV,WR,,446.0,,,,,,,,,,,,,,,
+2021-22,Drew Sample,CIN,TE,,447.0,,,,,,,,,,,,,,,
+2021-22,Joe Flacco,CLE,QB,,448.0,,,,,,,,,,,,,,,
+2021-22,Jacoby Brissett,ARI,QB,,449.0,,,,,,,,,,,,,,,
+2021-22,Cornell Powell,,WR,,450.0,,,,,,,,,,,,,,,
+2021-22,Harrison Bryant,PHI,TE,,451.0,,,,,,,,,,,,,,,
+2021-22,Gardner Minshew II,KC,QB,,452.0,,,,,,,,,,,,,,,
+2021-22,Jacob Hollister,,TE,,453.0,,,,,,,,,,,,,,,
+2022-23,Jonathan Taylor,IND,RB,1.0,1.0,8.576664745196954e+17,1.0,,1.0,Scott,6813,,2.0,1.0,Jonathan Taylor,RB,IND,2.0,,0.0
+2022-23,Christian McCaffrey,SF,RB,2.0,2.0,8.576664745196954e+17,2.0,,2.0,Trent,4034,,4.0,1.0,Christian McCaffrey,RB,CAR,5.0,,0.0
+2022-23,Austin Ekeler,WAS,RB,4.0,3.8,8.576664745196954e+17,4.0,,4.0,Zack,4663,,3.0,1.0,Austin Ekeler,RB,LAC,5.0,,0.0
+2022-23,Cooper Kupp,SEA,WR,5.0,4.0,8.576664745196954e+17,7.0,,7.0,Nate,4039,,1.0,1.0,Cooper Kupp,WR,LAR,5.0,,-2.0
+2022-23,Derrick Henry,BAL,RB,3.0,5.3,8.576664745196954e+17,5.0,,5.0,James,3198,,5.0,1.0,Derrick Henry,RB,TEN,6.0,,-2.0
+2022-23,Justin Jefferson,MIN,WR,6.0,5.5,8.576664745196954e+17,3.0,,3.0,Kiyan,6794,,10.0,1.0,Justin Jefferson,WR,MIN,2.0,,3.0
+2022-23,Dalvin Cook,,RB,7.0,7.5,8.576664745196954e+17,8.0,,8.0,Devin,4029,,9.0,1.0,Dalvin Cook,RB,MIN,5.0,,-1.0
+2022-23,Najee Harris,LAC,RB,8.0,8.0,8.576664745196954e+17,6.0,,6.0,Eric,7528,,6.0,1.0,Najee Harris,RB,PIT,1.0,,2.0
+2022-23,Ja'Marr Chase,CIN,WR,9.0,8.3,8.576664745196954e+17,9.0,,9.0,Adam,7564,,7.0,1.0,Ja'Marr Chase,WR,CIN,1.0,,0.0
+2022-23,Joe Mixon,HOU,RB,10.0,10.3,8.576664745196954e+17,10.0,,10.0,Ira,4018,,8.0,1.0,Joe Mixon,RB,CIN,5.0,,0.0
+2022-23,Davante Adams,LAR,WR,12.0,12.3,8.576664745196954e+17,9.0,,12.0,Adam,2133,,7.0,2.0,Davante Adams,WR,LV,8.0,,0.0
+2022-23,Stefon Diggs,NE,WR,11.0,12.5,8.576664745196954e+17,7.0,,14.0,Nate,2449,,1.0,2.0,Stefon Diggs,WR,BUF,7.0,,-3.0
+2022-23,Alvin Kamara,NO,RB,15.0,13.3,8.576664745196954e+17,6.0,,15.0,Eric,4035,,6.0,2.0,Alvin Kamara,RB,NO,5.0,,0.0
+2022-23,Travis Kelce,KC,TE,13.0,15.0,8.576664745196954e+17,10.0,,11.0,Ira,1466,,8.0,2.0,Travis Kelce,TE,KC,9.0,,2.0
+2022-23,D'Andre Swift,CHI,RB,14.0,15.5,8.576664745196954e+17,8.0,,13.0,Devin,6790,,9.0,2.0,D'Andre Swift,RB,DET,2.0,,1.0
+2022-23,Deebo Samuel,WAS,WR,21.0,17.0,8.576664745196954e+17,1.0,,20.0,Scott,5872,,2.0,2.0,Deebo Samuel,WR,SF,3.0,Questionable,1.0
+2022-23,Aaron Jones,MIN,RB,18.0,19.5,8.576664745196954e+17,4.0,,17.0,Zack,4199,,3.0,2.0,Aaron Jones,RB,GB,5.0,,1.0
+2022-23,CeeDee Lamb,DAL,WR,17.0,19.5,8.576664745196954e+17,2.0,,19.0,Trent,6786,,4.0,2.0,CeeDee Lamb,WR,DAL,2.0,Questionable,-2.0
+2022-23,Tyreek Hill,MIA,WR,20.0,19.8,8.576664745196954e+17,1.0,,21.0,Scott,3321,,2.0,3.0,Tyreek Hill,WR,MIA,6.0,,-1.0
+2022-23,Nick Chubb,,RB,16.0,20.0,8.576664745196954e+17,5.0,,16.0,James,4988,,5.0,2.0,Nick Chubb,RB,CLE,4.0,,0.0
+2022-23,Saquon Barkley,PHI,RB,19.0,20.3,8.576664745196954e+17,3.0,,18.0,Kiyan,4866,,10.0,2.0,Saquon Barkley,RB,NYG,4.0,,1.0
+2022-23,Josh Allen,BUF,QB,22.0,20.8,8.576664745196954e+17,7.0,,27.0,Nate,4984,,1.0,3.0,Josh Allen,QB,BUF,4.0,,-5.0
+2022-23,Mark Andrews,BAL,TE,23.0,21.8,8.576664745196954e+17,3.0,,23.0,Kiyan,5012,,10.0,3.0,Mark Andrews,TE,BAL,4.0,,0.0
+2022-23,Leonard Fournette,,RB,25.0,22.0,8.576664745196954e+17,9.0,,29.0,Adam,3969,,7.0,3.0,Leonard Fournette,RB,TB,5.0,,-4.0
+2022-23,Javonte Williams,DAL,RB,24.0,22.8,8.576664745196954e+17,9.0,,32.0,Adam,7588,,7.0,4.0,Javonte Williams,RB,DEN,1.0,,-8.0
+2022-23,Mike Evans,TB,WR,26.0,26.8,8.576664745196954e+17,5.0,,25.0,James,2216,,5.0,3.0,Mike Evans,WR,TB,8.0,,1.0
+2022-23,Keenan Allen,,WR,27.0,28.3,8.576664745196954e+17,4.0,,24.0,Zack,1479,,3.0,3.0,Keenan Allen,WR,LAC,9.0,,3.0
+2022-23,James Conner,ARI,RB,30.0,29.3,8.576664745196954e+17,10.0,,30.0,Ira,4137,,8.0,3.0,James Conner,RB,ARI,5.0,,0.0
+2022-23,Patrick Mahomes,KC,QB,32.0,29.8,8.576664745196954e+17,8.0,,48.0,Devin,4046,,9.0,5.0,Patrick Mahomes,QB,KC,5.0,,-16.0
+2022-23,Ezekiel Elliott,,RB,29.0,30.3,8.576664745196954e+17,7.0,,34.0,Nate,3164,,1.0,4.0,Ezekiel Elliott,RB,DAL,6.0,,-5.0
+2022-23,A.J. Brown,PHI,WR,28.0,30.8,8.576664745196954e+17,2.0,,22.0,Trent,5859,,4.0,3.0,A.J. Brown,WR,PHI,3.0,,6.0
+2022-23,Kyle Pitts,ATL,TE,31.0,32.8,8.576664745196954e+17,8.0,,33.0,Devin,7553,,9.0,4.0,Kyle Pitts,TE,ATL,1.0,,-2.0
+2022-23,Michael Pittman,IND,WR,35.0,33.5,8.576664745196954e+17,6.0,,26.0,Eric,6819,,6.0,3.0,Michael Pittman,WR,IND,2.0,,9.0
+2022-23,Tee Higgins,CIN,WR,33.0,33.8,8.576664745196954e+17,8.0,,28.0,Devin,6801,,9.0,3.0,Tee Higgins,WR,CIN,2.0,Questionable,5.0
+2022-23,Justin Herbert,LAC,QB,34.0,34.5,8.576664745196954e+17,6.0,,35.0,Eric,6797,,6.0,4.0,Justin Herbert,QB,LAC,2.0,,-1.0
+2022-23,David Montgomery,DET,RB,40.0,36.5,8.576664745196954e+17,4.0,,44.0,Zack,5892,,3.0,5.0,David Montgomery,RB,CHI,3.0,,-4.0
+2022-23,Cam Akers,,RB,37.0,39.8,8.576664745196954e+17,2.0,,39.0,Trent,6938,,4.0,4.0,Cam Akers,RB,LAR,2.0,,-2.0
+2022-23,George Kittle,SF,TE,36.0,39.8,8.576664745196954e+17,5.0,,45.0,James,4217,,5.0,5.0,George Kittle,TE,SF,5.0,,-9.0
+2022-23,Travis Etienne,JAC,RB,39.0,40.5,8.576664745196954e+17,3.0,,38.0,Kiyan,7543,,10.0,4.0,Travis Etienne,RB,JAX,1.0,,1.0
+2022-23,Terry McLaurin,WAS,WR,38.0,41.0,8.576664745196954e+17,10.0,,31.0,Ira,5927,,8.0,4.0,Terry McLaurin,WR,WAS,3.0,,7.0
+2022-23,Lamar Jackson,BAL,QB,43.0,43.5,8.576664745196954e+17,3.0,,43.0,Kiyan,4881,,10.0,5.0,Lamar Jackson,QB,BAL,4.0,,0.0
+2022-23,D.J. Moore,CHI,WR,42.0,43.8,,,,,,,,,,,,,,,
+2022-23,Diontae Johnson,CLE,WR,45.0,43.8,8.576664745196954e+17,1.0,,40.0,Scott,5937,,2.0,4.0,Diontae Johnson,WR,PIT,3.0,Questionable,5.0
+2022-23,Darren Waller,,TE,41.0,44.8,8.576664745196954e+17,9.0,,49.0,Adam,2505,,7.0,5.0,Darren Waller,TE,LV,7.0,Questionable,-8.0
+2022-23,Mike Williams,LAC,WR,50.0,46.0,8.576664745196954e+17,6.0,,46.0,Eric,4068,,6.0,5.0,Mike Williams,WR,LAC,5.0,,4.0
+2022-23,Jaylen Waddle,MIA,WR,44.0,47.3,8.576664745196954e+17,1.0,,41.0,Scott,7526,,2.0,5.0,Jaylen Waddle,WR,MIA,1.0,Questionable,3.0
+2022-23,DK Metcalf,PIT,WR,48.0,48.3,8.576664745196954e+17,7.0,,47.0,Nate,5846,,1.0,5.0,DK Metcalf,WR,SEA,3.0,,1.0
+2022-23,Josh Jacobs,GB,RB,49.0,49.5,8.576664745196954e+17,9.0,,69.0,Adam,5850,,7.0,7.0,Josh Jacobs,RB,LV,3.0,,-20.0
+2022-23,Elijah Mitchell,KC,RB,58.0,52.0,8.576664745196954e+17,10.0,,51.0,Ira,7561,,8.0,6.0,Elijah Mitchell,RB,SF,1.0,Questionable,7.0
+2022-23,J.K. Dobbins,,RB,54.0,52.0,8.576664745196954e+17,6.0,,55.0,Eric,6806,,6.0,6.0,J.K. Dobbins,RB,BAL,2.0,Questionable,-1.0
+2022-23,Breece Hall,NYJ,RB,46.0,52.3,8.576664745196954e+17,2.0,,42.0,Trent,8155,,4.0,5.0,Breece Hall,RB,NYJ,0.0,,4.0
+2022-23,Kyler Murray,ARI,QB,53.0,53.8,8.576664745196954e+17,4.0,,64.0,Zack,5849,,3.0,7.0,Kyler Murray,QB,ARI,3.0,,-11.0
+2022-23,Jalen Hurts,PHI,QB,62.0,55.3,8.576664745196954e+17,2.0,,59.0,Trent,6904,,4.0,6.0,Jalen Hurts,QB,PHI,2.0,,3.0
+2022-23,Brandin Cooks,NO,WR,61.0,56.0,8.576664745196954e+17,8.0,,53.0,Devin,2197,,9.0,6.0,Brandin Cooks,WR,HOU,8.0,,8.0
+2022-23,Dalton Schultz,HOU,TE,55.0,57.3,8.576664745196954e+17,7.0,,54.0,Nate,5001,,1.0,6.0,Dalton Schultz,TE,DAL,4.0,,1.0
+2022-23,Courtland Sutton,DEN,WR,47.0,58.0,8.576664745196954e+17,5.0,,36.0,James,5045,,5.0,4.0,Courtland Sutton,WR,DEN,4.0,,11.0
+2022-23,Joe Burrow,CIN,QB,52.0,60.3,8.576664745196954e+17,10.0,,50.0,Ira,6770,,8.0,5.0,Joe Burrow,QB,CIN,2.0,Questionable,2.0
+2022-23,Hollywood Brown,KC,WR,60.0,61.5,8.576664745196954e+17,5.0,,65.0,James,5848,,5.0,7.0,Hollywood Brown,WR,ARI,3.0,,-5.0
+2022-23,Chris Godwin,TB,WR,65.0,61.8,8.576664745196954e+17,1.0,,61.0,Scott,4037,,2.0,7.0,Chris Godwin,WR,TB,5.0,Questionable,4.0
+2022-23,Allen Robinson II ,,WR,57.0,62.8,,,,,,,,,,,,,,,
+2022-23,Amon-Ra St. Brown,DET,WR,68.0,63.5,8.576664745196954e+17,3.0,,63.0,Kiyan,7547,,10.0,7.0,Amon-Ra St. Brown,WR,DET,1.0,,5.0
+2022-23,Clyde Edwards-Helaire,NO,RB,67.0,64.0,8.576664745196954e+17,7.0,,74.0,Nate,6820,,1.0,8.0,Clyde Edwards-Helaire,RB,KC,2.0,,-7.0
+2022-23,Antonio Gibson,NE,RB,56.0,64.8,8.576664745196954e+17,3.0,,83.0,Kiyan,6945,,10.0,9.0,Antonio Gibson,RB,WAS,2.0,,-27.0
+2022-23,Jerry Jeudy,CLE,WR,51.0,65.8,8.576664745196954e+17,4.0,,57.0,Zack,6783,,3.0,6.0,Jerry Jeudy,WR,DEN,2.0,,-6.0
+2022-23,T.J. Hockenson,MIN,TE,64.0,65.8,8.576664745196954e+17,6.0,,75.0,Eric,5844,,6.0,8.0,T.J. Hockenson,TE,DET,3.0,,-11.0
+2022-23,Gabe Davis,,WR,75.0,67.3,8.576664745196954e+17,8.0,,73.0,Devin,6943,,9.0,8.0,Gabe Davis,WR,BUF,2.0,,2.0
+2022-23,AJ Dillon,PHI,RB,63.0,67.8,8.576664745196954e+17,1.0,,60.0,Scott,6828,,2.0,6.0,AJ Dillon,RB,GB,2.0,,3.0
+2022-23,Amari Cooper,,WR,59.0,67.8,8.576664745196954e+17,10.0,,70.0,Ira,2309,,8.0,7.0,Amari Cooper,WR,CLE,7.0,,-11.0
+2022-23,Dallas Goedert,PHI,TE,71.0,70.5,8.576664745196954e+17,4.0,,97.0,Zack,5022,,3.0,10.0,Dallas Goedert,TE,PHI,4.0,,-26.0
+2022-23,Tom Brady,,QB,74.0,72.0,8.576664745196954e+17,1.0,,100.0,Scott,167,,2.0,10.0,Tom Brady,QB,TB,22.0,,-26.0
+2022-23,Adam Thielen,CAR,WR,70.0,73.3,8.576664745196954e+17,7.0,,67.0,Nate,1689,,1.0,7.0,Adam Thielen,WR,MIN,9.0,,3.0
+2022-23,Darnell Mooney,ATL,WR,73.0,73.5,8.576664745196954e+17,6.0,,66.0,Eric,7090,,6.0,7.0,Darnell Mooney,WR,CHI,2.0,,7.0
+2022-23,JuJu Smith-Schuster,KC,WR,69.0,74.3,8.576664745196954e+17,9.0,,52.0,Adam,4040,,7.0,6.0,JuJu Smith-Schuster,WR,KC,5.0,,17.0
+2022-23,Russell Wilson,NYG,QB,72.0,77.5,8.576664745196954e+17,5.0,,56.0,James,1234,,5.0,6.0,Russell Wilson,QB,DEN,10.0,,16.0
+2022-23,Michael Thomas,,WR,66.0,80.0,8.576664745196954e+17,3.0,,58.0,Kiyan,3199,,10.0,6.0,Michael Thomas,WR,NO,6.0,Questionable,8.0
+2022-23,Aaron Rodgers,,QB,90.0,80.3,8.576664745196954e+17,3.0,,103.0,Kiyan,96,,10.0,11.0,Aaron Rodgers,QB,GB,17.0,,-13.0
+2022-23,Dak Prescott,DAL,QB,91.0,82.0,8.576664745196954e+17,9.0,,112.0,Adam,3294,,7.0,12.0,Dak Prescott,QB,DAL,6.0,,-21.0
+2022-23,Devin Singletary,NYG,RB,89.0,82.5,8.576664745196954e+17,10.0,,111.0,Ira,6130,,8.0,12.0,Devin Singletary,RB,BUF,3.0,,-22.0
+2022-23,Hunter Renfrow,CAR,WR,82.0,83.3,8.576664745196954e+17,10.0,,71.0,Ira,5955,,8.0,8.0,Hunter Renfrow,WR,LV,3.0,,11.0
+2022-23,DeAndre Hopkins,BAL,WR,77.0,83.3,8.576664745196954e+17,3.0,,78.0,Kiyan,1426,,10.0,8.0,DeAndre Hopkins,WR,ARI,9.0,Sus,-1.0
+2022-23,Dameon Pierce,HU,RB,96.0,83.5,8.576664745196954e+17,9.0,,72.0,Adam,8129,,7.0,8.0,Dameon Pierce,RB,HOU,0.0,,24.0
+2022-23,Damien Harris,,RB,79.0,83.8,8.576664745196954e+17,4.0,,84.0,Zack,5890,,3.0,9.0,Damien Harris,RB,NE,3.0,,-5.0
+2022-23,Miles Sanders,DAL,RB,78.0,84.5,8.576664745196954e+17,3.0,,98.0,Kiyan,6151,,10.0,10.0,Miles Sanders,RB,PHI,3.0,Questionable,-20.0
+2022-23,Kareem Hunt,KC,RB,80.0,85.3,8.576664745196954e+17,1.0,,80.0,Scott,4098,,2.0,8.0,Kareem Hunt,RB,CLE,5.0,,0.0
+2022-23,Cordarrelle Patterson,PIT,RB,81.0,85.8,8.576664745196954e+17,5.0,,76.0,James,1535,,5.0,8.0,Cordarrelle Patterson,RB,ATL,9.0,,5.0
+2022-23,Tony Pollard,TEN,RB,84.0,86.0,8.576664745196954e+17,6.0,,86.0,Eric,5967,,6.0,9.0,Tony Pollard,RB,DAL,3.0,,-2.0
+2022-23,Chase Edmonds,,RB,87.0,86.8,8.576664745196954e+17,2.0,,82.0,Trent,5000,,4.0,9.0,Chase Edmonds,RB,MIA,4.0,,5.0
+2022-23,Rashaad Penny,,RB,95.0,87.0,8.576664745196954e+17,1.0,,81.0,Scott,4985,,2.0,9.0,Rashaad Penny,RB,SEA,4.0,,14.0
+2022-23,Rashod Bateman,BAL,WR,76.0,88.5,8.576664745196954e+17,8.0,,68.0,Devin,7571,,9.0,7.0,Rashod Bateman,WR,BAL,1.0,,8.0
+2022-23,Zach Ertz,WAS,TE,83.0,88.8,8.576664745196954e+17,2.0,,99.0,Trent,1339,,4.0,10.0,Zach Ertz,TE,ARI,9.0,Questionable,-16.0
+2022-23,Dawson Knox,BUF,TE,85.0,90.0,8.576664745196954e+17,1.0,,101.0,Scott,5906,,2.0,11.0,Dawson Knox,TE,BUF,3.0,,-16.0
+2022-23,Elijah Moore,BUF,WR,92.0,90.0,8.576664745196954e+17,2.0,,79.0,Trent,7596,,4.0,8.0,Elijah Moore,WR,NYJ,1.0,,13.0
+2022-23,DeVonta Smith,PHI,WR,86.0,90.3,8.576664745196954e+17,4.0,,77.0,Zack,7525,,3.0,8.0,DeVonta Smith,WR,PHI,1.0,,9.0
+2022-23,Buffalo Bills,DST,DS,94.0,92.0,8.576664745196954e+17,6.0,,106.0,Eric,BUF,,6.0,11.0,Buffalo Bills,DEF,BUF,,,-12.0
+2022-23,Matthew Stafford,LAR,QB,100.0,92.0,8.576664745196954e+17,9.0,,109.0,Adam,421,,7.0,11.0,Matthew Stafford,QB,LAR,13.0,,-9.0
+2022-23,Tyler Lockett,TEN,WR,99.0,96.5,8.576664745196954e+17,10.0,,90.0,Ira,2374,,8.0,9.0,Tyler Lockett,WR,SEA,7.0,,9.0
+2022-23,Brandon Aiyuk,SF,WR,98.0,98.0,8.576664745196954e+17,8.0,,93.0,Devin,6803,,9.0,10.0,Brandon Aiyuk,WR,SF,2.0,,5.0
+2022-23,Drake London,ATL,WR,88.0,98.5,8.576664745196954e+17,7.0,,87.0,Nate,8112,,1.0,9.0,Drake London,WR,ATL,0.0,Questionable,1.0
+2022-23,Rhamondre Stevenson,NE,RB,101.0,100.0,8.576664745196954e+17,8.0,,88.0,Devin,7611,,9.0,9.0,Rhamondre Stevenson,RB,NE,1.0,,13.0
+2022-23,Christian Kirk,HOU,WR,105.0,100.3,8.576664745196954e+17,6.0,,95.0,Eric,4950,,6.0,10.0,Christian Kirk,WR,JAX,4.0,,10.0
+2022-23,Trey Lance,LAC,QB,107.0,101.5,8.576664745196954e+17,2.0,,102.0,Trent,7610,,4.0,11.0,Trey Lance,QB,SF,1.0,,5.0
+2022-23,Robert Woods,PIT,WR,110.0,103.0,8.576664745196954e+17,7.0,,94.0,Nate,1352,,1.0,10.0,Robert Woods,WR,TEN,9.0,,16.0
+2022-23,Allen Lazard,NYJ,WR,93.0,104.5,8.576664745196954e+17,9.0,,89.0,Adam,5185,,7.0,9.0,Allen Lazard,WR,GB,4.0,Questionable,4.0
+2022-23,Justin Tucker,,K1,132.0,105.5,8.576664745196954e+17,10.0,,130.0,Ira,1264,,8.0,13.0,Justin Tucker,K,BAL,10.0,,2.0
+2022-23,Melvin Gordon,III,RB,109.0,107.5,8.576664745196954e+17,5.0,,105.0,James,2320,,5.0,11.0,Melvin Gordon,RB,DEN,7.0,,4.0
+2022-23,Pat Freiermuth,PIT,TE,104.0,108.5,8.576664745196954e+17,1.0,,121.0,Scott,7600,,2.0,13.0,Pat Freiermuth,TE,PIT,1.0,,-17.0
+2022-23,Chris Olave,NO,WR,102.0,110.8,8.576664745196954e+17,10.0,,91.0,Ira,8144,,8.0,10.0,Chris Olave,WR,NO,0.0,,11.0
+2022-23,Tampa Bay Buccaneers,DST,DS,112.0,112.3,8.576664745196954e+17,8.0,,108.0,Devin,TB,,9.0,11.0,Tampa Bay Buccaneers,DEF,TB,,,4.0
+2022-23,Derek Carr,,QB,115.0,113.3,8.576664745196954e+17,10.0,,131.0,Ira,2028,,8.0,14.0,Derek Carr,QB,LV,8.0,,-16.0
+2022-23,Kenneth Walker,SEA,RB,97.0,116.0,8.576664745196954e+17,5.0,,85.0,James,8151,,5.0,9.0,Kenneth Walker,RB,SEA,0.0,Questionable,12.0
+2022-23,Chase Claypool,,WR,114.0,116.3,8.576664745196954e+17,7.0,,114.0,Nate,6886,,1.0,12.0,Chase Claypool,WR,PIT,2.0,,0.0
+2022-23,James Robinson,,RB,123.0,117.0,8.576664745196954e+17,7.0,,107.0,Nate,6955,,1.0,11.0,James Robinson,RB,JAX,2.0,Questionable,16.0
+2022-23,Michael Carter,ARI,RB,119.0,117.0,8.576664745196954e+17,8.0,,113.0,Devin,7607,,9.0,12.0,Michael Carter,RB,NYJ,1.0,,6.0
+2022-23,San Francisco 49ers,DST,DS,121.0,118.8,8.576664745196954e+17,5.0,,136.0,James,SF,,5.0,14.0,San Francisco 49ers,DEF,SF,,,-15.0
+2022-23,Kadarius Toney,,WR,117.0,119.0,8.576664745196954e+17,6.0,,115.0,Eric,7606,,6.0,12.0,Kadarius Toney,WR,NYG,1.0,Questionable,2.0
+2022-23,James Cook,BUF,RB,103.0,120.0,8.576664745196954e+17,9.0,,92.0,Adam,8138,,7.0,10.0,James Cook,RB,BUF,0.0,,11.0
+2022-23,Cole Kmet,CHI,TE,116.0,121.8,8.576664745196954e+17,2.0,,122.0,Trent,6826,,4.0,13.0,Cole Kmet,TE,CHI,2.0,,-6.0
+2022-23,Indianapolis Colts,DST,DS,147.0,123.5,8.576664745196954e+17,2.0,,142.0,Trent,IND,,4.0,15.0,Indianapolis Colts,DEF,IND,,,5.0
+2022-23,Kirk Cousins,ATL,QB,130.0,125.3,,,,,,,,,,,,,,,
+2022-23,George Pickens,DAL,WR,111.0,127.8,8.576664745196954e+17,5.0,,96.0,James,8137,,5.0,10.0,George Pickens,WR,PIT,0.0,,15.0
+2022-23,Los Angeles Rams,DST,DS,106.0,129.0,8.576664745196954e+17,10.0,,110.0,Ira,LAR,,8.0,11.0,Los Angeles Rams,DEF,LAR,,,-4.0
+2022-23,Harrison Butker,KC,K2,134.0,129.0,8.576664745196954e+17,7.0,,134.0,Nate,4227,,1.0,14.0,Harrison Butker,K,KC,5.0,,0.0
+2022-23,Evan McPherson,CIN,K3,133.0,129.0,8.576664745196954e+17,8.0,,133.0,Devin,7839,,9.0,14.0,Evan McPherson,K,CIN,1.0,,0.0
+2022-23,Mike Gesicki,CIN,TE,113.0,129.0,8.576664745196954e+17,5.0,,116.0,James,4993,,5.0,12.0,Mike Gesicki,TE,MIA,4.0,,-3.0
+2022-23,Hunter Henry,NE,TE,141.0,130.3,,,,,,,,,,,,,,,
+2022-23,Treylon Burks,TEN,WR,108.0,131.8,8.576664745196954e+17,4.0,,104.0,Zack,8135,,3.0,11.0,Treylon Burks,WR,TEN,0.0,,4.0
+2022-23,Daniel Carlson,LV,K4,135.0,132.3,8.576664745196954e+17,3.0,,138.0,Kiyan,5095,,10.0,14.0,Daniel Carlson,K,LV,4.0,,-3.0
+2022-23,Darrell Henderson,,RB,126.0,132.5,8.576664745196954e+17,8.0,,148.0,Devin,5916,,9.0,15.0,Darrell Henderson,RB,LAR,3.0,,-22.0
+2022-23,Tyler Bass,BUF,K5,138.0,132.8,,,,,,,,,,,,,,,
+2022-23,Alexander Mattison,MIA,RB,124.0,135.0,8.576664745196954e+17,3.0,,118.0,Kiyan,5987,,10.0,12.0,Alexander Mattison,RB,MIN,3.0,,6.0
+2022-23,New Orleans Saints,DST,DS,144.0,135.3,8.576664745196954e+17,1.0,,141.0,Scott,NO,,2.0,15.0,New Orleans Saints,DEF,NO,,,3.0
+2022-23,Matt Gay,WAS,K6,136.0,135.8,8.576664745196954e+17,6.0,,135.0,Eric,6083,,6.0,14.0,Matt Gay,K,LAR,3.0,,1.0
+2022-23,Tyler Boyd,,WR,128.0,137.8,8.576664745196954e+17,6.0,,126.0,Eric,3225,,6.0,13.0,Tyler Boyd,WR,CIN,6.0,,2.0
+2022-23,Garrett Wilson,NYJ,WR,120.0,138.0,8.576664745196954e+17,5.0,,125.0,James,8146,,5.0,13.0,Garrett Wilson,WR,NYJ,0.0,,-5.0
+2022-23,Dallas Cowboys,DST,DS,139.0,138.8,,,,,,,,,,,,,,,
+2022-23,Michael Gallup,WAS,WR,143.0,139.3,8.576664745196954e+17,1.0,,120.0,Scott,5038,,2.0,12.0,Michael Gallup,WR,DAL,4.0,Out,23.0
+2022-23,Nyheim Hines,,RB,127.0,140.5,8.576664745196954e+17,8.0,,128.0,Devin,5347,,9.0,13.0,Nyheim Hines,RB,IND,4.0,,-1.0
+2022-23,Tua Tagovailoa,MIA,QB,149.0,140.5,,,,,,,,,,,,,,,
+2022-23,Green Bay Packers,DST,DS,146.0,142.5,,,,,,,,,,,,,,,
+2022-23,Skyy Moore,KC,WR,122.0,142.8,8.576664745196954e+17,4.0,,124.0,Zack,8168,,3.0,13.0,Skyy Moore,WR,KC,0.0,,-2.0
+2022-23,Julio Jones,,WR,118.0,143.8,8.576664745196954e+17,9.0,,132.0,Adam,947,,7.0,14.0,Julio Jones,WR,TB,11.0,,-14.0
+2022-23,Raheem Mostert,LV,RB,182.0,144.8,8.576664745196954e+17,7.0,,127.0,Nate,2749,,1.0,13.0,Raheem Mostert,RB,MIA,7.0,,55.0
+2022-23,Russell Gage Jr.,SF,WR,165.0,145.5,,,,,,,,,,,,,,,
+2022-23,Kenneth Gainwell,PIT,RB,142.0,146.8,,,,,,,,,,,,,,,
+2022-23,D.J. Chark,,WR,170.0,147.5,,,,,,,,,,,,,,,
+2022-23,Justin Fields,NYJ,QB,158.0,148.0,,,,,,,,,,,,,,,
+2022-23,Los Angeles Chargers,DST,DS,129.0,148.8,,,,,,,,,,,,,,,
+2022-23,Marquez Valdes-Scantling,SEA,WR,137.0,148.8,8.576664745196954e+17,2.0,,119.0,Trent,5086,,4.0,12.0,Marquez Valdes-Scantling,WR,KC,4.0,,18.0
+2022-23,Matt Prater,,K7,145.0,151.0,,,,,,,,,,,,,,,
+2022-23,Brian Robinson,WAS,RB,156.0,153.8,8.576664745196954e+17,1.0,,140.0,Scott,8154,,2.0,14.0,Brian Robinson,RB,WAS,0.0,PUP,16.0
+2022-23,Trevor Lawrence,JAC,QB,168.0,155.0,,,,,,,,,,,,,,,
+2022-23,Tyler Higbee,LAR,TE,148.0,155.3,,,,,,,,,,,,,,,
+2022-23,Jarvis Landry ,,WR,140.0,157.3,,,,,,,,,,,,,,,
+2022-23,Baltimore Ravens,DST,DS,125.0,159.8,8.576664745196954e+17,3.0,,123.0,Kiyan,BAL,,10.0,13.0,Baltimore Ravens,DEF,BAL,,,2.0
+2022-23,DeVante Parker,,WR,150.0,161.5,,,,,,,,,,,,,,,
+2022-23,David Njoku,CLE,TE,155.0,161.8,,,,,,,,,,,,,,,
+2022-23,Jakobi Meyers,LV,WR,172.0,162.3,,,,,,,,,,,,,,,
+2022-23,Noah Fant,SEA,TE,191.0,164.3,,,,,,,,,,,,,,,
+2022-23,J.D. McKissic ,,RB,171.0,165.3,,,,,,,,,,,,,,,
+2022-23,New England Patriots,DST,DS,181.0,166.0,,,,,,,,,,,,,,,
+2022-23,Jameis Winston,NYG,QB,164.0,166.3,,,,,,,,,,,,,,,
+2022-23,Younghoe Koo,ATL,K8,152.0,166.5,8.576664745196954e+17,5.0,,145.0,James,4666,,5.0,15.0,Younghoe Koo,K,ATL,5.0,,7.0
+2022-23,Mecole Hardman Jr.,GB,WR,186.0,168.8,,,,,,,,,,,,,,,
+2022-23,Denver Broncos,DST,DS,157.0,169.0,8.576664745196954e+17,4.0,,144.0,Zack,DEN,,3.0,15.0,Denver Broncos,DEF,DEN,,,13.0
+2022-23,Miami Dolphins,DST,DS,220.0,169.3,,,,,,,,,,,,,,,
+2022-23,Albert Okwuegbunam Jr.,IND,TE,131.0,169.3,,,,,,,,,,,,,,,
+2022-23,Jamaal Williams,,RB,177.0,170.0,,,,,,,,,,,,,,,
+2022-23,Nick Folk,,K9,166.0,172.0,,,,,,,,,,,,,,,
+2022-23,Matt Ryan,,QB,187.0,172.3,,,,,,,,,,,,,,,
+2022-23,Brandon McManus,GB,K1,151.0,173.8,8.576664745196954e+17,2.0,,139.0,Trent,1433,,4.0,14.0,Brandon McManus,K,DEN,9.0,,12.0
+2022-23,Jahan Dotson,PHI,WR,160.0,174.8,8.576664745196954e+17,3.0,,143.0,Kiyan,8119,,10.0,15.0,Jahan Dotson,WR,WAS,0.0,,17.0
+2022-23,Pittsburgh Steelers,DST,DS,176.0,174.8,,,,,,,,,,,,,,,
+2022-23,Irv Smith Jr.,HOU,TE,169.0,175.8,,,,,,,,,,,,,,,
+2022-23,Romeo Doubs,GB,WR,154.0,176.3,,,,,,,,,,,,,,,
+2022-23,Isaiah McKenzie,,WR,173.0,176.3,,,,,,,,,,,,,,,
+2022-23,Robert Tonyan,KC,TE,179.0,177.8,,,,,,,,,,,,,,,
+2022-23,Ryan Succop,,K1,199.0,179.0,,,,,,,,,,,,,,,
+2022-23,Mark Ingram II ,,RB,159.0,179.0,,,,,,,,,,,,,,,
+2022-23,Khalil Herbert,IND,RB,162.0,181.3,8.576664745196954e+17,9.0,,129.0,Adam,7608,,7.0,13.0,Khalil Herbert,RB,CHI,1.0,,33.0
+2022-23,Ryan Tannehill ,,QB,215.0,185.3,,,,,,,,,,,,,,,
+2022-23,Tyler Allgeier,ATL,RB,167.0,186.3,8.576664745196954e+17,6.0,,146.0,Eric,8132,,6.0,15.0,Tyler Allgeier,RB,ATL,0.0,,21.0
+2022-23,Rondale Moore,MIN,WR,161.0,186.3,8.576664745196954e+17,4.0,,117.0,Zack,7601,,3.0,12.0,Rondale Moore,WR,ARI,1.0,Questionable,44.0
+2022-23,Mac Jones,SF,QB,185.0,188.0,,,,,,,,,,,,,,,
+2022-23,Gerald Everett,,TE,194.0,189.3,,,,,,,,,,,,,,,
+2022-23,Rachaad White,TB,RB,163.0,193.0,,,,,,,,,,,,,,,
+2022-23,Evan Engram,DEN,TE,217.0,193.8,,,,,,,,,,,,,,,
+2022-23,Deshaun Watson,CLE,QB,195.0,194.5,,,,,,,,,,,,,,,
+2022-23,Baker Mayfield,TB,QB,202.0,195.3,,,,,,,,,,,,,,,
+2022-23,Philadelphia Eagles,DST,DS,200.0,197.3,,,,,,,,,,,,,,,
+2022-23,Cleveland Browns,DST,DS,201.0,198.0,8.576664745196954e+17,7.0,,147.0,Nate,CLE,,1.0,15.0,Cleveland Browns,DEF,CLE,,,54.0
+2022-23,Zamir White,LV,RB,178.0,201.3,,,,,,,,,,,,,,,
+2022-23,Robbie Gould,,K1,184.0,201.3,,,,,,,,,,,,,,,
+2022-23,Odell Beckham,,WR,192.0,202.0,,,,,,,,,,,,,,,
+2022-23,Joshua Palmer,BUF,WR,204.0,202.3,,,,,,,,,,,,,,,
+2022-23,Isiah Pacheco,KC,RB,175.0,178.0,,,,,,,,,,,,,,,
+2022-23,Hayden Hurst,,TE,214.0,206.0,,,,,,,,,,,,,,,
+2022-23,Kansas City Chiefs,DST,DS,,183.3,,,,,,,,,,,,,,,
+2022-23,Robbie Chosen,,WR,218.0,208.5,,,,,,,,,,,,,,,
+2022-23,Austin Hooper,NE,TE,206.0,209.0,,,,,,,,,,,,,,,
+2022-23,Jalen Tolbert,DAL,WR,190.0,210.3,,,,,,,,,,,,,,,
+2022-23,Kenny Golladay,,WR,193.0,210.5,,,,,,,,,,,,,,,
+2022-23,Christian Watson,GB,WR,174.0,188.3,,,,,,,,,,,,,,,
+2022-23,Marvin Jones,,WR,229.0,212.3,,,,,,,,,,,,,,,
+2022-23,Wil Lutz,DEN,K1,203.0,212.3,,,,,,,,,,,,,,,
+2022-23,Ronald Jones,II,RB,198.0,191.0,,,,,,,,,,,,,,,
+2022-23,Nico Collins,HU,WR,205.0,213.8,,,,,,,,,,,,,,,
+2022-23,Daniel Jones,IND,QB,235.0,213.8,,,,,,,,,,,,,,,
+2022-23,Rodrigo Blankenship,,K1,180.0,214.5,,,,,,,,,,,,,,,
+2022-23,Jared Goff,DET,QB,234.0,214.8,,,,,,,,,,,,,,,
+2022-23,Chuba Hubbard,CAR,RB,188.0,193.0,,,,,,,,,,,,,,,
+2022-23,Taysom Hill,NO,TE,207.0,216.5,,,,,,,,,,,,,,,
+2022-23,Greg Joseph,SF,K1,,195.3,8.576664745196954e+17,9.0,,149.0,Adam,5272,,7.0,15.0,Greg Joseph,K,MIN,4.0,,
+2022-23,Sammy Watkins,,WR,183.0,217.0,,,,,,,,,,,,,,,
+2022-23,Isaiah Spiller,,RB,153.0,199.7,,,,,,,,,,,,,,,
+2022-23,Cincinnati Bengals,DST,DS,221.0,220.5,,,,,,,,,,,,,,,
+2022-23,Kenyan Drake,,RB,228.0,221.3,,,,,,,,,,,,,,,
+2022-23,Chris Boswell,PIT,K1,,202.7,,,,,,,,,,,,,,,
+2022-23,Jameson Williams,DET,WR,189.0,202.7,,,,,,,,,,,,,,,
+2022-23,Kenny Pickett,CLE,QB,210.0,225.3,,,,,,,,,,,,,,,
+2022-23,Mason Crosby,,K1,,170.5,,,,,,,,,,,,,,,
+2022-23,Carson Wentz,,QB,,208.3,,,,,,,,,,,,,,,
+2022-23,Logan Thomas,,TE,244.0,208.3,,,,,,,,,,,,,,,
+2022-23,Alec Pierce,IND,WR,196.0,211.3,,,,,,,,,,,,,,,
+2022-23,Jerick McKinnon,,RB,224.0,216.3,,,,,,,,,,,,,,,
+2022-23,Van Jefferson,TEN,WR,233.0,217.3,,,,,,,,,,,,,,,
+2022-23,Jake Elliott,PHI,K1,,218.0,,,,,,,,,,,,,,,
+2022-23,Marlon Mack,,RB,197.0,187.5,,,,,,,,,,,,,,,
+2022-23,D'Onta Foreman,,RB,211.0,219.0,,,,,,,,,,,,,,,
+2022-23,Marcus Mariota,WAS,QB,230.0,235.5,,,,,,,,,,,,,,,
+2022-23,Isaiah Likely,BAL,TE,,221.0,,,,,,,,,,,,,,,
+2022-23,Darrel Williams,,RB,219.0,191.5,,,,,,,,,,,,,,,
+2022-23,Tennessee Titans,DST,DS,222.0,222.0,,,,,,,,,,,,,,,
+2022-23,Minnesota Vikings,DST,DS,,224.0,,,,,,,,,,,,,,,
+2022-23,Wan'Dale Robinson,NYG,WR,208.0,224.7,,,,,,,,,,,,,,,
+2022-23,Zach Wilson,MIA,QB,238.0,239.0,,,,,,,,,,,,,,,
+2022-23,K.J. Osborn,WAS,WR,209.0,226.7,,,,,,,,,,,,,,,
+2022-23,Myles Gaskin ,,RB,,200.0,,,,,,,,,,,,,,,
+2022-23,Washington Commanders,DST,DS,,231.7,,,,,,,,,,,,,,,
+2022-23,Cade York,,K1,,234.0,,,,,,,,,,,,,,,
+2022-23,Rex Burkhead,,RB,,234.3,,,,,,,,,,,,,,,
+2022-23,Corey Davis,,WR,,211.5,,,,,,,,,,,,,,,
+2022-23,Tyrion Davis-Price,TEN,RB,216.0,211.5,,,,,,,,,,,,,,,
+2022-23,Parris Campbell,DAL,WR,242.0,212.0,,,,,,,,,,,,,,,
+2022-23,A.J. Green,,WR,213.0,212.0,,,,,,,,,,,,,,,
+2022-23,Graham Gano,NYG,K2,,214.5,,,,,,,,,,,,,,,
+2022-23,Kyle Rudolph,,TE,223.0,237.7,,,,,,,,,,,,,,,
+2022-23,Dustin Hopkins,CLE,K2,,217.0,,,,,,,,,,,,,,,
+2022-23,Cameron Brate,,TE,239.0,240.0,,,,,,,,,,,,,,,
+2022-23,Jeff Wilson Jr.,,RB,,167.0,,,,,,,,,,,,,,,
+2022-23,Randall Cobb,,WR,227.0,224.5,,,,,,,,,,,,,,,
+2022-23,Eno Benjamin,,RB,225.0,225.0,,,,,,,,,,,,,,,
+2022-23,Dontrell Hilliard ,,RB,226.0,226.0,,,,,,,,,,,,,,,
+2022-23,Mitchell Trubisky,BUF,QB,,244.3,,,,,,,,,,,,,,,
+2022-23,Mike Davis,,RB,,177.0,,,,,,,,,,,,,,,
+2022-23,KJ Hamler,BUF,WR,212.0,229.0,,,,,,,,,,,,,,,
+2022-23,Arizona Cardinals,DST,DS,,233.5,,,,,,,,,,,,,,,
+2022-23,Kendrick Bourne,NE,WR,,235.0,,,,,,,,,,,,,,,
+2022-23,Randy Bullock,,K2,,197.0,,,,,,,,,,,,,,,
+2022-23,Sony Michel,,RB,240.0,240.0,,,,,,,,,,,,,,,
+2022-23,Donovan Peoples-Jones,NO,WR,236.0,253.7,,,,,,,,,,,,,,,
+2022-23,Ameer Abdullah,,RB,,242.5,,,,,,,,,,,,,,,
+2022-23,Matt Breida,,RB,,205.0,,,,,,,,,,,,,,,
+2022-23,David Bell,CLE,WR,241.0,243.0,8.576664745196954e+17,10.0,,150.0,Ira,8118,,8.0,15.0,David Bell,WR,CLE,0.0,,91.0
+2022-23,Las Vegas Raiders,DST,DS,,207.0,,,,,,,,,,,,,,,
+2022-23,Jason Sanders,MIA,K2,,244.0,,,,,,,,,,,,,,,
+2022-23,Austin Seibert,,K2,,208.0,,,,,,,,,,,,,,,
+2022-23,Gus Edwards,,RB,237.0,247.0,,,,,,,,,,,,,,,
+2022-23,Chicago Bears,DST,DS,,247.5,,,,,,,,,,,,,,,
+2022-23,C.J. Uzomah,,TE,,215.0,,,,,,,,,,,,,,,
+2022-23,Samaje Perine,CIN,RB,231.0,249.5,,,,,,,,,,,,,,,
+2022-23,Davis Mills,HOU,QB,,250.0,,,,,,,,,,,,,,,
+2022-23,Jordan Mason,MIN,RB,,220.0,,,,,,,,,,,,,,,
+2022-23,Hassan Haskins,LAC,RB,245.0,250.5,,,,,,,,,,,,,,,
+2022-23,Carolina Panthers,DST,DS,,251.0,,,,,,,,,,,,,,,
+2022-23,Brevin Jordan,HOU,TE,,223.0,,,,,,,,,,,,,,,
+2022-23,Jamison Crowder,,WR,246.0,253.5,,,,,,,,,,,,,,,
+2022-23,Curtis Samuel,BUF,WR,243.0,263.3,,,,,,,,,,,,,,,
+2022-23,Cairo Santos,CHI,K2,,230.0,,,,,,,,,,,,,,,
+2022-23,Ke'Shawn Vaughn,,RB,,230.0,,,,,,,,,,,,,,,
+2022-23,Damien Williams,,RB,,231.0,,,,,,,,,,,,,,,
+2022-23,Zack Moss,CIN,RB,,256.5,,,,,,,,,,,,,,,
+2022-23,Jimmy Garoppolo,LAR,QB,,233.0,,,,,,,,,,,,,,,
+2022-23,Brett Maher,,K2,,238.0,,,,,,,,,,,,,,,
+2022-23,Boston Scott,,RB,,262.0,,,,,,,,,,,,,,,
+2022-23,D'Ernest Johnson,,RB,,266.5,,,,,,,,,,,,,,,
+2022-23,Jason Myers,SEA,K2,,244.0,,,,,,,,,,,,,,,
+2022-23,Joshua Kelley,,RB,,244.0,,,,,,,,,,,,,,,
+2022-23,DeAndre Torrey,,RB,247.0,247.0,,,,,,,,,,,,,,,
+2022-23,Mo Alie-Cox,IND,TE,,248.0,,,,,,,,,,,,,,,
+2022-23,Jake Powell,,TE,248.0,248.0,,,,,,,,,,,,,,,
+2022-23,Anthony Johnson,,DT,249.0,249.0,,,,,,,,,,,,,,,
+2022-23,Tyler Conklin,LAC,TE,,250.0,,,,,,,,,,,,,,,
+2022-23,Collin Hill,,QB,250.0,250.0,,,,,,,,,,,,,,,
+2022-23,Chad Muma,JAC,LB,251.0,251.0,,,,,,,,,,,,,,,
+2022-23,Ben Johnson,,OT,252.0,252.0,,,,,,,,,,,,,,,
+2022-23,Braxton Berrios,HOU,WR,,252.0,,,,,,,,,,,,,,,
+2022-23,Kyle Juszczyk,SF,RB,,253.0,,,,,,,,,,,,,,,
+2022-23,Austin Walter,,RB,253.0,253.0,,,,,,,,,,,,,,,
+2022-23,Zay Jones,ARI,WR,,254.0,,,,,,,,,,,,,,,
+2022-23,Kayvon Thibodeaux,NYG,DE,254.0,254.0,,,,,,,,,,,,,,,
+2022-23,Karan Higdon,,RB,255.0,255.0,,,,,,,,,,,,,,,
+2022-23,Marquez Callaway,,WR,,268.0,,,,,,,,,,,,,,,
+2022-23,Seattle Seahawks,DST,DS,,256.0,,,,,,,,,,,,,,,
+2022-23,Jordan Johnson,,RB,256.0,256.0,,,,,,,,,,,,,,,
+2022-23,Stephen Baggett,,TE,257.0,257.0,,,,,,,,,,,,,,,
+2022-23,Alex Barnes,,RB,258.0,258.0,,,,,,,,,,,,,,,
+2022-23,Jaylen Warren,PIT,RB,,258.0,,,,,,,,,,,,,,,
+2022-23,Detroit Lions,DST,DS,,259.0,,,,,,,,,,,,,,,
+2022-23,Zach Olstad,,RB,259.0,259.0,,,,,,,,,,,,,,,
+2022-23,Temarrick Hemingway,,TE,260.0,260.0,,,,,,,,,,,,,,,
+2022-23,Jerome Washington,,TE,261.0,261.0,,,,,,,,,,,,,,,
+2022-23,New York Giants,DST,DS,,262.0,,,,,,,,,,,,,,,
+2022-23,Stephon Robinson Jr.,,WR,262.0,262.0,,,,,,,,,,,,,,,
+2022-23,Nick Bawden,,RB,263.0,263.0,,,,,,,,,,,,,,,
+2022-23,Michael Jacobson,NO,TE,264.0,264.0,,,,,,,,,,,,,,,
+2022-23,Jamel Johnson,,WR,265.0,265.0,,,,,,,,,,,,,,,
+2022-23,Sterling Shepard,TB,WR,,281.5,,,,,,,,,,,,,,,
+2022-23,Brandon Barnes,,TE,266.0,266.0,,,,,,,,,,,,,,,
+2022-23,Drew Anderson,,QB,267.0,267.0,,,,,,,,,,,,,,,
+2022-23,Zach Conque,,QB,268.0,268.0,,,,,,,,,,,,,,,
+2022-23,Bobby Wagner,WAS,LB,269.0,269.0,,,,,,,,,,,,,,,
+2022-23,Kendrick Rogers,,WR,270.0,270.0,,,,,,,,,,,,,,,
+2022-23,Taywan Taylor,,WR,271.0,271.0,,,,,,,,,,,,,,,
+2022-23,New York Jets,DST,DS,,272.0,,,,,,,,,,,,,,,
+2022-23,Kyle Lewis,,WR,272.0,272.0,,,,,,,,,,,,,,,
+2022-23,Ryan Davis,,DE,273.0,273.0,,,,,,,,,,,,,,,
+2022-23,Jonnu Smith,MIA,TE,,273.0,,,,,,,,,,,,,,,
+2022-23,Papi White,,WR,274.0,274.0,,,,,,,,,,,,,,,
+2022-23,Laviska Shenault,BUF,WR,,275.0,,,,,,,,,,,,,,,
+2022-23,Houston Texans,DST,DS,,276.0,,,,,,,,,,,,,,,
+2022-23,Krishawn Hogan,,WR,276.0,276.0,,,,,,,,,,,,,,,
+2022-23,Brogan Roback,,QB,277.0,277.0,,,,,,,,,,,,,,,
+2022-23,Cedrick Wilson Jr.,NO,WR,,278.0,,,,,,,,,,,,,,,
+2022-23,Cole Hunt,,TE,278.0,278.0,,,,,,,,,,,,,,,
+2022-23,David Watford,,WR,279.0,279.0,,,,,,,,,,,,,,,
+2022-23,Chris Evans,,RB,,280.0,,,,,,,,,,,,,,,
+2022-23,Zaire Mitchell-Paden,BAL,TE,280.0,280.0,,,,,,,,,,,,,,,
+2022-23,Brandon Bolden,,RB,,281.0,,,,,,,,,,,,,,,
+2022-23,Josh Smith,,WR,281.0,281.0,,,,,,,,,,,,,,,
+2022-23,Nelson Agholor,,WR,,283.0,,,,,,,,,,,,,,,
+2022-23,Foster Moreau,NO,TE,,284.0,,,,,,,,,,,,,,,
+2022-23,Quez Watkins,ARI,WR,,287.0,,,,,,,,,,,,,,,
+2022-23,J.J. Taylor,HOU,RB,,288.0,,,,,,,,,,,,,,,
+2022-23,Byron Pringle,,WR,,289.0,,,,,,,,,,,,,,,
+2022-23,Jacksonville Jaguars,DST,DS,,290.0,,,,,,,,,,,,,,,
+2022-23,Drew Lock,SEA,QB,,291.0,,,,,,,,,,,,,,,
+2022-23,Jauan Jennings,SF,WR,,293.0,,,,,,,,,,,,,,,
+2022-23,DeeJay Dallas,ARI,RB,,294.0,,,,,,,,,,,,,,,
+2022-23,Ka'imi Fairbairn,HOU,K2,,295.0,,,,,,,,,,,,,,,
+2022-23,Trey Sermon,PIT,RB,,296.0,,,,,,,,,,,,,,,
+2022-23,Malik Willis,GB,QB,,297.0,,,,,,,,,,,,,,,
+2022-23,Joey Slye,TEN,K2,,299.0,,,,,,,,,,,,,,,
+2022-23,O.J. Howard,,TE,,300.0,,,,,,,,,,,,,,,
+2023-24,Justin Jefferson,MIN,WR,1.0,1.0,9.914023854382449e+17,1.0,,1.0,Ira,6794,,8.0,1.0,Justin Jefferson,WR,MIN,3.0,,0.0
+2023-24,Christian McCaffrey,SF,RB,2.0,2.3,9.914023854382449e+17,3.0,,3.0,Scott,4034,,2.0,1.0,Christian McCaffrey,RB,SF,6.0,,-1.0
+2023-24,Ja'Marr Chase,CIN,WR,3.0,3.0,9.914023854382449e+17,2.0,,2.0,James,7564,,5.0,1.0,Ja'Marr Chase,WR,CIN,2.0,,1.0
+2023-24,Austin Ekeler,WAS,RB,4.0,3.8,9.914023854382449e+17,6.0,,6.0,Zack,4663,,3.0,1.0,Austin Ekeler,RB,LAC,6.0,,-2.0
+2023-24,Travis Kelce,KC,TE,5.0,5.8,9.914023854382449e+17,4.0,,4.0,Kiyan,1466,,10.0,1.0,Travis Kelce,TE,KC,10.0,,1.0
+2023-24,Tyreek Hill,MIA,WR,6.0,6.3,9.914023854382449e+17,5.0,,5.0,Adam,3321,,7.0,1.0,Tyreek Hill,WR,MIA,7.0,,1.0
+2023-24,Saquon Barkley,PHI,RB,9.0,7.8,9.914023854382449e+17,7.0,,7.0,Eric,4866,,6.0,1.0,Saquon Barkley,RB,NYG,5.0,,2.0
+2023-24,Bijan Robinson,ATL,RB,8.0,8.0,9.914023854382449e+17,8.0,,8.0,Trent,9509,,4.0,1.0,Bijan Robinson,RB,ATL,0.0,,0.0
+2023-24,Stefon Diggs,NE,WR,7.0,10.0,9.914023854382449e+17,10.0,,10.0,Devin,2449,,9.0,1.0,Stefon Diggs,WR,BUF,8.0,,-3.0
+2023-24,Nick Chubb,,RB,10.0,12.3,9.914023854382449e+17,9.0,,12.0,Nate,4988,,1.0,2.0,Nick Chubb,RB,CLE,5.0,,-2.0
+2023-24,Davante Adams,LAR,WR,14.0,12.8,9.914023854382449e+17,6.0,,15.0,Zack,2133,,3.0,2.0,Davante Adams,WR,LV,9.0,,-1.0
+2023-24,CeeDee Lamb,DAL,WR,11.0,13.3,9.914023854382449e+17,10.0,,11.0,Devin,6786,,9.0,2.0,CeeDee Lamb,WR,DAL,3.0,,0.0
+2023-24,Cooper Kupp,SEA,WR,15.0,13.8,9.914023854382449e+17,9.0,,9.0,Nate,4039,,1.0,1.0,Cooper Kupp,WR,LAR,6.0,Questionable,6.0
+2023-24,Patrick Mahomes,KC,QB,12.0,14.5,9.914023854382449e+17,2.0,,22.0,James,4046,,5.0,3.0,Patrick Mahomes,QB,KC,6.0,,-10.0
+2023-24,A.J. Brown,PHI,WR,13.0,15.0,9.914023854382449e+17,7.0,,14.0,Eric,5859,,6.0,2.0,A.J. Brown,WR,PHI,4.0,,-1.0
+2023-24,Tony Pollard,TEN,RB,21.0,16.0,9.914023854382449e+17,3.0,,18.0,Scott,5967,,2.0,2.0,Tony Pollard,RB,DAL,4.0,,3.0
+2023-24,Derrick Henry,BAL,RB,16.0,16.0,9.914023854382449e+17,8.0,,13.0,Trent,3198,,4.0,2.0,Derrick Henry,RB,TEN,7.0,,3.0
+2023-24,Josh Jacobs,GB,RB,19.0,16.0,9.914023854382449e+17,2.0,,19.0,James,5850,,5.0,2.0,Josh Jacobs,RB,LV,4.0,,0.0
+2023-24,Garrett Wilson,NYJ,WR,18.0,17.3,9.914023854382449e+17,4.0,,17.0,Kiyan,8146,,10.0,2.0,Garrett Wilson,WR,NYJ,1.0,,1.0
+2023-24,Amon-Ra St. Brown,DET,WR,17.0,18.8,9.914023854382449e+17,5.0,,16.0,Adam,7547,,7.0,2.0,Amon-Ra St. Brown,WR,DET,2.0,Questionable,1.0
+2023-24,Josh Allen,BUF,QB,20.0,20.5,9.914023854382449e+17,5.0,,25.0,Adam,4984,,7.0,3.0,Josh Allen,QB,BUF,5.0,,-5.0
+2023-24,Jalen Hurts,PHI,QB,23.0,22.8,9.914023854382449e+17,6.0,,26.0,Zack,6904,,3.0,3.0,Jalen Hurts,QB,PHI,3.0,,-3.0
+2023-24,Jaylen Waddle,MIA,WR,22.0,24.5,9.914023854382449e+17,3.0,,23.0,Scott,7526,,2.0,3.0,Jaylen Waddle,WR,MIA,2.0,Questionable,-1.0
+2023-24,Chris Olave,NO,WR,24.0,26.5,9.914023854382449e+17,4.0,,24.0,Kiyan,8144,,10.0,3.0,Chris Olave,WR,NO,1.0,,0.0
+2023-24,DeVonta Smith,PHI,WR,27.0,27.0,9.914023854382449e+17,9.0,,29.0,Nate,7525,,1.0,3.0,DeVonta Smith,WR,PHI,2.0,,-2.0
+2023-24,Najee Harris,LAC,RB,28.0,28.0,9.914023854382449e+17,3.0,,43.0,Scott,7528,,2.0,5.0,Najee Harris,RB,PIT,2.0,,-15.0
+2023-24,Tee Higgins,CIN,WR,25.0,28.8,9.914023854382449e+17,8.0,,28.0,Trent,6801,,4.0,3.0,Tee Higgins,WR,CIN,3.0,,-3.0
+2023-24,Travis Etienne,JAC,RB,30.0,28.8,9.914023854382449e+17,5.0,,36.0,Adam,7543,,7.0,4.0,Travis Etienne,RB,JAX,2.0,,-6.0
+2023-24,Mark Andrews,BAL,TE,26.0,30.3,9.914023854382449e+17,7.0,,27.0,Eric,5012,,6.0,3.0,Mark Andrews,TE,BAL,5.0,,-1.0
+2023-24,Rhamondre Stevenson,NE,RB,29.0,30.5,9.914023854382449e+17,10.0,,30.0,Devin,7611,,9.0,3.0,Rhamondre Stevenson,RB,NE,2.0,,-1.0
+2023-24,DK Metcalf,PIT,WR,31.0,31.3,9.914023854382449e+17,6.0,,35.0,Zack,5846,,3.0,4.0,DK Metcalf,WR,SEA,4.0,,-4.0
+2023-24,Joe Mixon,HOU,RB,36.0,33.0,9.914023854382449e+17,7.0,,34.0,Eric,4018,,6.0,4.0,Joe Mixon,RB,CIN,6.0,,2.0
+2023-24,Jahmyr Gibbs,DET,RB,33.0,33.0,9.914023854382449e+17,8.0,,33.0,Trent,9221,,4.0,4.0,Jahmyr Gibbs,RB,DET,0.0,,0.0
+2023-24,Lamar Jackson,BAL,QB,32.0,34.0,9.914023854382449e+17,10.0,,31.0,Devin,4881,,9.0,4.0,Lamar Jackson,QB,BAL,5.0,,1.0
+2023-24,Calvin Ridley,TEN,WR,34.0,34.5,9.914023854382449e+17,4.0,,37.0,Kiyan,4981,,10.0,4.0,Calvin Ridley,WR,JAX,5.0,,-3.0
+2023-24,Joe Burrow,CIN,QB,35.0,34.8,9.914023854382449e+17,1.0,,20.0,Ira,6770,,8.0,2.0,Joe Burrow,QB,CIN,3.0,Questionable,15.0
+2023-24,Aaron Jones,MIN,RB,40.0,37.3,9.914023854382449e+17,2.0,,42.0,James,4199,,5.0,5.0,Aaron Jones,RB,GB,6.0,,-2.0
+2023-24,Deebo Samuel,WAS,WR,37.0,38.0,9.914023854382449e+17,2.0,,39.0,James,5872,,5.0,4.0,Deebo Samuel,WR,SF,4.0,,-2.0
+2023-24,Breece Hall,NYJ,RB,39.0,40.8,9.914023854382449e+17,10.0,,50.0,Devin,8155,,9.0,5.0,Breece Hall,RB,NYJ,1.0,Questionable,-11.0
+2023-24,Amari Cooper,,WR,42.0,42.0,9.914023854382449e+17,3.0,,38.0,Scott,2309,,2.0,4.0,Amari Cooper,WR,CLE,8.0,,4.0
+2023-24,Keenan Allen,,WR,38.0,43.5,9.914023854382449e+17,1.0,,40.0,Ira,1479,,8.0,4.0,Keenan Allen,WR,LAC,10.0,,-2.0
+2023-24,Justin Herbert,LAC,QB,46.0,43.5,9.914023854382449e+17,4.0,,44.0,Kiyan,6797,,10.0,5.0,Justin Herbert,QB,LAC,3.0,,2.0
+2023-24,Kenneth Walker,SEA,RB,41.0,43.8,9.914023854382449e+17,1.0,,41.0,Ira,8151,,8.0,5.0,Kenneth Walker,RB,SEA,1.0,,0.0
+2023-24,Justin Fields,NYJ,QB,44.0,44.3,9.914023854382449e+17,9.0,,32.0,Nate,7591,,1.0,4.0,Justin Fields,QB,CHI,2.0,,12.0
+2023-24,T.J. Hockenson,MIN,TE,47.0,45.3,9.914023854382449e+17,5.0,,45.0,Adam,5844,,7.0,5.0,T.J. Hockenson,TE,MIN,4.0,Questionable,2.0
+2023-24,Dameon Pierce,HOU,RB,49.0,46.3,9.914023854382449e+17,9.0,,52.0,Nate,8129,,1.0,6.0,Dameon Pierce,RB,HOU,1.0,,-3.0
+2023-24,Jonathan Taylor,IND,RB,45.0,47.8,9.914023854382449e+17,1.0,,21.0,Ira,6813,,8.0,3.0,Jonathan Taylor,RB,IND,3.0,PUP,24.0
+2023-24,George Kittle,SF,TE,43.0,49.5,9.914023854382449e+17,3.0,,58.0,Scott,4217,,2.0,6.0,George Kittle,TE,SF,6.0,Questionable,-15.0
+2023-24,Miles Sanders,DAL,RB,54.0,50.5,9.914023854382449e+17,5.0,,56.0,Adam,6151,,7.0,6.0,Miles Sanders,RB,CAR,4.0,Questionable,-2.0
+2023-24,Darren Waller,,TE,52.0,50.5,9.914023854382449e+17,2.0,,59.0,James,2505,,5.0,6.0,Darren Waller,TE,NYG,8.0,,-7.0
+2023-24,D.J. Moore,CHI,WR,50.0,50.8,,,,,,,,,,,,,,,
+2023-24,DeAndre Hopkins,BAL,WR,48.0,52.5,9.914023854382449e+17,6.0,,46.0,Zack,1426,,3.0,5.0,DeAndre Hopkins,WR,TEN,10.0,,2.0
+2023-24,Terry McLaurin,WAS,WR,51.0,54.3,9.914023854382449e+17,10.0,,51.0,Devin,5927,,9.0,6.0,Terry McLaurin,WR,WAS,4.0,Questionable,0.0
+2023-24,Trevor Lawrence,JAC,QB,53.0,55.0,9.914023854382449e+17,3.0,,63.0,Scott,7523,,2.0,7.0,Trevor Lawrence,QB,JAX,2.0,,-10.0
+2023-24,Christian Watson,GB,WR,60.0,55.3,9.914023854382449e+17,1.0,,60.0,Ira,8167,,8.0,6.0,Christian Watson,WR,GB,1.0,,0.0
+2023-24,Mike Williams,LAC,WR,70.0,60.8,9.914023854382449e+17,8.0,,68.0,Trent,4068,,4.0,7.0,Mike Williams,WR,LAC,6.0,,2.0
+2023-24,J.K. Dobbins,,RB,56.0,61.3,9.914023854382449e+17,8.0,,53.0,Trent,6806,,4.0,6.0,J.K. Dobbins,RB,BAL,3.0,,3.0
+2023-24,Alvin Kamara,NO,RB,63.0,61.5,9.914023854382449e+17,4.0,,57.0,Kiyan,4035,,10.0,6.0,Alvin Kamara,RB,NO,6.0,Sus,6.0
+2023-24,Kyle Pitts,ATL,TE,59.0,62.3,9.914023854382449e+17,9.0,,72.0,Nate,7553,,1.0,8.0,Kyle Pitts,TE,ATL,2.0,,-13.0
+2023-24,Alexander Mattison,MIA,RB,57.0,62.8,9.914023854382449e+17,7.0,,54.0,Eric,5987,,6.0,6.0,Alexander Mattison,RB,MIN,4.0,Questionable,3.0
+2023-24,Dalvin Cook,,RB,69.0,63.5,9.914023854382449e+17,2.0,,79.0,James,4029,,5.0,8.0,Dalvin Cook,RB,NYJ,6.0,Questionable,-10.0
+2023-24,Dallas Goedert,PHI,TE,58.0,63.8,9.914023854382449e+17,1.0,,61.0,Ira,5022,,8.0,7.0,Dallas Goedert,TE,PHI,5.0,,-3.0
+2023-24,Cam Akers,,RB,66.0,64.0,9.914023854382449e+17,9.0,,69.0,Nate,6938,,1.0,7.0,Cam Akers,RB,LAR,3.0,,-3.0
+2023-24,James Conner,ARI,RB,65.0,64.5,9.914023854382449e+17,4.0,,64.0,Kiyan,4137,,10.0,7.0,James Conner,RB,ARI,6.0,,1.0
+2023-24,Rachaad White,TB,RB,77.0,65.5,9.914023854382449e+17,10.0,,71.0,Devin,8136,,9.0,8.0,Rachaad White,RB,TB,1.0,,6.0
+2023-24,Drake London,ATL,WR,55.0,66.8,9.914023854382449e+17,8.0,,48.0,Trent,8112,,4.0,5.0,Drake London,WR,ATL,1.0,,7.0
+2023-24,Chris Godwin,TB,WR,61.0,67.0,9.914023854382449e+17,2.0,,62.0,James,4037,,5.0,7.0,Chris Godwin,WR,TB,6.0,,-1.0
+2023-24,Tyler Lockett,TEN,WR,67.0,70.5,9.914023854382449e+17,7.0,,67.0,Eric,2374,,6.0,7.0,Tyler Lockett,WR,SEA,8.0,,0.0
+2023-24,James Cook,BUF,RB,82.0,71.3,9.914023854382449e+17,4.0,,77.0,Kiyan,8138,,10.0,8.0,James Cook,RB,BUF,1.0,,5.0
+2023-24,Jerry Jeudy,CLE,WR,72.0,72.0,9.914023854382449e+17,7.0,,47.0,Eric,6783,,6.0,5.0,Jerry Jeudy,WR,DEN,3.0,,25.0
+2023-24,Brandon Aiyuk,SF,WR,64.0,72.0,9.914023854382449e+17,7.0,,74.0,Eric,6803,,6.0,8.0,Brandon Aiyuk,WR,SF,3.0,,-10.0
+2023-24,Isiah Pacheco,KC,RB,73.0,72.5,9.914023854382449e+17,7.0,,87.0,Eric,8205,,6.0,9.0,Isiah Pacheco,RB,KC,1.0,Questionable,-14.0
+2023-24,Javonte Williams,DAL,RB,78.0,72.8,9.914023854382449e+17,5.0,,76.0,Adam,7588,,7.0,8.0,Javonte Williams,RB,DEN,2.0,,2.0
+2023-24,D'Andre Swift,CHI,RB,62.0,74.3,9.914023854382449e+17,6.0,,55.0,Zack,6790,,3.0,6.0,D'Andre Swift,RB,PHI,3.0,,7.0
+2023-24,Diontae Johnson,CLE,WR,80.0,74.8,9.914023854382449e+17,2.0,,82.0,James,5937,,5.0,9.0,Diontae Johnson,WR,PIT,4.0,,-2.0
+2023-24,Mike Evans,TB,WR,75.0,75.8,9.914023854382449e+17,5.0,,65.0,Adam,2216,,7.0,7.0,Mike Evans,WR,TB,9.0,,10.0
+2023-24,Deshaun Watson,CLE,QB,89.0,76.0,9.914023854382449e+17,8.0,,93.0,Trent,4017,,4.0,10.0,Deshaun Watson,QB,CLE,6.0,,-4.0
+2023-24,Christian Kirk,HU,WR,71.0,76.0,9.914023854382449e+17,6.0,,66.0,Zack,4950,,3.0,7.0,Christian Kirk,WR,JAX,5.0,,5.0
+2023-24,Evan Engram,DEN,TE,76.0,78.3,9.914023854382449e+17,10.0,,90.0,Devin,4066,,9.0,9.0,Evan Engram,TE,JAX,6.0,,-14.0
+2023-24,Michael Pittman,IND,WR,68.0,81.5,9.914023854382449e+17,10.0,,70.0,Devin,6819,,9.0,7.0,Michael Pittman,WR,IND,3.0,,-2.0
+2023-24,San Francisco 49ers,DST,DS,87.0,82.8,9.914023854382449e+17,7.0,,114.0,Eric,SF,,6.0,12.0,San Francisco 49ers,DEF,SF,,,-27.0
+2023-24,George Pickens,DAL,WR,74.0,83.0,9.914023854382449e+17,6.0,,75.0,Zack,8137,,3.0,8.0,George Pickens,WR,PIT,1.0,,-1.0
+2023-24,David Njoku,CLE,TE,86.0,85.8,9.914023854382449e+17,8.0,,88.0,Trent,4033,,4.0,9.0,David Njoku,TE,CLE,6.0,,-2.0
+2023-24,David Montgomery,DET,RB,83.0,86.0,9.914023854382449e+17,5.0,,85.0,Adam,5892,,7.0,9.0,David Montgomery,RB,DET,4.0,,-2.0
+2023-24,Dak Prescott,DAL,QB,88.0,89.5,9.914023854382449e+17,10.0,,131.0,Devin,3294,,9.0,14.0,Dak Prescott,QB,DAL,7.0,,-43.0
+2023-24,Justin Tucker,,K1,91.0,90.3,9.914023854382449e+17,8.0,,113.0,Trent,1264,,4.0,12.0,Justin Tucker,K,BAL,11.0,,-22.0
+2023-24,Hollywood Brown,KC,WR,79.0,91.3,9.914023854382449e+17,8.0,,73.0,Trent,5848,,4.0,8.0,Hollywood Brown,WR,ARI,4.0,,6.0
+2023-24,Jahan Dotson,PHI,WR,90.0,91.8,9.914023854382449e+17,4.0,,84.0,Kiyan,8119,,10.0,9.0,Jahan Dotson,WR,WAS,1.0,,6.0
+2023-24,Tua Tagovailoa,MIA,QB,92.0,93.5,9.914023854382449e+17,7.0,,107.0,Eric,6768,,6.0,11.0,Tua Tagovailoa,QB,MIA,3.0,,-15.0
+2023-24,Jordan Addison,MIN,WR,85.0,93.8,9.914023854382449e+17,3.0,,78.0,Scott,9756,,2.0,8.0,Jordan Addison,WR,MIN,0.0,Questionable,7.0
+2023-24,AJ Dillon,PHI,RB,93.0,94.5,9.914023854382449e+17,6.0,,95.0,Zack,6828,,3.0,10.0,AJ Dillon,RB,GB,3.0,,-2.0
+2023-24,Brandin Cooks,NO,WR,97.0,95.0,9.914023854382449e+17,10.0,,91.0,Devin,2197,,9.0,10.0,Brandin Cooks,WR,DAL,9.0,,6.0
+2023-24,Pat Freiermuth,PIT,TE,84.0,95.3,9.914023854382449e+17,5.0,,105.0,Adam,7600,,7.0,11.0,Pat Freiermuth,TE,PIT,2.0,,-21.0
+2023-24,Jaxon Smith-Njigba,SEA,WR,81.0,97.5,9.914023854382449e+17,3.0,,83.0,Scott,9488,,2.0,9.0,Jaxon Smith-Njigba,WR,SEA,0.0,Questionable,-2.0
+2023-24,Khalil Herbert,IND,RB,105.0,99.0,9.914023854382449e+17,4.0,,97.0,Kiyan,7608,,10.0,10.0,Khalil Herbert,RB,CHI,2.0,,8.0
+2023-24,Aaron Rodgers ,,QB,94.0,101.8,,,,,,,,,,,,,,,
+2023-24,Jamaal Williams,,RB,104.0,103.8,9.914023854382449e+17,9.0,,89.0,Nate,4149,,1.0,9.0,Jamaal Williams,RB,NO,6.0,,15.0
+2023-24,Philadelphia Eagles,DST,DS,96.0,106.0,9.914023854382449e+17,1.0,,120.0,Ira,PHI,,8.0,12.0,Philadelphia Eagles,DEF,PHI,,,-24.0
+2023-24,Courtland Sutton,DEN,WR,118.0,106.0,9.914023854382449e+17,8.0,,108.0,Trent,5045,,4.0,11.0,Courtland Sutton,WR,DEN,5.0,,10.0
+2023-24,Michael Thomas,,WR,95.0,106.3,9.914023854382449e+17,2.0,,102.0,James,3199,,5.0,11.0,Michael Thomas,WR,NO,7.0,,-7.0
+2023-24,Odell Beckham,,WR,109.0,106.3,9.914023854382449e+17,1.0,,100.0,Ira,2078,,8.0,10.0,Odell Beckham,WR,BAL,9.0,,9.0
+2023-24,Gabe Davis,,WR,101.0,108.3,9.914023854382449e+17,5.0,,96.0,Adam,6943,,7.0,10.0,Gabe Davis,WR,BUF,3.0,,5.0
+2023-24,Buffalo Bills,DST,DS,117.0,108.5,9.914023854382449e+17,6.0,,126.0,Zack,BUF,,3.0,13.0,Buffalo Bills,DEF,BUF,,,-9.0
+2023-24,Brian Robinson,WAS,RB,102.0,109.3,9.914023854382449e+17,1.0,,80.0,Ira,8154,,8.0,8.0,Brian Robinson,RB,WAS,1.0,,22.0
+2023-24,JuJu Smith-Schuster,KC,WR,106.0,109.3,9.914023854382449e+17,1.0,,81.0,Ira,4040,,8.0,9.0,JuJu Smith-Schuster,WR,NE,6.0,,25.0
+2023-24,Kirk Cousins,ATL,QB,111.0,109.8,,,,,,,,,,,,,,,
+2023-24,Antonio Gibson,NE,RB,98.0,112.5,9.914023854382449e+17,2.0,,99.0,James,6945,,5.0,10.0,Antonio Gibson,RB,WAS,3.0,,-1.0
+2023-24,Treylon Burks,TEN,WR,107.0,114.0,9.914023854382449e+17,6.0,,106.0,Zack,8135,,3.0,11.0,Treylon Burks,WR,TEN,1.0,Questionable,1.0
+2023-24,Daniel Carlson,LV,K2,124.0,114.3,9.914023854382449e+17,4.0,,124.0,Kiyan,5095,,10.0,13.0,Daniel Carlson,K,LV,5.0,,0.0
+2023-24,Zay Flowers,BAL,WR,100.0,115.0,9.914023854382449e+17,7.0,,94.0,Eric,9997,,6.0,10.0,Zay Flowers,WR,BAL,0.0,,6.0
+2023-24,Kadarius Toney,,WR,99.0,116.8,9.914023854382449e+17,6.0,,86.0,Zack,7606,,3.0,9.0,Kadarius Toney,WR,KC,2.0,Questionable,13.0
+2023-24,Zach Charbonnet,SEA,RB,114.0,118.0,9.914023854382449e+17,10.0,,110.0,Devin,9753,,9.0,11.0,Zach Charbonnet,RB,SEA,0.0,,4.0
+2023-24,Dallas Cowboys,DST,DS,108.0,118.3,9.914023854382449e+17,2.0,,122.0,James,DAL,,5.0,13.0,Dallas Cowboys,DEF,DAL,,,-14.0
+2023-24,Samaje Perine,CIN,RB,123.0,118.5,9.914023854382449e+17,1.0,,101.0,Ira,4147,,8.0,11.0,Samaje Perine,RB,DEN,6.0,,22.0
+2023-24,Anthony Richardson,IND,QB,113.0,120.3,9.914023854382449e+17,4.0,,104.0,Kiyan,9229,,10.0,11.0,Anthony Richardson,QB,IND,0.0,,9.0
+2023-24,Dalton Schultz,HOU,TE,112.0,120.5,9.914023854382449e+17,6.0,,115.0,Zack,5001,,3.0,12.0,Dalton Schultz,TE,HOU,5.0,,-3.0
+2023-24,Daniel Jones,IND,QB,141.0,120.8,,,,,,,,,,,,,,,
+2023-24,New York Jets,DST,DS,121.0,122.3,,,,,,,,,,,,,,,
+2023-24,Geno Smith,LV,QB,131.0,124.8,,,,,,,,,,,,,,,
+2023-24,Quentin Johnston,LAC,WR,103.0,125.3,9.914023854382449e+17,9.0,,92.0,Nate,9754,,1.0,10.0,Quentin Johnston,WR,LAC,0.0,,11.0
+2023-24,Jerick McKinnon,,RB,129.0,125.3,9.914023854382449e+17,9.0,,109.0,Nate,2161,,1.0,11.0,Jerick McKinnon,RB,KC,9.0,,20.0
+2023-24,Dalton Kincaid,BUF,TE,120.0,127.0,,,,,,,,,,,,,,,
+2023-24,Skyy Moore,KC,WR,130.0,127.5,9.914023854382449e+17,2.0,,119.0,James,8168,,5.0,12.0,Skyy Moore,WR,KC,1.0,,11.0
+2023-24,New England Patriots,DST,DS,144.0,128.5,9.914023854382449e+17,5.0,,145.0,Adam,NE,,7.0,15.0,New England Patriots,DEF,NE,,,-1.0
+2023-24,Tyler Bass,BUF,K3,128.0,129.0,9.914023854382449e+17,5.0,,125.0,Adam,7042,,7.0,13.0,Tyler Bass,K,BUF,3.0,,3.0
+2023-24,Cole Kmet,CHI,TE,119.0,129.5,9.914023854382449e+17,2.0,,139.0,James,6826,,5.0,14.0,Cole Kmet,TE,CHI,3.0,,-20.0
+2023-24,Evan McPherson,CIN,K4,110.0,130.3,9.914023854382449e+17,1.0,,121.0,Ira,7839,,8.0,13.0,Evan McPherson,K,CIN,2.0,,-11.0
+2023-24,Harrison Butker,KC,K5,116.0,133.5,9.914023854382449e+17,9.0,,149.0,Nate,4227,,1.0,15.0,Harrison Butker,K,KC,6.0,,-33.0
+2023-24,Ezekiel Elliott,,RB,125.0,134.8,,,,,,,,,,,,,,,
+2023-24,Raheem Mostert,LV,RB,140.0,135.0,,,,,,,,,,,,,,,
+2023-24,Tyler Higbee,LAR,TE,135.0,136.3,,,,,,,,,,,,,,,
+2023-24,Jason Myers,SEA,K6,151.0,136.8,9.914023854382449e+17,6.0,,146.0,Zack,2747,,3.0,15.0,Jason Myers,K,SEA,8.0,,5.0
+2023-24,De'Von Achane,MIA,RB,132.0,136.8,9.914023854382449e+17,10.0,,130.0,Devin,9226,,9.0,13.0,De'Von Achane,RB,MIA,0.0,Questionable,2.0
+2023-24,Adam Thielen,CAR,WR,127.0,137.3,9.914023854382449e+17,5.0,,116.0,Adam,1689,,7.0,12.0,Adam Thielen,WR,CAR,10.0,,11.0
+2023-24,Baltimore Ravens,DST,DS,138.0,138.8,9.914023854382449e+17,4.0,,144.0,Kiyan,BAL,,10.0,15.0,Baltimore Ravens,DEF,BAL,,,-6.0
+2023-24,Jared Goff,DET,QB,148.0,138.8,,,,,,,,,,,,,,,
+2023-24,Younghoe Koo,ATL,K7,133.0,139.0,9.914023854382449e+17,7.0,,127.0,Eric,4666,,6.0,13.0,Younghoe Koo,K,ATL,6.0,,6.0
+2023-24,Rashaad Penny,,RB,115.0,140.3,9.914023854382449e+17,3.0,,98.0,Scott,4985,,2.0,10.0,Rashaad Penny,RB,PHI,5.0,,17.0
+2023-24,Elijah Mitchell,KC,RB,139.0,140.3,9.914023854382449e+17,3.0,,118.0,Scott,7561,,2.0,12.0,Elijah Mitchell,RB,SF,2.0,,21.0
+2023-24,Pittsburgh Steelers,DST,DS,142.0,141.5,9.914023854382449e+17,9.0,,132.0,Nate,PIT,,1.0,14.0,Pittsburgh Steelers,DEF,PIT,,,10.0
+2023-24,Allen Lazard,NYJ,WR,126.0,143.5,9.914023854382449e+17,9.0,,112.0,Nate,5185,,1.0,12.0,Allen Lazard,WR,NYJ,5.0,,14.0
+2023-24,Miami Dolphins,DST,DS,147.0,145.8,,,,,,,,,,,,,,,
+2023-24,Juwan Johnson,NO,TE,195.0,147.3,,,,,,,,,,,,,,,
+2023-24,Russell Wilson,NYG,QB,167.0,148.0,,,,,,,,,,,,,,,
+2023-24,Jakobi Meyers,LV,WR,153.0,150.0,9.914023854382449e+17,7.0,,134.0,Eric,5947,,6.0,14.0,Jakobi Meyers,WR,LV,4.0,,19.0
+2023-24,Elijah Moore,BUF,WR,122.0,151.0,9.914023854382449e+17,3.0,,103.0,Scott,7596,,2.0,11.0,Elijah Moore,WR,CLE,2.0,,19.0
+2023-24,Rashod Bateman,BAL,WR,143.0,152.0,,,,,,,,,,,,,,,
+2023-24,New Orleans Saints,DST,DS,157.0,154.0,9.914023854382449e+17,3.0,,123.0,Scott,NO,,2.0,13.0,New Orleans Saints,DEF,NO,,,34.0
+2023-24,Jameson Williams,DET,WR,136.0,154.0,9.914023854382449e+17,4.0,,117.0,Kiyan,8148,,10.0,12.0,Jameson Williams,WR,DET,1.0,Sus,19.0
+2023-24,Chig Okonkwo,TEN,TE,146.0,154.5,,,,,,,,,,,,,,,
+2023-24,Graham Gano,NYG,K8,162.0,155.3,,,,,,,,,,,,,,,
+2023-24,Tyler Boyd,,WR,145.0,156.0,9.914023854382449e+17,9.0,,129.0,Nate,3225,,1.0,13.0,Tyler Boyd,WR,CIN,7.0,,16.0
+2023-24,Devin Singletary,NYG,RB,171.0,159.3,,,,,,,,,,,,,,,
+2023-24,Tyler Allgeier,ATL,RB,154.0,160.0,9.914023854382449e+17,1.0,,141.0,Ira,8132,,8.0,15.0,Tyler Allgeier,RB,ATL,1.0,,13.0
+2023-24,Jake Elliott,PHI,K9,134.0,161.0,9.914023854382449e+17,2.0,,142.0,James,4195,,5.0,15.0,Jake Elliott,K,PHI,6.0,,-8.0
+2023-24,Gerald Everett,,TE,173.0,162.0,,,,,,,,,,,,,,,
+2023-24,Jaylen Warren,PIT,RB,160.0,162.8,,,,,,,,,,,,,,,
+2023-24,Derek Carr,,QB,166.0,163.3,,,,,,,,,,,,,,,
+2023-24,Damien Harris,,RB,149.0,164.5,9.914023854382449e+17,10.0,,111.0,Devin,5890,,9.0,12.0,Damien Harris,RB,BUF,4.0,Questionable,38.0
+2023-24,Jalin Hyatt,NYG,WR,163.0,166.3,,,,,,,,,,,,,,,
+2023-24,Kansas City Chiefs,DST,DS,169.0,166.5,,,,,,,,,,,,,,,
+2023-24,Brock Purdy,SF,QB,158.0,167.0,,,,,,,,,,,,,,,
+2023-24,Sam LaPorta,DET,TE,152.0,168.3,9.914023854382449e+17,8.0,,148.0,Trent,10859,,4.0,15.0,Sam LaPorta,TE,DET,0.0,,4.0
+2023-24,Kenny Pickett,CLE,QB,181.0,168.3,,,,,,,,,,,,,,,
+2023-24,Tank Bigsby,JAC,RB,137.0,169.8,9.914023854382449e+17,8.0,,128.0,Trent,9225,,4.0,13.0,Tank Bigsby,RB,JAX,0.0,,9.0
+2023-24,Zay Jones,ARI,WR,168.0,173.3,,,,,,,,,,,,,,,
+2023-24,Darnell Mooney,ATL,WR,155.0,174.0,9.914023854382449e+17,3.0,,138.0,Scott,7090,,2.0,14.0,Darnell Mooney,WR,CHI,3.0,,17.0
+2023-24,Nico Collins,HOU,WR,185.0,174.0,,,,,,,,,,,,,,,
+2023-24,Greg Dulcich,NYG,TE,170.0,176.0,,,,,,,,,,,,,,,
+2023-24,Matthew Stafford,LAR,QB,209.0,178.8,,,,,,,,,,,,,,,
+2023-24,Washington Commanders,DST,DS,176.0,179.8,,,,,,,,,,,,,,,
+2023-24,Deuce Vaughn,DAL,RB,159.0,180.0,,,,,,,,,,,,,,,
+2023-24,Romeo Doubs,GB,WR,165.0,180.3,9.914023854382449e+17,5.0,,136.0,Adam,8121,,7.0,14.0,Romeo Doubs,WR,GB,1.0,,29.0
+2023-24,Cincinnati Bengals,DST,DS,201.0,180.8,,,,,,,,,,,,,,,
+2023-24,Bryce Young,CAR,QB,174.0,183.3,,,,,,,,,,,,,,,
+2023-24,Rondale Moore,MIN,WR,177.0,184.5,,,,,,,,,,,,,,,
+2023-24,Green Bay Packers,DST,DS,184.0,187.3,,,,,,,,,,,,,,,
+2023-24,Kenneth Gainwell,PIT,RB,180.0,187.5,,,,,,,,,,,,,,,
+2023-24,Jordan Love,GB,QB,189.0,189.0,,,,,,,,,,,,,,,
+2023-24,Michael Gallup,WAS,WR,188.0,190.0,,,,,,,,,,,,,,,
+2023-24,Jonathan Mingo,DAL,WR,172.0,190.3,9.914023854382449e+17,7.0,,147.0,Eric,10225,,6.0,15.0,Jonathan Mingo,WR,CAR,0.0,,25.0
+2023-24,Cameron Dicker,LAC,K1,178.0,190.5,,,,,,,,,,,,,,,
+2023-24,Dawson Knox,BUF,TE,164.0,191.8,,,,,,,,,,,,,,,
+2023-24,K.J. Osborn,WAS,WR,213.0,192.3,,,,,,,,,,,,,,,
+2023-24,Matt Gay,WAS,K1,190.0,193.8,,,,,,,,,,,,,,,
+2023-24,Jacksonville Jaguars,DST,DS,197.0,194.5,,,,,,,,,,,,,,,
+2023-24,Roschon Johnson,CHI,RB,194.0,195.0,,,,,,,,,,,,,,,
+2023-24,Brandon McManus,GB,K1,156.0,196.5,9.914023854382449e+17,3.0,,143.0,Scott,1433,,2.0,15.0,Brandon McManus,K,JAX,10.0,,13.0
+2023-24,Zach Ertz,WAS,TE,216.0,198.8,,,,,,,,,,,,,,,
+2023-24,Denver Broncos,DST,DS,200.0,198.8,,,,,,,,,,,,,,,
+2023-24,Cleveland Browns,DST,DS,226.0,199.8,,,,,,,,,,,,,,,
+2023-24,Seattle Seahawks,DST,DS,179.0,200.0,,,,,,,,,,,,,,,
+2023-24,D.J. Chark,,WR,199.0,200.3,,,,,,,,,,,,,,,
+2023-24,Sam Howell,MIN,QB,229.0,200.3,,,,,,,,,,,,,,,
+2023-24,Luke Musgrave,GB,TE,202.0,200.8,,,,,,,,,,,,,,,
+2023-24,Kyler Murray,ARI,QB,198.0,201.5,9.914023854382449e+17,8.0,,133.0,Trent,5849,,4.0,14.0,Kyler Murray,QB,ARI,4.0,PUP,65.0
+2023-24,D'Onta Foreman,,RB,175.0,170.7,,,,,,,,,,,,,,,
+2023-24,Jeff Wilson Jr.,,RB,,172.3,,,,,,,,,,,,,,,
+2023-24,Taysom Hill,NO,TE,192.0,207.8,,,,,,,,,,,,,,,
+2023-24,Kendre Miller,NO,RB,193.0,177.3,9.914023854382449e+17,4.0,,137.0,Kiyan,9757,,10.0,14.0,Kendre Miller,RB,NO,0.0,,56.0
+2023-24,Greg Zuerlein,,K1,,180.0,,,,,,,,,,,,,,,
+2023-24,Marquez Valdes-Scantling,SEA,WR,211.0,210.5,,,,,,,,,,,,,,,
+2023-24,C.J. Stroud,HOU,QB,214.0,211.5,,,,,,,,,,,,,,,
+2023-24,Kareem Hunt,KC,RB,186.0,212.5,,,,,,,,,,,,,,,
+2023-24,Deon Jackson,,RB,225.0,183.7,,,,,,,,,,,,,,,
+2023-24,Jimmy Garoppolo,LAR,QB,230.0,213.3,,,,,,,,,,,,,,,
+2023-24,Rashee Rice,KC,WR,150.0,185.3,9.914023854382449e+17,6.0,,135.0,Zack,10229,,3.0,14.0,Rashee Rice,WR,KC,0.0,,15.0
+2023-24,Jake Ferguson,DAL,TE,203.0,214.8,,,,,,,,,,,,,,,
+2023-24,Marvin Mims Jr.,DEN,WR,182.0,216.5,,,,,,,,,,,,,,,
+2023-24,Mike Gesicki,CIN,TE,239.0,217.0,,,,,,,,,,,,,,,
+2023-24,Cordarrelle Patterson,PIT,RB,220.0,190.3,,,,,,,,,,,,,,,
+2023-24,Leonard Fournette,,RB,242.0,218.3,,,,,,,,,,,,,,,
+2023-24,Michael Mayer,LV,TE,191.0,218.8,,,,,,,,,,,,,,,
+2023-24,Donovan Peoples-Jones,NO,WR,210.0,194.3,,,,,,,,,,,,,,,
+2023-24,Tyler Conklin,LAC,TE,238.0,222.3,,,,,,,,,,,,,,,
+2023-24,Parris Campbell,DAL,WR,245.0,222.8,,,,,,,,,,,,,,,
+2023-24,Jason Sanders,MIA,K1,161.0,197.3,9.914023854382449e+17,10.0,,150.0,Devin,5119,,9.0,15.0,Jason Sanders,K,MIA,5.0,,11.0
+2023-24,Gus Edwards,,RB,233.0,223.5,,,,,,,,,,,,,,,
+2023-24,Hunter Renfrow,CAR,WR,212.0,224.8,,,,,,,,,,,,,,,
+2023-24,Clyde Edwards-Helaire,NO,RB,196.0,201.7,,,,,,,,,,,,,,,
+2023-24,Hayden Hurst,,TE,231.0,227.0,,,,,,,,,,,,,,,
+2023-24,Nick Folk,,K1,227.0,159.0,,,,,,,,,,,,,,,
+2023-24,Chuba Hubbard,CAR,RB,206.0,206.0,,,,,,,,,,,,,,,
+2023-24,Tyjae Spears,TEN,RB,205.0,207.7,,,,,,,,,,,,,,,
+2023-24,Justyn Ross,KC,WR,187.0,230.8,,,,,,,,,,,,,,,
+2023-24,Minnesota Vikings,DST,DS,,211.0,,,,,,,,,,,,,,,
+2023-24,New York Giants,DST,DS,,213.0,,,,,,,,,,,,,,,
+2023-24,Chris Boswell,PIT,K1,,214.0,,,,,,,,,,,,,,,
+2023-24,Wil Lutz,DEN,K1,,217.7,,,,,,,,,,,,,,,
+2023-24,Hunter Henry,NE,TE,,217.7,,,,,,,,,,,,,,,
+2023-24,Jayden Reed,GB,WR,218.0,220.0,,,,,,,,,,,,,,,
+2023-24,Tank Dell,HU,WR,183.0,265.8,,,,,,,,,,,,,,,
+2023-24,Ryan Tannehill,,QB,258.0,240.3,,,,,,,,,,,,,,,
+2023-24,Jake Moody,SF,K1,204.0,220.7,,,,,,,,,,,,,,,
+2023-24,Mac Jones,SF,QB,247.0,222.7,,,,,,,,,,,,,,,
+2023-24,Tampa Bay Buccaneers,DST,DS,224.0,223.0,,,,,,,,,,,,,,,
+2023-24,Irv Smith Jr.,HOU,TE,221.0,285.0,,,,,,,,,,,,,,,
+2023-24,Alec Pierce,IND,WR,208.0,226.3,,,,,,,,,,,,,,,
+2023-24,Van Jefferson,TEN,WR,207.0,191.0,,,,,,,,,,,,,,,
+2023-24,Curtis Samuel,BUF,WR,219.0,230.3,,,,,,,,,,,,,,,
+2023-24,Los Angeles Chargers,DST,DS,,197.5,,,,,,,,,,,,,,,
+2023-24,Carolina Panthers,DST,DS,,198.0,,,,,,,,,,,,,,,
+2023-24,Detroit Lions,DST,DS,,199.0,,,,,,,,,,,,,,,
+2023-24,Isaiah Hodgins,SF,WR,232.0,233.7,,,,,,,,,,,,,,,
+2023-24,Riley Patterson,,K1,,201.5,,,,,,,,,,,,,,,
+2023-24,Zack Moss,CIN,RB,234.0,203.5,,,,,,,,,,,,,,,
+2023-24,Ty Chandler,MIN,RB,237.0,208.5,,,,,,,,,,,,,,,
+2023-24,Zamir White,LV,RB,223.0,209.5,,,,,,,,,,,,,,,
+2023-24,DeVante Parker,,WR,249.0,239.7,,,,,,,,,,,,,,,
+2023-24,Baker Mayfield,TB,QB,264.0,240.3,,,,,,,,,,,,,,,
+2023-24,Greg Joseph,SF,K2,,212.5,,,,,,,,,,,,,,,
+2023-24,Los Angeles Rams,DST,DS,,212.5,,,,,,,,,,,,,,,
+2023-24,Eddy Pineiro,,K2,,129.0,,,,,,,,,,,,,,,
+2023-24,Evan Hull,PIT,RB,228.0,215.5,,,,,,,,,,,,,,,
+2023-24,Chase Brown,CIN,RB,215.0,246.0,,,,,,,,,,,,,,,
+2023-24,Mecole Hardman Jr.,GB,WR,235.0,247.3,,,,,,,,,,,,,,,
+2023-24,Jerome Ford,CLE,RB,236.0,222.0,,,,,,,,,,,,,,,
+2023-24,Chicago Bears,DST,DS,,222.0,,,,,,,,,,,,,,,
+2023-24,Chase Claypool,,WR,243.0,248.0,,,,,,,,,,,,,,,
+2023-24,Joshua Kelley,,RB,274.0,222.5,,,,,,,,,,,,,,,
+2023-24,Las Vegas Raiders,DST,DS,,224.5,,,,,,,,,,,,,,,
+2023-24,Desmond Ridder,,QB,260.0,250.0,,,,,,,,,,,,,,,
+2023-24,Tennessee Titans,DST,DS,222.0,226.0,,,,,,,,,,,,,,,
+2023-24,Chase McLaughlin,TB,K2,,231.0,,,,,,,,,,,,,,,
+2023-24,Noah Fant,SEA,TE,253.0,231.5,,,,,,,,,,,,,,,
+2023-24,Latavius Murray,,RB,,234.5,,,,,,,,,,,,,,,
+2023-24,John Metchie III,HOU,WR,217.0,235.0,,,,,,,,,,,,,,,
+2023-24,Trey Lance,LAC,QB,278.0,259.3,,,,,,,,,,,,,,,
+2023-24,Michael Badgley,,K2,,273.0,,,,,,,,,,,,,,,
+2023-24,Rashid Shaheed,NO,WR,244.0,259.7,,,,,,,,,,,,,,,
+2023-24,Matt Prater,,K2,,241.0,,,,,,,,,,,,,,,
+2023-24,Robert Woods,PIT,WR,240.0,261.0,,,,,,,,,,,,,,,
+2023-24,Arizona Cardinals,DST,DS,,242.0,,,,,,,,,,,,,,,
+2023-24,Isaiah Likely,BAL,TE,256.0,262.0,,,,,,,,,,,,,,,
+2023-24,Darius Slayton,NYG,WR,,245.5,,,,,,,,,,,,,,,
+2023-24,Kyren Williams,LAR,RB,,193.0,,,,,,,,,,,,,,,
+2023-24,Sean Tucker,TB,RB,,198.0,,,,,,,,,,,,,,,
+2023-24,Brandon Aubrey,DAL,K2,,249.0,,,,,,,,,,,,,,,
+2023-24,Anders Carlson,NYJ,K2,,251.5,,,,,,,,,,,,,,,
+2023-24,Josh Downs,IND,WR,241.0,252.0,,,,,,,,,,,,,,,
+2023-24,Kyle Juszczyk,SF,RB,,253.5,,,,,,,,,,,,,,,
+2023-24,Cairo Santos,CHI,K2,,209.0,,,,,,,,,,,,,,,
+2023-24,Darnell Washington,PIT,TE,,254.5,,,,,,,,,,,,,,,
+2023-24,Tom Brady,,QB,,214.0,,,,,,,,,,,,,,,
+2023-24,Cade Otton,TB,TE,282.0,271.7,,,,,,,,,,,,,,,
+2023-24,Brett Maher,,K2,,216.0,,,,,,,,,,,,,,,
+2023-24,Jimmy Graham,,TE,,219.0,,,,,,,,,,,,,,,
+2023-24,Wan'Dale Robinson,NYG,WR,259.0,259.5,,,,,,,,,,,,,,,
+2023-24,Michael Carter,ARI,RB,276.0,260.0,,,,,,,,,,,,,,,
+2023-24,Keaontay Ingram,KC,RB,262.0,260.0,,,,,,,,,,,,,,,
+2023-24,Richie James Jr.,,WR,,281.5,,,,,,,,,,,,,,,
+2023-24,Indianapolis Colts,DST,DS,,268.0,,,,,,,,,,,,,,,
+2023-24,Puka Nacua,LAR,WR,268.0,265.0,,,,,,,,,,,,,,,
+2023-24,Atlanta Falcons,DST,DS,,231.0,,,,,,,,,,,,,,,
+2023-24,Blake Grupe,NO,K2,,232.0,,,,,,,,,,,,,,,
+2023-24,Jermar Jefferson,,RB,,233.0,,,,,,,,,,,,,,,
+2023-24,Chad Ryland,ARI,K3,,266.5,,,,,,,,,,,,,,,
+2023-24,Cade York,,K3,,280.5,,,,,,,,,,,,,,,
+2023-24,Joey Slye,TEN,K3,,267.0,,,,,,,,,,,,,,,
+2023-24,Joshua Palmer,BUF,WR,,267.5,,,,,,,,,,,,,,,
+2023-24,Noah Gray,KC,TE,,268.0,,,,,,,,,,,,,,,
+2023-24,Chase Edmonds,,RB,,237.0,,,,,,,,,,,,,,,
+2023-24,Ka'imi Fairbairn,HOU,K3,,289.5,,,,,,,,,,,,,,,
+2023-24,Malik Cunningham,BAL,QB,,241.0,,,,,,,,,,,,,,,
+2023-24,Rob Gronkowski,,TE,,242.0,,,,,,,,,,,,,,,
+2023-24,Tanner Brown,,K3,,243.0,,,,,,,,,,,,,,,
+2023-24,Luke Schoonmaker,DAL,TE,,244.0,,,,,,,,,,,,,,,
+2023-24,Houston Texans,DST,DS,,245.0,,,,,,,,,,,,,,,
+2023-24,Robbie Gould,,K3,,246.0,,,,,,,,,,,,,,,
+2023-24,Bruce Anderson,III,RB,246.0,246.0,,,,,,,,,,,,,,,
+2023-24,Kyle Allen,DET,QB,,247.0,,,,,,,,,,,,,,,
+2023-24,Henry Litwin,,WR,248.0,248.0,,,,,,,,,,,,,,,
+2023-24,Allen Robinson,II,WR,284.0,274.0,,,,,,,,,,,,,,,
+2023-24,Jake Bobo,SEA,WR,,249.0,,,,,,,,,,,,,,,
+2023-24,Antonio Brown,,WR,,250.0,,,,,,,,,,,,,,,
+2023-24,Mason Crosby,,K3,,251.0,,,,,,,,,,,,,,,
+2023-24,Calvin Austin III,PIT,WR,,275.5,,,,,,,,,,,,,,,
+2023-24,Trey McBride,ARI,TE,252.0,252.0,,,,,,,,,,,,,,,
+2023-24,Blake Bell,,TE,,254.0,,,,,,,,,,,,,,,
+2023-24,Jaleel McLaughlin,DEN,RB,,254.0,,,,,,,,,,,,,,,
+2023-24,Eric Ebron,,TE,255.0,255.0,,,,,,,,,,,,,,,
+2023-24,Trey Palmer,TB,WR,,256.0,,,,,,,,,,,,,,,
+2023-24,Connor Heyward,PIT,TE,,257.0,,,,,,,,,,,,,,,
+2023-24,DeWayne McBride,,RB,266.0,278.5,,,,,,,,,,,,,,,
+2023-24,Ben Roethlisberger,,QB,,258.0,,,,,,,,,,,,,,,
+2023-24,Robert Tonyan,KC,TE,,280.0,,,,,,,,,,,,,,,
+2023-24,Christopher Dunn,,K3,,260.0,,,,,,,,,,,,,,,
+2023-24,Max Duggan,,QB,,261.0,,,,,,,,,,,,,,,
+2023-24,Christian Trahan,,TE,261.0,261.0,,,,,,,,,,,,,,,
+2023-24,Daniel Bellinger,NYG,TE,,280.5,,,,,,,,,,,,,,,
+2023-24,Stetson Bennett,LAR,QB,,263.0,,,,,,,,,,,,,,,
+2023-24,Israel Abanikanda,SF,RB,263.0,313.5,,,,,,,,,,,,,,,
+2023-24,James Robinson,,RB,,353.0,,,,,,,,,,,,,,,
+2023-24,Adrian Peterson,,RB,,264.0,,,,,,,,,,,,,,,
+2023-24,Tristan Vizcaino,,K3,,264.0,,,,,,,,,,,,,,,
+2023-24,Nikola Kalinic,ATL,TE,265.0,265.0,,,,,,,,,,,,,,,
+2023-24,Zack Kuntz,NYJ,TE,,265.0,,,,,,,,,,,,,,,
+2023-24,Jelani Woods,IND,TE,288.0,282.5,,,,,,,,,,,,,,,
+2023-24,Marvin Jones,,WR,,266.0,,,,,,,,,,,,,,,
+2023-24,Mohamed Ibrahim,,RB,,266.0,,,,,,,,,,,,,,,
+2023-24,Chase Cota-,DUP,WR,,267.0,,,,,,,,,,,,,,,
+2023-24,Austin Watkins Jr.,,WR,,269.0,,,,,,,,,,,,,,,
+2023-24,Zach Evans,NYJ,RB,270.0,270.0,,,,,,,,,,,,,,,
+2023-24,Chris Naggar,,K3,,270.0,,,,,,,,,,,,,,,
+2023-24,Rico Dowdle,CAR,RB,,271.0,,,,,,,,,,,,,,,
+2023-24,Armani Rogers,,TE,,271.0,,,,,,,,,,,,,,,
+2023-24,John Mitchell,,TE,271.0,271.0,,,,,,,,,,,,,,,
+2023-24,C.J. Uzomah,,TE,,272.0,,,,,,,,,,,,,,,
+2023-24,Michael Wilson,ARI,WR,272.0,272.0,,,,,,,,,,,,,,,
+2023-24,Matt Breida,,RB,,273.0,,,,,,,,,,,,,,,
+2023-24,Tucker Kraft,GB,TE,,273.0,,,,,,,,,,,,,,,
+2023-24,Boston Scott,,RB,,286.5,,,,,,,,,,,,,,,
+2023-24,Justin Watson,HOU,WR,,274.0,,,,,,,,,,,,,,,
+2023-24,Zach Wilson,MIA,QB,,275.0,,,,,,,,,,,,,,,
+2023-24,Joseph Ngata,,WR,,276.0,,,,,,,,,,,,,,,
+2023-24,Marcus Mariota,WAS,QB,,277.0,,,,,,,,,,,,,,,
+2023-24,Ronnie Bell,DET,WR,,278.0,,,,,,,,,,,,,,,
+2023-24,Matt Barkley,,QB,,279.0,,,,,,,,,,,,,,,
+2023-24,Logan Thomas,,TE,,279.0,,,,,,,,,,,,,,,
+2023-24,Austin Allen,,TE,279.0,279.0,,,,,,,,,,,,,,,
+2023-24,Will Dissly,LAC,TE,,280.0,,,,,,,,,,,,,,,
+2023-24,Albert Okwuegbunam Jr.,IND,TE,,280.0,,,,,,,,,,,,,,,
+2023-24,Rodrigo Blankenship,,K4,,281.0,,,,,,,,,,,,,,,
+2023-24,Khalil Shakir,BUF,WR,281.0,340.0,,,,,,,,,,,,,,,
+2023-24,Dustin Hopkins,CLE,K4,,282.0,,,,,,,,,,,,,,,
+2023-24,Deneric Prince,,RB,,282.0,,,,,,,,,,,,,,,
+2023-24,Durham Smythe,CHI,TE,,283.0,,,,,,,,,,,,,,,
+2023-24,Julio Jones,,WR,,284.0,,,,,,,,,,,,,,,
+2023-24,Quez Watkins,ARI,WR,,284.0,,,,,,,,,,,,,,,
+2023-24,Mitchell Trubisky,BUF,QB,,285.0,,,,,,,,,,,,,,,
+2023-24,Tyquan Thornton,KC,WR,285.0,285.0,,,,,,,,,,,,,,,
+2023-24,Josh Woodrum,,QB,286.0,286.0,,,,,,,,,,,,,,,
+2023-24,Equanimeous St. Brown,,WR,,286.0,,,,,,,,,,,,,,,
+2023-24,Nick Sciba,,K4,,287.0,,,,,,,,,,,,,,,
+2023-24,Thomas Greaney,,TE,287.0,287.0,,,,,,,,,,,,,,,
+2023-24,Isaiah McKenzie,,WR,,388.5,,,,,,,,,,,,,,,
+2023-24,Josh Oliver,MIN,TE,,288.0,,,,,,,,,,,,,,,
+2023-24,Jake Browning,CIN,QB,,289.0,,,,,,,,,,,,,,,
+2023-24,Pierre Strong Jr.,CLE,RB,289.0,289.0,,,,,,,,,,,,,,,
+2023-24,Cooper Rush,BAL,QB,,290.0,,,,,,,,,,,,,,,
+2023-24,Cole McDonald,,QB,290.0,290.0,,,,,,,,,,,,,,,
+2023-24,Terrace Marshall Jr.,PHI,WR,291.0,291.0,,,,,,,,,,,,,,,
+2023-24,Kyle Lauletta,,QB,292.0,292.0,,,,,,,,,,,,,,,
+2023-24,Trenton Irwin,,WR,,293.0,,,,,,,,,,,,,,,
+2023-24,Danny Etling,,QB,294.0,294.0,,,,,,,,,,,,,,,
+2023-24,Trace McSorley,,QB,,294.0,,,,,,,,,,,,,,,
+2023-24,KaVontae Turpin,DAL,WR,,295.0,,,,,,,,,,,,,,,
+2023-24,Cam Newton,,QB,,296.0,,,,,,,,,,,,,,,
+2023-24,Jauan Jennings,SF,WR,,296.0,,,,,,,,,,,,,,,
+2023-24,Peyton Hendershot,,TE,,297.0,,,,,,,,,,,,,,,
+2023-24,Malik Flowers,,WR,297.0,297.0,,,,,,,,,,,,,,,
+2023-24,Teddy Bridgewater,,QB,,298.0,,,,,,,,,,,,,,,
+2023-24,Sterling Shepard,TB,WR,,298.0,,,,,,,,,,,,,,,
+2023-24,Drew Lock,SEA,QB,,299.0,,,,,,,,,,,,,,,
+2023-24,J.J. Taylor,HOU,RB,,300.0,,,,,,,,,,,,,,,
+2023-24,Darius Jackson,,RB,301.0,301.0,,,,,,,,,,,,,,,
+2023-24,Jack Stoll,NO,TE,,302.0,,,,,,,,,,,,,,,
+2023-24,Troy Fumagalli,,TE,303.0,303.0,,,,,,,,,,,,,,,
+2023-24,Sean Clifford,GB,QB,,303.0,,,,,,,,,,,,,,,
+2023-24,Josh Hill,,TE,304.0,304.0,,,,,,,,,,,,,,,
+2023-24,Binjimen Victor,,WR,,304.0,,,,,,,,,,,,,,,
+2023-24,Devin Duvernay,CHI,WR,,305.0,,,,,,,,,,,,,,,
+2023-24,Levine Toilolo,,TE,305.0,305.0,,,,,,,,,,,,,,,
+2023-24,C.J. Ham,MIN,RB,,305.0,,,,,,,,,,,,,,,
+2023-24,Charlie Jones,CIN,WR,,306.0,,,,,,,,,,,,,,,
+2023-24,Ryan Succop,,K4,,307.0,,,,,,,,,,,,,,,
+2023-24,Nate Stanley,,QB,307.0,307.0,,,,,,,,,,,,,,,
+2023-24,Le'Veon Bell,,RB,,308.0,,,,,,,,,,,,,,,
+2023-24,Kaden Smith,,TE,308.0,308.0,,,,,,,,,,,,,,,
+2023-24,Marquise Goodwin,,WR,,309.0,,,,,,,,,,,,,,,
+2023-24,Nick Bowers,,TE,309.0,309.0,,,,,,,,,,,,,,,
+2023-24,Briley Moore,,TE,310.0,310.0,,,,,,,,,,,,,,,
+2023-24,Grant DuBose,,WR,,311.0,,,,,,,,,,,,,,,
+2023-24,Ross Travis,,TE,312.0,312.0,,,,,,,,,,,,,,,
+2023-24,Olamide Zaccheaus,CHI,WR,,312.0,,,,,,,,,,,,,,,
+2023-24,Jason Brownlee,KC,WR,,313.0,,,,,,,,,,,,,,,
+2023-24,Derek Watt,,RB,,314.0,,,,,,,,,,,,,,,
+2023-24,Matt Bushman,,TE,314.0,314.0,,,,,,,,,,,,,,,
+2023-24,Jordan Matthews,,TE,316.0,316.0,,,,,,,,,,,,,,,
+2023-24,Hendon Hooker,DET,QB,,316.0,,,,,,,,,,,,,,,
+2023-24,Kahale Warring,,TE,317.0,317.0,,,,,,,,,,,,,,,
+2023-24,Brock Wright,DET,TE,,317.0,,,,,,,,,,,,,,,
+2023-24,DaeSean Hamilton,,WR,318.0,318.0,,,,,,,,,,,,,,,
+2023-24,Jalen Tolbert,DAL,WR,,318.0,,,,,,,,,,,,,,,
+2023-24,Jonnu Smith,MIA,TE,,319.0,,,,,,,,,,,,,,,
+2023-24,Jarrett Stidham,DEN,QB,,320.0,,,,,,,,,,,,,,,
+2023-24,Andrei Iosivas,CIN,WR,,321.0,,,,,,,,,,,,,,,
+2023-24,Jameis Winston,NYG,QB,,322.0,,,,,,,,,,,,,,,
+2024-25,Christian McCaffrey,SF,RB,1.0,1.0,1.1008368124838298e+18,1.0,,1.0,Devin,4034,,9.0,1.0,Christian McCaffrey,RB,SF,7.0,Questionable,0.0
+2024-25,CeeDee Lamb,DAL,WR,3.0,2.6,1.1008368124838298e+18,2.0,,2.0,Scott,6786,,2.0,1.0,CeeDee Lamb,WR,DAL,4.0,,1.0
+2024-25,Tyreek Hill,MIA,WR,2.0,3.2,1.1008368124838298e+18,4.0,,4.0,Kiyan,3321,"{'466691579390717952': ['poop'], '605824057266483200': ['shock'], '607791058134327296': ['poop'], '608049714767679488': ['poop'], '608106839443337216': ['poop']}",10.0,1.0,Tyreek Hill,WR,MIA,8.0,Questionable,-2.0
+2024-25,Bijan Robinson,ATL,RB,6.0,5.0,1.1008368124838298e+18,3.0,,3.0,James,9509,"{'605824057266483200': ['poop'], '607733942388322304': ['poop'], '608049714767679488': ['poop']}",5.0,1.0,Bijan Robinson,RB,ATL,1.0,,3.0
+2024-25,Breece Hall,NYJ,RB,8.0,5.4,1.1008368124838298e+18,8.0,,8.0,Adam,8155,{'466691579390717952': ['dislike']},7.0,1.0,Breece Hall,RB,NYJ,2.0,,0.0
+2024-25,Amon-Ra St. Brown,DET,WR,7.0,6.2,1.1008368124838298e+18,6.0,,6.0,Nate,7547,,1.0,1.0,Amon-Ra St. Brown,WR,DET,3.0,,1.0
+2024-25,Ja'Marr Chase,CIN,WR,5.0,6.6,1.1008368124838298e+18,5.0,,5.0,Zack,7564,{'605824057266483200': ['smart']},3.0,1.0,Ja'Marr Chase,WR,CIN,3.0,,0.0
+2024-25,Justin Jefferson,MIN,WR,4.0,7.0,1.1008368124838298e+18,7.0,,7.0,Eric,6794,"{'466691579390717952': ['dislike'], '607791058134327296': ['crying']}",6.0,1.0,Justin Jefferson,WR,MIN,4.0,,-3.0
+2024-25,Saquon Barkley,PHI,RB,11.0,9.2,1.1008368124838298e+18,10.0,,11.0,Ira,4866,,8.0,2.0,Saquon Barkley,RB,PHI,6.0,,0.0
+2024-25,A.J. Brown,PHI,WR,9.0,10.2,1.1008368124838298e+18,10.0,,10.0,Ira,5859,"{'605824057266483200': ['angry'], '608049714767679488': ['poop']}",8.0,1.0,A.J. Brown,WR,PHI,5.0,,-1.0
+2024-25,Jonathan Taylor,IND,RB,13.0,10.4,1.1008368124838298e+18,7.0,,14.0,Eric,6813,,6.0,2.0,Jonathan Taylor,RB,IND,4.0,,-1.0
+2024-25,Garrett Wilson,NYJ,WR,10.0,12.4,1.1008368124838298e+18,9.0,,9.0,Trent,8146,,4.0,1.0,Garrett Wilson,WR,NYJ,2.0,,1.0
+2024-25,Jahmyr Gibbs,DET,RB,12.0,12.8,1.1008368124838298e+18,9.0,,12.0,Trent,9221,,4.0,2.0,Jahmyr Gibbs,RB,DET,1.0,Questionable,0.0
+2024-25,Puka Nacua,LAR,WR,16.0,14.2,1.1008368124838298e+18,4.0,,17.0,Kiyan,9493,,10.0,2.0,Puka Nacua,WR,LAR,1.0,Questionable,-1.0
+2024-25,Kyren Williams,LAR,RB,15.0,16.0,1.1008368124838298e+18,6.0,,15.0,Nate,8150,,1.0,2.0,Kyren Williams,RB,LAR,2.0,,0.0
+2024-25,Marvin Harrison,ARI,WR,14.0,16.8,1.1008368124838298e+18,8.0,,13.0,Adam,11628,,7.0,2.0,Marvin Harrison,WR,ARI,0.0,,1.0
+2024-25,Travis Etienne,JAC,RB,18.0,17.4,1.1008368124838298e+18,3.0,,18.0,James,7543,,5.0,2.0,Travis Etienne,RB,JAX,3.0,,0.0
+2024-25,Derrick Henry,BAL,RB,20.0,18.0,1.1008368124838298e+18,5.0,,16.0,Zack,3198,,3.0,2.0,Derrick Henry,RB,BAL,8.0,,4.0
+2024-25,Isiah Pacheco,KC,RB,28.0,20.2,1.1008368124838298e+18,2.0,,19.0,Scott,8205,"{'466691579390717952': ['crying'], '605824057266483200': ['dislike'], '607733942388322304': ['smart'], '607791058134327296': ['happy'], '608049714767679488': ['poop']}",2.0,2.0,Isiah Pacheco,RB,KC,2.0,,9.0
+2024-25,Davante Adams,LAR,WR,17.0,22.0,1.1008368124838298e+18,4.0,,24.0,Kiyan,2133,,10.0,3.0,Davante Adams,WR,LV,10.0,Questionable,-7.0
+2024-25,Josh Allen,BUF,QB,22.0,24.2,1.1008368124838298e+18,7.0,,27.0,Eric,4984,"{'605824057266483200': ['crying'], '607733942388322304': ['heart']}",6.0,3.0,Josh Allen,QB,BUF,6.0,,-5.0
+2024-25,Travis Kelce,KC,TE,21.0,25.2,1.1008368124838298e+18,3.0,,23.0,James,1466,,5.0,3.0,Travis Kelce,TE,KC,11.0,,-2.0
+2024-25,Drake London,ATL,WR,19.0,25.6,1.1008368124838298e+18,2.0,,22.0,Scott,8112,,2.0,3.0,Drake London,WR,ATL,2.0,,-3.0
+2024-25,Chris Olave,NO,WR,23.0,26.2,1.1008368124838298e+18,6.0,,26.0,Nate,8144,,1.0,3.0,Chris Olave,WR,NO,2.0,,-3.0
+2024-25,De'Von Achane,MIA,RB,25.0,27.4,1.1008368124838298e+18,1.0,,21.0,Devin,9226,,9.0,3.0,De'Von Achane,RB,MIA,1.0,,4.0
+2024-25,Josh Jacobs,GB,RB,27.0,28.2,1.1008368124838298e+18,9.0,,29.0,Trent,5850,{'607733942388322304': ['smart']},4.0,3.0,Josh Jacobs,RB,GB,5.0,,-2.0
+2024-25,Nico Collins,HOU,WR,31.0,28.2,1.1008368124838298e+18,10.0,,30.0,Ira,7569,{'607733942388322304': ['smart']},8.0,3.0,Nico Collins,WR,HOU,3.0,,1.0
+2024-25,Patrick Mahomes,KC,QB,30.0,29.0,1.1008368124838298e+18,4.0,,37.0,Kiyan,4046,,10.0,4.0,Patrick Mahomes,QB,KC,7.0,,-7.0
+2024-25,James Cook,BUF,RB,41.0,31.0,1.1008368124838298e+18,2.0,,42.0,Scott,8138,,2.0,5.0,James Cook,RB,BUF,2.0,,-1.0
+2024-25,Mike Evans,TB,WR,29.0,31.2,1.1008368124838298e+18,1.0,,20.0,Devin,2216,,9.0,2.0,Mike Evans,WR,TB,10.0,,9.0
+2024-25,Jalen Hurts,PHI,QB,35.0,31.2,1.1008368124838298e+18,6.0,,35.0,Nate,6904,,1.0,4.0,Jalen Hurts,QB,PHI,4.0,,0.0
+2024-25,Rachaad White,TB,RB,38.0,31.6,1.1008368124838298e+18,6.0,,46.0,Nate,8136,,1.0,5.0,Rachaad White,RB,TB,2.0,,-8.0
+2024-25,Sam LaPorta,DET,TE,24.0,31.8,1.1008368124838298e+18,9.0,,32.0,Trent,10859,,4.0,4.0,Sam LaPorta,TE,DET,1.0,Questionable,-8.0
+2024-25,Deebo Samuel,WAS,WR,33.0,32.0,1.1008368124838298e+18,7.0,,34.0,Eric,5872,,6.0,4.0,Deebo Samuel,WR,SF,5.0,,-1.0
+2024-25,Brandon Aiyuk,SF,WR,26.0,34.0,1.1008368124838298e+18,5.0,,25.0,Zack,6803,,3.0,3.0,Brandon Aiyuk,WR,SF,4.0,,1.0
+2024-25,Michael Pittman,IND,WR,40.0,34.6,1.1008368124838298e+18,3.0,,43.0,James,6819,,5.0,5.0,Michael Pittman,WR,IND,4.0,,-3.0
+2024-25,Cooper Kupp,SEA,WR,39.0,34.8,1.1008368124838298e+18,5.0,,36.0,Zack,4039,{'607733942388322304': ['smart']},3.0,4.0,Cooper Kupp,WR,LAR,7.0,,3.0
+2024-25,Lamar Jackson,BAL,QB,34.0,37.2,1.1008368124838298e+18,8.0,,28.0,Adam,4881,,7.0,3.0,Lamar Jackson,QB,BAL,6.0,,6.0
+2024-25,Joe Mixon,HOU,RB,47.0,38.6,1.1008368124838298e+18,9.0,,49.0,Trent,4018,,4.0,5.0,Joe Mixon,RB,HOU,7.0,,-2.0
+2024-25,Alvin Kamara,NO,RB,48.0,39.6,1.1008368124838298e+18,7.0,,47.0,Eric,4035,,6.0,5.0,Alvin Kamara,RB,NO,7.0,,1.0
+2024-25,DK Metcalf,PIT,WR,43.0,41.2,1.1008368124838298e+18,1.0,,40.0,Devin,5846,{'607791058134327296': ['poop']},9.0,4.0,DK Metcalf,WR,SEA,5.0,,3.0
+2024-25,Kenneth Walker,SEA,RB,50.0,41.4,1.1008368124838298e+18,1.0,,41.0,Devin,8151,,9.0,5.0,Kenneth Walker,RB,SEA,2.0,,9.0
+2024-25,Jaylen Waddle,MIA,WR,36.0,42.6,1.1008368124838298e+18,10.0,,31.0,Ira,7526,"{'607733942388322304': ['smart'], '607791058134327296': ['happy']}",8.0,4.0,Jaylen Waddle,WR,MIA,3.0,Questionable,5.0
+2024-25,Stefon Diggs,NE,WR,32.0,43.0,1.1008368124838298e+18,3.0,,38.0,James,2449,,5.0,4.0,Stefon Diggs,WR,HOU,9.0,,-6.0
+2024-25,D.J. Moore,CHI,WR,37.0,43.6,,,,,,,,,,,,,,,
+2024-25,DeVonta Smith,PHI,WR,49.0,44.0,1.1008368124838298e+18,9.0,,52.0,Trent,7525,{'607733942388322304': ['smart']},4.0,6.0,DeVonta Smith,WR,PHI,3.0,,-3.0
+2024-25,Mark Andrews,BAL,TE,45.0,45.8,1.1008368124838298e+18,5.0,,45.0,Zack,5012,,3.0,5.0,Mark Andrews,TE,BAL,6.0,Questionable,0.0
+2024-25,Trey McBride,ARI,TE,46.0,46.4,1.1008368124838298e+18,2.0,,39.0,Scott,8130,,2.0,4.0,Trey McBride,TE,ARI,2.0,,7.0
+2024-25,Malik Nabers,NYG,WR,44.0,48.6,1.1008368124838298e+18,4.0,,44.0,Kiyan,11632,{'608049714767679488': ['poop']},10.0,5.0,Malik Nabers,WR,NYG,0.0,,0.0
+2024-25,C.J. Stroud,HOU,QB,42.0,48.6,1.1008368124838298e+18,3.0,,58.0,James,9758,,5.0,6.0,C.J. Stroud,QB,HOU,1.0,,-16.0
+2024-25,Dalton Kincaid,BUF,TE,51.0,53.6,1.1008368124838298e+18,8.0,,48.0,Adam,10236,,7.0,5.0,Dalton Kincaid,TE,BUF,1.0,,3.0
+2024-25,James Conner,ARI,RB,63.0,56.0,1.1008368124838298e+18,8.0,,53.0,Adam,4137,"{'607733942388322304': ['heart'], '607791058134327296': ['angry']}",7.0,6.0,James Conner,RB,ARI,7.0,,10.0
+2024-25,George Kittle,SF,TE,53.0,56.6,1.1008368124838298e+18,10.0,,51.0,Ira,4217,,8.0,6.0,George Kittle,TE,SF,7.0,,2.0
+2024-25,Amari Cooper,,WR,59.0,56.8,1.1008368124838298e+18,1.0,,60.0,Devin,2309,,9.0,6.0,Amari Cooper,WR,CLE,9.0,,-1.0
+2024-25,Anthony Richardson,IND,QB,56.0,57.6,1.1008368124838298e+18,5.0,,56.0,Zack,9229,,3.0,6.0,Anthony Richardson,QB,IND,1.0,,0.0
+2024-25,Aaron Jones,MIN,RB,58.0,59.2,1.1008368124838298e+18,4.0,,57.0,Kiyan,4199,,10.0,6.0,Aaron Jones,RB,MIN,7.0,,1.0
+2024-25,George Pickens,DAL,WR,57.0,59.6,1.1008368124838298e+18,5.0,,65.0,Zack,8137,,3.0,7.0,George Pickens,WR,PIT,2.0,,-8.0
+2024-25,D'Andre Swift,CHI,RB,62.0,60.6,1.1008368124838298e+18,3.0,,63.0,James,6790,,5.0,7.0,D'Andre Swift,RB,CHI,4.0,,-1.0
+2024-25,Joe Burrow,CIN,QB,61.0,61.8,1.1008368124838298e+18,10.0,,70.0,Ira,6770,,8.0,7.0,Joe Burrow,QB,CIN,4.0,,-9.0
+2024-25,David Montgomery,DET,RB,65.0,61.8,1.1008368124838298e+18,6.0,,66.0,Nate,5892,,1.0,7.0,David Montgomery,RB,DET,5.0,,-1.0
+2024-25,Tee Higgins,CIN,WR,60.0,62.2,1.1008368124838298e+18,2.0,,62.0,Scott,6801,,2.0,7.0,Tee Higgins,WR,CIN,4.0,,-2.0
+2024-25,Zay Flowers,BAL,WR,52.0,63.2,1.1008368124838298e+18,7.0,,54.0,Eric,9997,,6.0,6.0,Zay Flowers,WR,BAL,1.0,,-2.0
+2024-25,Kyle Pitts,ATL,TE,55.0,64.2,1.1008368124838298e+18,8.0,,73.0,Adam,7553,,7.0,8.0,Kyle Pitts,TE,ATL,3.0,,-18.0
+2024-25,Tank Dell,HU,WR,54.0,65.0,1.1008368124838298e+18,6.0,,55.0,Nate,9502,,1.0,6.0,Tank Dell,WR,HOU,1.0,,-1.0
+2024-25,Evan Engram,DEN,TE,67.0,65.0,1.1008368124838298e+18,1.0,,61.0,Devin,4066,,9.0,7.0,Evan Engram,TE,JAX,7.0,,6.0
+2024-25,Zamir White,LV,RB,82.0,66.6,1.1008368124838298e+18,9.0,,72.0,Trent,8139,,4.0,8.0,Zamir White,RB,LV,2.0,,10.0
+2024-25,Rhamondre Stevenson,NE,RB,69.0,66.6,1.1008368124838298e+18,7.0,,67.0,Eric,7611,{'605824057266483200': ['angry']},6.0,7.0,Rhamondre Stevenson,RB,NE,3.0,,2.0
+2024-25,Rashee Rice,KC,WR,70.0,67.6,1.1008368124838298e+18,2.0,,59.0,Scott,10229,,2.0,6.0,Rashee Rice,WR,KC,1.0,,11.0
+2024-25,Dak Prescott,DAL,QB,71.0,68.4,1.1008368124838298e+18,8.0,,108.0,Adam,3294,,7.0,11.0,Dak Prescott,QB,DAL,8.0,,-37.0
+2024-25,Kyler Murray,ARI,QB,78.0,70.2,1.1008368124838298e+18,2.0,,79.0,Scott,5849,,2.0,8.0,Kyler Murray,QB,ARI,5.0,,-1.0
+2024-25,Najee Harris,LAC,RB,73.0,70.8,1.1008368124838298e+18,5.0,,76.0,Zack,7528,,3.0,8.0,Najee Harris,RB,PIT,3.0,,-3.0
+2024-25,Jordan Love,GB,QB,80.0,71.4,1.1008368124838298e+18,1.0,,80.0,Devin,6804,,9.0,8.0,Jordan Love,QB,GB,4.0,,0.0
+2024-25,Terry McLaurin,WAS,WR,68.0,71.6,1.1008368124838298e+18,4.0,,64.0,Kiyan,5927,,10.0,7.0,Terry McLaurin,WR,WAS,5.0,,4.0
+2024-25,Calvin Ridley,TEN,WR,83.0,74.4,1.1008368124838298e+18,8.0,,68.0,Adam,4981,{'607733942388322304': ['smart']},7.0,7.0,Calvin Ridley,WR,TEN,6.0,,15.0
+2024-25,Raheem Mostert,LV,RB,81.0,74.6,1.1008368124838298e+18,1.0,,81.0,Devin,2749,"{'466691579390717952': ['heart'], '605824057266483200': ['happy'], '607791058134327296': ['crying']}",9.0,9.0,Raheem Mostert,RB,MIA,9.0,,0.0
+2024-25,Christian Kirk,HU,WR,66.0,74.6,1.1008368124838298e+18,10.0,,50.0,Ira,4950,,8.0,5.0,Christian Kirk,WR,JAX,6.0,Questionable,16.0
+2024-25,Chris Godwin,TB,WR,75.0,76.2,1.1008368124838298e+18,9.0,,69.0,Trent,4037,,4.0,7.0,Chris Godwin,WR,TB,7.0,,6.0
+2024-25,Keenan Allen,,WR,64.0,79.4,1.1008368124838298e+18,7.0,,74.0,Eric,1479,,6.0,8.0,Keenan Allen,WR,CHI,11.0,,-10.0
+2024-25,Javonte Williams,DAL,RB,90.0,81.2,1.1008368124838298e+18,4.0,,77.0,Kiyan,7588,,10.0,8.0,Javonte Williams,RB,DEN,3.0,,13.0
+2024-25,Jake Ferguson,DAL,TE,86.0,81.6,1.1008368124838298e+18,4.0,,84.0,Kiyan,8110,,10.0,9.0,Jake Ferguson,TE,DAL,2.0,,2.0
+2024-25,Tony Pollard,TEN,RB,77.0,81.8,1.1008368124838298e+18,2.0,,82.0,Scott,5967,,2.0,9.0,Tony Pollard,RB,TEN,5.0,,-5.0
+2024-25,David Njoku,CLE,TE,84.0,84.2,1.1008368124838298e+18,7.0,,94.0,Eric,4033,,6.0,10.0,David Njoku,TE,CLE,7.0,Questionable,-10.0
+2024-25,Jayden Reed,GB,WR,74.0,87.2,1.1008368124838298e+18,3.0,,78.0,James,10222,,5.0,8.0,Jayden Reed,WR,GB,1.0,,-4.0
+2024-25,Diontae Johnson,CLE,WR,95.0,88.2,1.1008368124838298e+18,6.0,,86.0,Nate,5937,,1.0,9.0,Diontae Johnson,WR,CAR,5.0,,9.0
+2024-25,Xavier Worthy,KC,WR,76.0,90.0,1.1008368124838298e+18,7.0,,87.0,Eric,11624,,6.0,9.0,Xavier Worthy,WR,KC,0.0,,-11.0
+2024-25,Austin Ekeler,WAS,RB,93.0,91.0,1.1008368124838298e+18,3.0,,83.0,James,4663,,5.0,9.0,Austin Ekeler,RB,WAS,7.0,,10.0
+2024-25,Brock Purdy,SF,QB,91.0,91.8,,,,,,,,,,,,,,,
+2024-25,Brian Robinson,WAS,RB,108.0,92.6,1.1008368124838298e+18,10.0,,90.0,Ira,8154,,8.0,9.0,Brian Robinson,RB,WAS,2.0,,18.0
+2024-25,Jaylen Warren,PIT,RB,98.0,92.6,1.1008368124838298e+18,8.0,,93.0,Adam,8228,,7.0,10.0,Jaylen Warren,RB,PIT,2.0,Questionable,5.0
+2024-25,Devin Singletary,NYG,RB,99.0,94.4,1.1008368124838298e+18,4.0,,97.0,Kiyan,6130,,10.0,10.0,Devin Singletary,RB,NYG,5.0,,2.0
+2024-25,Zack Moss,CIN,RB,92.0,98.0,1.1008368124838298e+18,4.0,,104.0,Kiyan,6845,,10.0,11.0,Zack Moss,RB,CIN,4.0,,-12.0
+2024-25,Rome Odunze,CHI,WR,72.0,98.4,1.1008368124838298e+18,6.0,,75.0,Nate,11620,,1.0,8.0,Rome Odunze,WR,CHI,0.0,,-3.0
+2024-25,Jaxon Smith-Njigba,SEA,WR,100.0,99.8,1.1008368124838298e+18,8.0,,88.0,Adam,9488,,7.0,9.0,Jaxon Smith-Njigba,WR,SEA,1.0,,12.0
+2024-25,Tyjae Spears,TEN,RB,107.0,100.2,1.1008368124838298e+18,5.0,,85.0,Zack,9508,,3.0,9.0,Tyjae Spears,RB,TEN,1.0,,22.0
+2024-25,Brock Bowers,LV,TE,79.0,100.6,1.1008368124838298e+18,9.0,,109.0,Trent,11604,"{'607791058134327296': ['thinking'], '608049714767679488': ['poop']}",4.0,11.0,Brock Bowers,TE,LV,0.0,Questionable,-30.0
+2024-25,Nick Chubb,,RB,87.0,100.8,1.1008368124838298e+18,10.0,,71.0,Ira,4988,,8.0,8.0,Nick Chubb,RB,CLE,6.0,PUP,16.0
+2024-25,Jonathon Brooks,CAR,RB,97.0,101.4,1.1008368124838298e+18,9.0,,92.0,Trent,11583,,4.0,10.0,Jonathon Brooks,RB,CAR,0.0,PUP,5.0
+2024-25,Christian Watson,GB,WR,103.0,102.2,1.1008368124838298e+18,5.0,,105.0,Zack,8167,,3.0,11.0,Christian Watson,WR,GB,2.0,,-2.0
+2024-25,Jayden Daniels,WAS,QB,115.0,102.6,1.1008368124838298e+18,9.0,,112.0,Trent,11566,,4.0,12.0,Jayden Daniels,QB,WAS,0.0,,3.0
+2024-25,Keon Coleman,BUF,WR,94.0,104.6,1.1008368124838298e+18,2.0,,99.0,Scott,11637,,2.0,10.0,Keon Coleman,WR,BUF,0.0,,-5.0
+2024-25,Ladd McConkey,LAC,WR,88.0,105.4,1.1008368124838298e+18,9.0,,89.0,Trent,11635,{'607791058134327296': ['crying']},4.0,9.0,Ladd McConkey,WR,LAC,0.0,,-1.0
+2024-25,DeAndre Hopkins,BAL,WR,96.0,107.6,1.1008368124838298e+18,3.0,,103.0,James,1426,{'607791058134327296': ['happy']},5.0,11.0,DeAndre Hopkins,WR,TEN,11.0,Questionable,-7.0
+2024-25,Justin Tucker,,K1,127.0,108.4,1.1008368124838298e+18,4.0,,124.0,Kiyan,1264,,10.0,13.0,Justin Tucker,K,BAL,12.0,,3.0
+2024-25,Caleb Williams,CHI,QB,101.0,109.0,1.1008368124838298e+18,1.0,,100.0,Devin,11560,,9.0,10.0,Caleb Williams,QB,CHI,0.0,,1.0
+2024-25,Dallas Goedert,PHI,TE,102.0,109.6,1.1008368124838298e+18,6.0,,95.0,Nate,5022,,1.0,10.0,Dallas Goedert,TE,PHI,6.0,Questionable,7.0
+2024-25,Hollywood Brown,KC,WR,89.0,110.2,1.1008368124838298e+18,5.0,,96.0,Zack,5848,,3.0,10.0,Hollywood Brown,WR,KC,5.0,Questionable,-7.0
+2024-25,Jordan Addison,MIN,WR,85.0,110.4,1.1008368124838298e+18,3.0,,98.0,James,9756,,5.0,10.0,Jordan Addison,WR,MIN,1.0,Questionable,-13.0
+2024-25,Chase Brown,CIN,RB,118.0,111.2,1.1008368124838298e+18,2.0,,102.0,Scott,9224,,2.0,11.0,Chase Brown,RB,CIN,1.0,,16.0
+2024-25,Harrison Butker,KC,K2,128.0,112.2,1.1008368124838298e+18,3.0,,138.0,James,4227,,5.0,14.0,Harrison Butker,K,KC,7.0,,-10.0
+2024-25,Courtland Sutton,DEN,WR,116.0,112.4,1.1008368124838298e+18,7.0,,107.0,Eric,5045,,6.0,11.0,Courtland Sutton,WR,DEN,6.0,,9.0
+2024-25,Jerome Ford,CLE,RB,122.0,113.0,1.1008368124838298e+18,6.0,,115.0,Nate,8143,,1.0,12.0,Jerome Ford,RB,CLE,2.0,,7.0
+2024-25,Ezekiel Elliott,,RB,114.0,113.2,1.1008368124838298e+18,5.0,,125.0,Zack,3164,,3.0,13.0,Ezekiel Elliott,RB,DAL,8.0,,-11.0
+2024-25,Brandon Aubrey,DAL,K3,129.0,113.4,1.1008368124838298e+18,6.0,,126.0,Nate,11533,,1.0,13.0,Brandon Aubrey,K,DAL,1.0,,3.0
+2024-25,Gus Edwards,,RB,113.0,113.6,1.1008368124838298e+18,10.0,,91.0,Ira,5248,,8.0,10.0,Gus Edwards,RB,LAC,6.0,,22.0
+2024-25,Tua Tagovailoa,MIA,QB,104.0,115.8,1.1008368124838298e+18,10.0,,111.0,Ira,6768,,8.0,12.0,Tua Tagovailoa,QB,MIA,4.0,,-7.0
+2024-25,San Francisco 49ers,DST,DS,143.0,116.0,1.1008368124838298e+18,10.0,,131.0,Ira,SF,,8.0,14.0,San Francisco 49ers,DEF,SF,,,12.0
+2024-25,Jared Goff,DET,QB,109.0,116.0,1.1008368124838298e+18,9.0,,129.0,Trent,3163,,4.0,13.0,Jared Goff,QB,DET,8.0,,-20.0
+2024-25,Brian Thomas,JAC,WR,105.0,116.2,1.1008368124838298e+18,1.0,,101.0,Devin,11631,,9.0,11.0,Brian Thomas,WR,JAX,0.0,,4.0
+2024-25,Jameson Williams,DET,WR,111.0,120.2,1.1008368124838298e+18,5.0,,116.0,Zack,8148,,3.0,12.0,Jameson Williams,WR,DET,2.0,,-5.0
+2024-25,Dalton Schultz,HOU,TE,106.0,125.6,1.1008368124838298e+18,3.0,,118.0,James,5001,,5.0,12.0,Dalton Schultz,TE,HOU,6.0,,-12.0
+2024-25,T.J. Hockenson,MIN,TE,110.0,126.4,1.1008368124838298e+18,7.0,,114.0,Eric,5844,,6.0,12.0,T.J. Hockenson,TE,MIN,5.0,PUP,-4.0
+2024-25,Dallas Cowboys,DST,DS,185.0,128.0,1.1008368124838298e+18,2.0,,139.0,Scott,DAL,,2.0,14.0,Dallas Cowboys,DEF,DAL,,,46.0
+2024-25,Blake Corum,LAR,RB,120.0,128.0,1.1008368124838298e+18,6.0,,106.0,Nate,11586,,1.0,11.0,Blake Corum,RB,LAR,0.0,,14.0
+2024-25,Baltimore Ravens,DST,DS,190.0,128.2,1.1008368124838298e+18,1.0,,140.0,Devin,BAL,,9.0,14.0,Baltimore Ravens,DEF,BAL,,,50.0
+2024-25,New York Jets,DST,DS,154.0,128.4,1.1008368124838298e+18,5.0,,136.0,Zack,NYJ,,3.0,14.0,New York Jets,DEF,NYJ,,,18.0
+2024-25,Trevor Lawrence,JAC,QB,125.0,129.4,,,,,,,,,,,,,,,
+2024-25,Justin Herbert,LAC,QB,124.0,130.8,,,,,,,,,,,,,,,
+2024-25,Khalil Shakir,BUF,WR,131.0,132.0,1.1008368124838298e+18,2.0,,122.0,Scott,8134,,2.0,13.0,Khalil Shakir,WR,BUF,2.0,,9.0
+2024-25,Chuba Hubbard,CAR,RB,140.0,132.4,,,,,,,,,,,,,,,
+2024-25,J.K. Dobbins,,RB,142.0,132.4,1.1008368124838298e+18,4.0,,117.0,Kiyan,6806,,10.0,12.0,J.K. Dobbins,RB,LAC,4.0,,25.0
+2024-25,Trey Benson,ARI,RB,112.0,133.6,1.1008368124838298e+18,3.0,,123.0,James,11589,,5.0,13.0,Trey Benson,RB,ARI,0.0,,-11.0
+2024-25,Cleveland Browns,DST,DS,193.0,134.6,1.1008368124838298e+18,4.0,,137.0,Kiyan,CLE,,10.0,14.0,Cleveland Browns,DEF,CLE,,,56.0
+2024-25,Pat Freiermuth,PIT,TE,126.0,135.4,,,,,,,,,,,,,,,
+2024-25,Aaron Rodgers,,QB,135.0,136.2,,,,,,,,,,,,,,,
+2024-25,Tyler Lockett,TEN,WR,123.0,139.4,,,,,,,,,,,,,,,
+2024-25,Younghoe Koo,ATL,K4,132.0,140.0,1.1008368124838298e+18,9.0,,132.0,Trent,4666,,4.0,14.0,Younghoe Koo,K,ATL,7.0,,0.0
+2024-25,Cole Kmet,CHI,TE,121.0,141.0,,,,,,,,,,,,,,,
+2024-25,Romeo Doubs,GB,WR,119.0,142.0,1.1008368124838298e+18,8.0,,113.0,Adam,8121,,7.0,12.0,Romeo Doubs,WR,GB,2.0,,6.0
+2024-25,Kirk Cousins,ATL,QB,145.0,142.6,,,,,,,,,,,,,,,
+2024-25,Curtis Samuel,BUF,WR,117.0,143.6,1.1008368124838298e+18,10.0,,110.0,Ira,4082,{'607791058134327296': ['shock']},8.0,11.0,Curtis Samuel,WR,BUF,7.0,Questionable,7.0
+2024-25,Jakobi Meyers,LV,WR,134.0,143.6,1.1008368124838298e+18,8.0,,133.0,Adam,5947,,7.0,14.0,Jakobi Meyers,WR,LV,5.0,,1.0
+2024-25,Jerry Jeudy,CLE,WR,136.0,143.8,,,,,,,,,,,,,,,
+2024-25,Jake Elliott,PHI,K5,146.0,145.4,1.1008368124838298e+18,7.0,,127.0,Eric,4195,,6.0,13.0,Jake Elliott,K,PHI,7.0,,19.0
+2024-25,Zach Charbonnet,SEA,RB,137.0,147.4,1.1008368124838298e+18,7.0,,134.0,Eric,9753,,6.0,14.0,Zach Charbonnet,RB,SEA,1.0,Questionable,3.0
+2024-25,Ka'imi Fairbairn,HOU,K6,151.0,149.0,,,,,,,,,,,,,,,
+2024-25,Evan McPherson,CIN,K7,130.0,149.2,1.1008368124838298e+18,10.0,,130.0,Ira,7839,,8.0,13.0,Evan McPherson,K,CIN,3.0,,0.0
+2024-25,Mike Williams,LAC,WR,144.0,149.8,1.1008368124838298e+18,6.0,,135.0,Nate,4068,,1.0,14.0,Mike Williams,WR,NYJ,7.0,Questionable,9.0
+2024-25,Matthew Stafford,LAR,QB,149.0,150.6,,,,,,,,,,,,,,,
+2024-25,Rico Dowdle,CAR,RB,147.0,150.8,1.1008368124838298e+18,1.0,,121.0,Devin,7021,,9.0,13.0,Rico Dowdle,RB,DAL,4.0,,26.0
+2024-25,Joshua Palmer,BUF,WR,138.0,151.4,1.1008368124838298e+18,2.0,,119.0,Scott,7670,,2.0,12.0,Joshua Palmer,WR,LAC,3.0,,19.0
+2024-25,Jake Moody,SF,K8,148.0,156.6,1.1008368124838298e+18,2.0,,142.0,Scott,10937,,2.0,15.0,Jake Moody,K,SF,1.0,,6.0
+2024-25,Tyler Allgeier,ATL,RB,160.0,156.8,,,,,,,,,,,,,,,
+2024-25,Pittsburgh Steelers,DST,DS,195.0,158.6,,,,,,,,,,,,,,,
+2024-25,Kansas City Chiefs,DST,DS,205.0,160.0,1.1008368124838298e+18,7.0,,147.0,Eric,KC,,6.0,15.0,Kansas City Chiefs,DEF,KC,,,58.0
+2024-25,Ty Chandler,MIN,RB,159.0,160.8,,,,,,,,,,,,,,,
+2024-25,Adam Thielen,CAR,WR,163.0,161.0,,,,,,,,,,,,,,,
+2024-25,Jaleel McLaughlin,DEN,RB,175.0,162.0,,,,,,,,,,,,,,,
+2024-25,Deshaun Watson,CLE,QB,168.0,163.8,,,,,,,,,,,,,,,
+2024-25,Buffalo Bills,DST,DS,253.0,164.8,,,,,,,,,,,,,,,
+2024-25,Baker Mayfield,TB,QB,158.0,166.6,,,,,,,,,,,,,,,
+2024-25,Cameron Dicker,LAC,K9,152.0,166.8,1.1008368124838298e+18,5.0,,145.0,Zack,8259,,3.0,15.0,Cameron Dicker,K,LAC,2.0,,7.0
+2024-25,Gabe Davis ,,WR,153.0,168.8,,,,,,,,,,,,,,,
+2024-25,Brandin Cooks,NO,WR,162.0,169.2,,,,,,,,,,,,,,,
+2024-25,Jaylen Wright,MIA,RB,150.0,169.8,1.1008368124838298e+18,8.0,,128.0,Adam,11643,,7.0,13.0,Jaylen Wright,RB,MIA,0.0,,22.0
+2024-25,Luke Musgrave,GB,TE,141.0,169.8,,,,,,,,,,,,,,,
+2024-25,Adonai Mitchell,IND,WR,133.0,170.6,1.1008368124838298e+18,1.0,,120.0,Devin,11625,,9.0,12.0,Adonai Mitchell,WR,IND,0.0,,13.0
+2024-25,Miami Dolphins,DST,DS,198.0,171.6,,,,,,,,,,,,,,,
+2024-25,Antonio Gibson,NE,RB,171.0,173.8,,,,,,,,,,,,,,,
+2024-25,Xavier Legette,CAR,WR,139.0,178.6,,,,,,,,,,,,,,,
+2024-25,Philadelphia Eagles,DST,DS,202.0,178.6,,,,,,,,,,,,,,,
+2024-25,Isaiah Likely,BAL,TE,167.0,180.2,,,,,,,,,,,,,,,
+2024-25,Tyler Conklin,LAC,TE,180.0,182.0,,,,,,,,,,,,,,,
+2024-25,Dontayvion Wicks,GB,WR,166.0,182.2,1.1008368124838298e+18,10.0,,150.0,Ira,9486,,8.0,15.0,Dontayvion Wicks,WR,GB,1.0,,16.0
+2024-25,Darnell Mooney,ATL,WR,179.0,183.2,,,,,,,,,,,,,,,
+2024-25,Tyler Bass,BUF,K1,156.0,183.4,,,,,,,,,,,,,,,
+2024-25,Houston Texans,DST,DS,245.0,184.0,,,,,,,,,,,,,,,
+2024-25,Ja'Lynn Polk,NE,WR,157.0,184.2,1.1008368124838298e+18,4.0,,144.0,Kiyan,11619,,10.0,15.0,Ja'Lynn Polk,WR,NE,0.0,,13.0
+2024-25,Bo Nix,DEN,QB,192.0,184.6,,,,,,,,,,,,,,,
+2024-25,Chicago Bears,DST,DS,298.0,187.4,,,,,,,,,,,,,,,
+2024-25,Rashid Shaheed,N,WR,155.0,187.6,,,,,,,,,,,,,,,
+2024-25,Bucky Irving,TB,RB,196.0,191.0,,,,,,,,,,,,,,,
+2024-25,Khalil Herbert,IND,RB,208.0,192.2,,,,,,,,,,,,,,,
+2024-25,Geno Smith,LV,QB,200.0,192.4,,,,,,,,,,,,,,,
+2024-25,New Orleans Saints,DST,DS,258.0,193.8,,,,,,,,,,,,,,,
+2024-25,Will Levis,TEN,QB,191.0,195.4,,,,,,,,,,,,,,,
+2024-25,Jason Myers,SEA,K1,209.0,196.4,,,,,,,,,,,,,,,
+2024-25,Tampa Bay Buccaneers,DST,DS,194.0,197.6,1.1008368124838298e+18,3.0,,143.0,James,TB,,5.0,15.0,Tampa Bay Buccaneers,DEF,TB,,,51.0
+2024-25,Jason Sanders,MIA,K1,176.0,199.4,1.1008368124838298e+18,1.0,,141.0,Devin,5119,,9.0,15.0,Jason Sanders,K,MIA,6.0,,35.0
+2024-25,DeMario Douglas,NE,WR,183.0,203.0,,,,,,,,,,,,,,,
+2024-25,Seattle Seahawks,DST,DS,210.0,205.6,1.1008368124838298e+18,6.0,,146.0,Nate,SEA,,1.0,15.0,Seattle Seahawks,DEF,SEA,,,64.0
+2024-25,Detroit Lions,DST,DS,254.0,206.0,,,,,,,,,,,,,,,
+2024-25,Derek Carr,,QB,243.0,218.0,,,,,,,,,,,,,,,
+2024-25,Zach Ertz,WAS,TE,250.0,224.6,,,,,,,,,,,,,,,
+2024-25,Cincinnati Bengals,DST,DS,,159.8,,,,,,,,,,,,,,,
+2024-25,Los Angeles Chargers,DST,DS,318.0,230.0,,,,,,,,,,,,,,,
+2024-25,Taysom Hill,N,TE,169.0,164.5,,,,,,,,,,,,,,,
+2024-25,Greg Zuerlein,,K1,,181.8,,,,,,,,,,,,,,,
+2024-25,MarShawn Lloyd,GB,RB,178.0,182.0,,,,,,,,,,,,,,,
+2024-25,Jordan Mason,MIN,RB,,187.5,,,,,,,,,,,,,,,
+2024-25,Hunter Henry,NE,TE,174.0,193.0,,,,,,,,,,,,,,,
+2024-25,Braelon Allen,NYJ,RB,186.0,198.5,,,,,,,,,,,,,,,
+2024-25,Josh Downs,IND,WR,164.0,200.5,,,,,,,,,,,,,,,
+2024-25,Daniel Carlson,LV,K1,214.0,200.8,,,,,,,,,,,,,,,
+2024-25,Matt Gay,WAS,K1,,201.0,,,,,,,,,,,,,,,
+2024-25,Cairo Santos,CHI,K1,,202.0,1.1008368124838298e+18,8.0,,148.0,Adam,2020,,7.0,15.0,Cairo Santos,K,CHI,10.0,,
+2024-25,Chig Okonkwo,TEN,TE,206.0,202.5,,,,,,,,,,,,,,,
+2024-25,Ray Davis,BUF,RB,184.0,205.5,,,,,,,,,,,,,,,
+2024-25,Atlanta Falcons,DST,DS,,208.3,,,,,,,,,,,,,,,
+2024-25,Las Vegas Raiders,DST,DS,255.0,211.8,,,,,,,,,,,,,,,
+2024-25,Bryce Young,CAR,QB,221.0,216.5,,,,,,,,,,,,,,,
+2024-25,Tyrone Tracy Jr.,NYG,RB,187.0,217.0,,,,,,,,,,,,,,,
+2024-25,Indianapolis Colts,DST,DS,306.0,218.8,,,,,,,,,,,,,,,
+2024-25,Justin Fields,NYJ,QB,197.0,221.0,,,,,,,,,,,,,,,
+2024-25,Green Bay Packers,DST,DS,309.0,222.3,,,,,,,,,,,,,,,
+2024-25,Michael Wilson,ARI,WR,211.0,226.3,,,,,,,,,,,,,,,
+2024-25,Russell Wilson,NYG,QB,239.0,226.3,,,,,,,,,,,,,,,
+2024-25,Jonnu Smith,MIA,TE,226.0,227.3,,,,,,,,,,,,,,,
+2024-25,Kenneth Gainwell,PIT,RB,270.0,229.3,,,,,,,,,,,,,,,
+2024-25,New York Giants,DST,DS,251.0,230.8,,,,,,,,,,,,,,,
+2024-25,Clyde Edwards-Helaire,NO,RB,220.0,231.5,,,,,,,,,,,,,,,
+2024-25,Minnesota Vikings,DST,DS,262.0,233.5,,,,,,,,,,,,,,,
+2024-25,Mike Gesicki,CIN,TE,213.0,236.5,,,,,,,,,,,,,,,
+2024-25,Sam Darnold,SEA,QB,228.0,249.0,,,,,,,,,,,,,,,
+2024-25,Denver Broncos,DST,DS,,191.3,,,,,,,,,,,,,,,
+2024-25,Cade Otton,TB,TE,165.0,196.0,,,,,,,,,,,,,,,
+2024-25,Jahan Dotson,PHI,WR,173.0,201.0,,,,,,,,,,,,,,,
+2024-25,Kimani Vidal,LAC,RB,181.0,207.3,,,,,,,,,,,,,,,
+2024-25,Dalvin Cook,,RB,,208.0,,,,,,,,,,,,,,,
+2024-25,Dawson Knox,BUF,TE,240.0,212.3,,,,,,,,,,,,,,,
+2024-25,Quentin Johnston,LAC,WR,182.0,212.7,,,,,,,,,,,,,,,
+2024-25,Jake Bates,DET,K1,,214.0,,,,,,,,,,,,,,,
+2024-25,Dameon Pierce,HOU,RB,204.0,215.0,,,,,,,,,,,,,,,
+2024-25,Jermaine Burton,CIN,WR,199.0,215.3,,,,,,,,,,,,,,,
+2024-25,Ben Sinnott,WAS,TE,161.0,215.7,,,,,,,,,,,,,,,
+2024-25,Roman Wilson,PIT,WR,189.0,215.7,,,,,,,,,,,,,,,
+2024-25,Washington Commanders,DST,DS,201.0,217.3,,,,,,,,,,,,,,,
+2024-25,Will Reichard,MIN,K1,,220.3,,,,,,,,,,,,,,,
+2024-25,New England Patriots,DST,DS,265.0,222.7,,,,,,,,,,,,,,,
+2024-25,Carson Steele,KC,RB,,225.7,,,,,,,,,,,,,,,
+2024-25,Drake Maye,NE,QB,218.0,226.7,,,,,,,,,,,,,,,
+2024-25,Alexander Mattison,MIA,RB,227.0,228.7,,,,,,,,,,,,,,,
+2024-25,Blake Grupe,NO,K1,,231.0,,,,,,,,,,,,,,,
+2024-25,Rashod Bateman,BAL,WR,203.0,232.0,,,,,,,,,,,,,,,
+2024-25,Luke McCaffrey,WAS,WR,207.0,233.7,,,,,,,,,,,,,,,
+2024-25,Marvin Mims Jr.,DEN,WR,222.0,233.7,,,,,,,,,,,,,,,
+2024-25,Jacksonville Jaguars,DST,DS,303.0,234.0,,,,,,,,,,,,,,,
+2024-25,Tank Bigsby,JAC,RB,235.0,235.0,,,,,,,,,,,,,,,
+2024-25,Justice Hill,BAL,RB,229.0,236.7,,,,,,,,,,,,,,,
+2024-25,Cam Little,JAC,K2,,236.7,,,,,,,,,,,,,,,
+2024-25,Wan'Dale Robinson,NYG,WR,215.0,237.3,,,,,,,,,,,,,,,
+2024-25,Troy Franklin,DEN,WR,177.0,239.0,,,,,,,,,,,,,,,
+2024-25,Tennessee Titans,DST,DS,242.0,241.0,,,,,,,,,,,,,,,
+2024-25,Roschon Johnson,CHI,RB,225.0,244.3,,,,,,,,,,,,,,,
+2024-25,Daniel Jones,IND,QB,248.0,246.7,,,,,,,,,,,,,,,
+2024-25,Noah Fant,SEA,TE,212.0,248.0,,,,,,,,,,,,,,,
+2024-25,Ja'Tavion Sanders,CAR,TE,217.0,249.0,,,,,,,,,,,,,,,
+2024-25,Los Angeles Rams,DST,DS,315.0,250.3,,,,,,,,,,,,,,,
+2024-25,Tyler Boyd,,WR,231.0,250.7,,,,,,,,,,,,,,,
+2024-25,Jamaal Williams,,RB,311.0,253.7,,,,,,,,,,,,,,,
+2024-25,Keaton Mitchell,BAL,RB,246.0,254.3,,,,,,,,,,,,,,,
+2024-25,Audric Estime,DEN,RB,223.0,257.0,,,,,,,,,,,,,,,
+2024-25,Colby Parkinson,LAR,TE,244.0,257.7,,,,,,,,,,,,,,,
+2024-25,Will Shipley,PHI,RB,236.0,258.7,,,,,,,,,,,,,,,
+2024-25,Greg Dulcich,NYG,TE,249.0,259.0,,,,,,,,,,,,,,,
+2024-25,Juwan Johnson,NO,TE,272.0,262.3,,,,,,,,,,,,,,,
+2024-25,Jalen Tolbert,DAL,WR,238.0,263.7,,,,,,,,,,,,,,,
+2024-25,Greg Dortch,ARI,WR,237.0,265.3,,,,,,,,,,,,,,,
+2024-25,Demarcus Robinson,SF,WR,234.0,266.7,,,,,,,,,,,,,,,
+2024-25,Darius Slayton,NYG,WR,279.0,270.0,,,,,,,,,,,,,,,
+2024-25,Samaje Perine,CIN,RB,314.0,271.3,,,,,,,,,,,,,,,
+2024-25,Michael Mayer,LV,TE,268.0,271.7,,,,,,,,,,,,,,,
+2024-25,Dustin Hopkins,CLE,K2,,159.5,,,,,,,,,,,,,,,
+2024-25,Kadarius Toney,,WR,319.0,282.7,,,,,,,,,,,,,,,
+2024-25,Arizona Cardinals,DST,DS,,186.5,,,,,,,,,,,,,,,
+2024-25,Chris Boswell,PIT,K2,,186.5,,,,,,,,,,,,,,,
+2024-25,Ricky Pearsall,SF,WR,170.0,187.5,1.1008368124838298e+18,9.0,,149.0,Trent,11638,,4.0,15.0,Ricky Pearsall,WR,SF,0.0,Questionable,21.0
+2024-25,Brenden Rice,LAC,WR,259.0,293.3,,,,,,,,,,,,,,,
+2024-25,Devontez Walker,BAL,WR,267.0,294.3,,,,,,,,,,,,,,,
+2024-25,Malachi Corley,NYJ,WR,219.0,199.5,,,,,,,,,,,,,,,
+2024-25,Michael Penix Jr.,ATL,QB,266.0,302.3,,,,,,,,,,,,,,,
+2024-25,Eric Gray,NYG,RB,322.0,306.0,,,,,,,,,,,,,,,
+2024-25,Jordan Whittington,LAR,WR,,307.7,,,,,,,,,,,,,,,
+2024-25,Darren Waller,,TE,,213.5,,,,,,,,,,,,,,,
+2024-25,Dylan Laube,LV,RB,256.0,310.0,,,,,,,,,,,,,,,
+2024-25,Brandon McManus,GB,K2,295.0,311.3,,,,,,,,,,,,,,,
+2024-25,Trey Sermon,PIT,RB,260.0,316.0,,,,,,,,,,,,,,,
+2024-25,Odell Beckham,,WR,241.0,225.0,,,,,,,,,,,,,,,
+2024-25,Graham Gano,NYG,K2,,227.0,,,,,,,,,,,,,,,
+2024-25,Wil Lutz,DEN,K2,,230.0,,,,,,,,,,,,,,,
+2024-25,Javon Baker,NE,WR,224.0,323.7,,,,,,,,,,,,,,,
+2024-25,Noah Gray,KC,TE,,239.5,,,,,,,,,,,,,,,
+2024-25,Kendre Miller,NO,RB,172.0,243.5,,,,,,,,,,,,,,,
+2024-25,Kyle Juszczyk,SF,RB,,243.5,,,,,,,,,,,,,,,
+2024-25,JuJu Smith-Schuster,KC,WR,,245.5,,,,,,,,,,,,,,,
+2024-25,Malik Washington,MIA,WR,281.0,331.0,,,,,,,,,,,,,,,
+2024-25,Daniel Bellinger,NYG,TE,282.0,331.7,,,,,,,,,,,,,,,
+2024-25,Cam Akers,,RB,,334.7,,,,,,,,,,,,,,,
+2024-25,Gardner Minshew II,KC,QB,252.0,253.0,,,,,,,,,,,,,,,
+2024-25,Jonathan Mingo,DAL,WR,325.0,340.3,,,,,,,,,,,,,,,
+2024-25,Justin Watson,HOU,WR,,264.0,,,,,,,,,,,,,,,
+2024-25,Tucker Kraft,GB,TE,257.0,264.0,,,,,,,,,,,,,,,
+2024-25,Braxton Berrios,HOU,WR,,267.0,,,,,,,,,,,,,,,
+2024-25,Joshua Karty,LAR,K2,,269.5,,,,,,,,,,,,,,,
+2024-25,Miles Sanders,DAL,RB,,270.5,,,,,,,,,,,,,,,
+2024-25,Louis Rees-Zammit,JAC,RB,,270.5,,,,,,,,,,,,,,,
+2024-25,Jalen McMillan,TB,WR,230.0,275.5,,,,,,,,,,,,,,,
+2024-25,KaVontae Turpin,DAL,WR,,279.0,,,,,,,,,,,,,,,
+2024-25,Jauan Jennings,SF,WR,,280.0,,,,,,,,,,,,,,,
+2024-25,Skyy Moore,KC,WR,,280.5,,,,,,,,,,,,,,,
+2024-25,Jake Bobo,SEA,WR,,281.0,,,,,,,,,,,,,,,
+2024-25,Jalin Hyatt,NYG,WR,264.0,282.5,,,,,,,,,,,,,,,
+2024-25,Hayden Hurst,,TE,277.0,287.0,,,,,,,,,,,,,,,
+2024-25,Anders Carlson,NYJ,K2,,287.5,,,,,,,,,,,,,,,
+2024-25,Joey Slye,TEN,K2,,288.0,,,,,,,,,,,,,,,
+2024-25,Dyami Brown,JAC,WR,,290.5,,,,,,,,,,,,,,,
+2024-25,Jermar Jefferson,,RB,,290.5,,,,,,,,,,,,,,,
+2024-25,Kenny Pickett,CLE,QB,,290.5,,,,,,,,,,,,,,,
+2024-25,Durham Smythe,CHI,TE,,292.0,,,,,,,,,,,,,,,
+2024-25,J.J. Taylor,HOU,RB,,293.0,,,,,,,,,,,,,,,
+2024-25,Tre Tucker,LV,WR,304.0,293.5,,,,,,,,,,,,,,,
+2024-25,Aidan O'Connell,LV,QB,302.0,295.0,,,,,,,,,,,,,,,
+2024-25,Deuce Vaughn,DAL,RB,299.0,295.5,,,,,,,,,,,,,,,
+2024-25,Andrei Iosivas,CIN,WR,,298.5,,,,,,,,,,,,,,,
+2024-25,Elijah Moore,BUF,WR,278.0,301.0,,,,,,,,,,,,,,,
+2024-25,D'Onta Foreman,,RB,269.0,302.0,,,,,,,,,,,,,,,
+2024-25,Allen Lazard,NYJ,WR,,303.0,,,,,,,,,,,,,,,
+2024-25,Darnell Washington,PIT,TE,,305.0,,,,,,,,,,,,,,,
+2024-25,Joshua Dobbs,NE,QB,,307.0,,,,,,,,,,,,,,,
+2024-25,Tyler Higbee,LAR,TE,320.0,371.7,,,,,,,,,,,,,,,
+2024-25,Luke Schoonmaker,DAL,TE,,308.5,,,,,,,,,,,,,,,
+2024-25,Mecole Hardman Jr.,GB,WR,,308.5,,,,,,,,,,,,,,,
+2024-25,Cade York,,K2,,309.5,,,,,,,,,,,,,,,
+2024-25,Isaac Guerendo,SF,RB,261.0,310.0,,,,,,,,,,,,,,,
+2024-25,Cade Stover,HOU,TE,,313.5,,,,,,,,,,,,,,,
+2024-25,A.T. Perry,DEN,WR,287.0,314.0,,,,,,,,,,,,,,,
+2024-25,Zay Jones,ARI,WR,263.0,314.5,,,,,,,,,,,,,,,
+2024-25,Carson Wentz,,QB,,315.5,,,,,,,,,,,,,,,
+2024-25,K.J. Osborn,WAS,WR,308.0,315.5,,,,,,,,,,,,,,,
+2024-25,Joe Flacco,CLE,QB,,317.5,,,,,,,,,,,,,,,
+2024-25,Connor Heyward,PIT,TE,,320.0,,,,,,,,,,,,,,,
+2024-25,Jared Wiley,KC,TE,,320.5,,,,,,,,,,,,,,,
+2024-25,Brevin Jordan,HU,TE,,326.0,,,,,,,,,,,,,,,
+2024-25,Jimmy Garoppolo,LAR,QB,,328.5,,,,,,,,,,,,,,,
+2024-25,Hendon Hooker,DET,QB,,329.5,,,,,,,,,,,,,,,
+2024-25,Brock Wright,DET,TE,,331.5,,,,,,,,,,,,,,,
+2024-25,Chad Ryland,ARI,K3,,332.0,,,,,,,,,,,,,,,
+2024-25,Zach Wilson,MIA,QB,,332.5,,,,,,,,,,,,,,,
+2024-25,Theo Johnson,NYG,TE,233.0,333.0,,,,,,,,,,,,,,,
+2024-25,Kendrick Bourne,NE,WR,285.0,334.0,,,,,,,,,,,,,,,
+2024-25,Equanimeous St. Brown,,WR,,334.5,,,,,,,,,,,,,,,
+2024-25,Greg Joseph,SF,K3,,334.5,,,,,,,,,,,,,,,
+2024-25,Josh Reynolds,NYJ,WR,326.0,334.5,,,,,,,,,,,,,,,
+2024-25,Tommy DeVito,NYG,QB,,343.5,,,,,,,,,,,,,,,
+2024-25,DeWayne McBride,,RB,,344.0,,,,,,,,,,,,,,,
+2024-25,Tyler Scott,CHI,WR,,349.0,,,,,,,,,,,,,,,
+2024-25,Tom Brady,,QB,,202.0,,,,,,,,,,,,,,,
+2024-25,Brett Maher,,K3,,352.0,,,,,,,,,,,,,,,
+2024-25,Trey Lance,LAC,QB,,357.5,,,,,,,,,,,,,,,
+2024-25,Matt Prater,,K3,,217.0,,,,,,,,,,,,,,,
+2024-25,Cooper Rush,BAL,QB,,359.0,,,,,,,,,,,,,,,
+2024-25,Spencer Rattler,NO,QB,,361.0,,,,,,,,,,,,,,,
+2024-25,Josh Oliver,MIN,TE,,363.0,,,,,,,,,,,,,,,
+2024-25,D.J. Montgomery,IND,WR,,364.0,,,,,,,,,,,,,,,
+2024-25,Patrick Taylor Jr.,SF,RB,,364.5,,,,,,,,,,,,,,,
+2024-25,Elijah Higgins,ARI,TE,,365.0,,,,,,,,,,,,,,,
+2024-25,Chris Naggar,,K3,,233.0,,,,,,,,,,,,,,,
+2024-25,Johnny Wilson,PHI,WR,,367.0,,,,,,,,,,,,,,,
+2024-25,Davis Allen,LAR,TE,,367.0,,,,,,,,,,,,,,,
+2024-25,Ramiz Ahmed,,K3,,435.0,,,,,,,,,,,,,,,
+2024-25,Anthony McFarland Jr.,,RB,283.0,463.3,,,,,,,,,,,,,,,
+2024-25,Mo Alie-Cox,IND,TE,,368.5,,,,,,,,,,,,,,,
+2024-25,Mason Crosby,,K3,,237.0,,,,,,,,,,,,,,,
+2024-25,Chase McLaughlin,TB,K3,,237.0,,,,,,,,,,,,,,,
+2024-25,Michael Wiley,WAS,RB,,238.0,,,,,,,,,,,,,,,
+2024-25,D.J. Chark,,WR,247.0,371.0,,,,,,,,,,,,,,,
+2024-25,David Moore,CAR,WR,,371.0,,,,,,,,,,,,,,,
+2024-25,Nick Folk,,K3,,242.0,,,,,,,,,,,,,,,
+2024-25,John Metchie III,HOU,WR,,371.5,,,,,,,,,,,,,,,
+2024-25,Robert Woods,PIT,WR,,373.0,,,,,,,,,,,,,,,
+2024-25,Michael Pratt,TB,QB,,522.0,,,,,,,,,,,,,,,
+2024-25,Lucas Havrisik,,K3,,399.0,,,,,,,,,,,,,,,
+2024-25,Tanner Brown,,K4,,402.5,,,,,,,,,,,,,,,
+2024-25,Lucky Jackson,MIN,WR,,379.5,,,,,,,,,,,,,,,
+2024-25,Tyson Bagent,CHI,QB,,380.0,,,,,,,,,,,,,,,
+2024-25,Julio Jones,,WR,,380.0,,,,,,,,,,,,,,,
+2024-25,Trace McSorley,,QB,,431.0,,,,,,,,,,,,,,,
+2024-25,Jacob Saylors,,RB,,564.5,,,,,,,,,,,,,,,
+2024-25,Adam Trautman,DEN,TE,,381.0,,,,,,,,,,,,,,,
+2024-25,Julian Hill,MIA,TE,,382.0,,,,,,,,,,,,,,,
+2024-25,Jaren Hall,,QB,,510.5,,,,,,,,,,,,,,,
+2024-25,Rasheen Ali,BAL,RB,293.0,382.5,,,,,,,,,,,,,,,
+2024-25,Rodrigo Blankenship,,K4,,265.0,,,,,,,,,,,,,,,
+2024-25,Jeff Wilson Jr.,,RB,,384.5,,,,,,,,,,,,,,,
+2024-25,Cornelius Johnson,GB,WR,,269.0,,,,,,,,,,,,,,,
+2024-25,Devin Leary,BAL,QB,,583.5,,,,,,,,,,,,,,,
+2024-25,Joe Milton III,DAL,QB,,386.0,,,,,,,,,,,,,,,
+2024-25,Ronnie Bell,DET,WR,,386.0,,,,,,,,,,,,,,,
+2024-25,Ty'Son Williams,,RB,273.0,273.0,,,,,,,,,,,,,,,
+2024-25,Anthony Jones,,RB,274.0,274.0,,,,,,,,,,,,,,,
+2024-25,Tanner Hudson,CIN,TE,,387.5,,,,,,,,,,,,,,,
+2024-25,Dante Miller,NYG,RB,,536.0,,,,,,,,,,,,,,,
+2024-25,K.J. Costello,,QB,276.0,276.0,,,,,,,,,,,,,,,
+2024-25,Tejhaun Palmer,ARI,WR,,276.0,,,,,,,,,,,,,,,
+2024-25,Bo Melton,GB,WR,,389.0,,,,,,,,,,,,,,,
+2024-25,Austin Hooper,NE,TE,,389.5,,,,,,,,,,,,,,,
+2024-25,Brandon Powell,,WR,,389.5,,,,,,,,,,,,,,,
+2024-25,Derius Davis,LAC,WR,,520.5,,,,,,,,,,,,,,,
+2024-25,Christopher Dunn,,K4,,279.0,,,,,,,,,,,,,,,
+2024-25,Carolina Panthers,DST,DS,,280.0,,,,,,,,,,,,,,,
+2024-25,Charlie Taumoepeau,,TE,280.0,280.0,,,,,,,,,,,,,,,
+2024-25,Raheem Blackshear,CAR,RB,,410.5,,,,,,,,,,,,,,,
+2024-25,Cordarrelle Patterson,PIT,RB,,281.0,,,,,,,,,,,,,,,
+2024-25,Gerald Everett,,TE,,284.0,,,,,,,,,,,,,,,
+2024-25,Dylan McDuffie,,RB,284.0,284.0,,,,,,,,,,,,,,,
+2024-25,Nathan Rourke,,QB,,519.5,,,,,,,,,,,,,,,
+2024-25,SaRodorick Thompson Jr.,,RB,,533.5,,,,,,,,,,,,,,,
+2024-25,Ainias Smith,PHI,WR,,394.0,,,,,,,,,,,,,,,
+2024-25,Cole Fotheringham,DEN,TE,,570.5,,,,,,,,,,,,,,,
+2024-25,MyCole Pruitt,,TE,288.0,427.0,,,,,,,,,,,,,,,
+2024-25,AJ Barner,SEA,TE,,395.0,,,,,,,,,,,,,,,
+2024-25,Jon Hilliman,,RB,290.0,290.0,,,,,,,,,,,,,,,
+2024-25,Jazz Ferguson,,WR,291.0,291.0,,,,,,,,,,,,,,,
+2024-25,Peyton Hendershot,,TE,,396.0,,,,,,,,,,,,,,,
+2024-25,Isaiah Williams,CIN,WR,,413.0,,,,,,,,,,,,,,,
+2024-25,Jalen Virgil,BUF,WR,292.0,292.0,,,,,,,,,,,,,,,
+2024-25,Josh Lambo,,K4,,293.0,,,,,,,,,,,,,,,
+2024-25,Matt Barkley,,QB,,294.0,,,,,,,,,,,,,,,
+2024-25,Jhamon Ausbon,,WR,294.0,294.0,,,,,,,,,,,,,,,
+2024-25,Patrick Ricard,BAL,RB,,397.5,,,,,,,,,,,,,,,
+2024-25,James White,,RB,296.0,296.0,,,,,,,,,,,,,,,
+2024-25,Ethan Fernea,,WR,297.0,297.0,,,,,,,,,,,,,,,
+2024-25,Grant Calcaterra,PHI,TE,,414.0,,,,,,,,,,,,,,,
+2024-25,Eddy Pineiro,,K4,,298.0,,,,,,,,,,,,,,,
+2024-25,Van Jefferson,TEN,WR,,299.0,,,,,,,,,,,,,,,
+2024-25,Trenton Irwin,,WR,,400.0,,,,,,,,,,,,,,,
+2024-25,Britain Covey,LAR,WR,,415.5,,,,,,,,,,,,,,,
+2024-25,Eric Tomlinson,,TE,300.0,550.0,,,,,,,,,,,,,,,
+2024-25,J.D. McKissic,,RB,301.0,301.0,,,,,,,,,,,,,,,
+2024-25,C.J. Ham,MIN,RB,,401.0,,,,,,,,,,,,,,,
+2024-25,Max Duggan,,QB,,581.0,,,,,,,,,,,,,,,
+2024-25,Pharaoh Brown,MIA,TE,,402.0,,,,,,,,,,,,,,,
+2024-25,Skylar Thompson,PIT,QB,,505.5,,,,,,,,,,,,,,,
+2024-25,Kalif Raymond,DET,WR,,304.0,,,,,,,,,,,,,,,
+2024-25,Corey Clement,,RB,305.0,305.0,,,,,,,,,,,,,,,
+2024-25,Chris Conley,,WR,,403.5,,,,,,,,,,,,,,,
+2024-25,Peter LeBlanc,,WR,310.0,310.0,,,,,,,,,,,,,,,
+2024-25,DeeJay Dallas,ARI,RB,,409.5,,,,,,,,,,,,,,,
+2024-25,Derek Watt,,RB,,311.0,,,,,,,,,,,,,,,
+2024-25,Michael Gallup,WAS,WR,,311.0,,,,,,,,,,,,,,,
+2024-25,Eli Stove,,WR,312.0,312.0,,,,,,,,,,,,,,,
+2024-25,Jalen Brooks,DAL,WR,,428.5,,,,,,,,,,,,,,,
+2024-25,Caleb Huntley,,RB,313.0,313.0,,,,,,,,,,,,,,,
+2024-25,Johnny Mundt,JAC,TE,,407.5,,,,,,,,,,,,,,,
+2024-25,Clayton Thorson,,QB,316.0,316.0,,,,,,,,,,,,,,,
+2024-25,Tim Patrick,DET,WR,,319.0,,,,,,,,,,,,,,,
+2024-25,Andy Dalton,CAR,QB,,410.0,,,,,,,,,,,,,,,
+2024-25,Kyle Allen,DET,QB,,410.0,,,,,,,,,,,,,,,
+2024-25,Cole McDonald,,QB,321.0,321.0,,,,,,,,,,,,,,,
+2024-25,Mac Jones,SF,QB,,418.5,,,,,,,,,,,,,,,
+2024-25,Malik Heath,GB,WR,,412.0,,,,,,,,,,,,,,,
+2024-25,Malcolm Brown,,RB,324.0,324.0,,,,,,,,,,,,,,,
+2024-25,Brandon Allen,TEN,QB,,413.0,,,,,,,,,,,,,,,
+2024-25,Sione Vaki,DET,RB,,442.5,,,,,,,,,,,,,,,
+2024-25,Calvin Austin III,PIT,WR,,326.0,,,,,,,,,,,,,,,
+2024-25,Robbie Gould,,K4,,327.0,,,,,,,,,,,,,,,
+2024-25,Alec Pierce,IND,WR,,414.5,,,,,,,,,,,,,,,
+2024-25,Armani Rogers,,TE,,522.5,,,,,,,,,,,,,,,
+2024-25,Dylan Drummond,ATL,WR,,608.5,,,,,,,,,,,,,,,
+2024-25,Anthony Brown Jr.,,QB,,432.0,,,,,,,,,,,,,,,
+2024-25,Xavier Weaver,ARI,WR,,474.5,,,,,,,,,,,,,,,
+2024-25,Nelson Agholor,,WR,,332.0,,,,,,,,,,,,,,,
+2024-25,Josh Johnson,WAS,QB,,446.5,,,,,,,,,,,,,,,
+2024-25,Jacoby Brissett,ARI,QB,,333.0,,,,,,,,,,,,,,,
+2024-25,Leonard Fournette,,RB,,334.0,,,,,,,,,,,,,,,
+2024-25,Will Mallory,IND,TE,,417.5,,,,,,,,,,,,,,,
+2024-25,Donovan Peoples-Jones,NO,WR,,336.0,,,,,,,,,,,,,,,
+2024-25,Colson Yankoff,WAS,TE,,418.5,,,,,,,,,,,,,,,
+2024-25,Charlie Jones,CIN,WR,,439.5,,,,,,,,,,,,,,,
+2024-25,Mack Hollins,NE,WR,,419.0,,,,,,,,,,,,,,,
+2024-25,Stetson Bennett,LAR,QB,,546.5,,,,,,,,,,,,,,,
+2024-25,Josh Gordon,,WR,,338.0,,,,,,,,,,,,,,,
+2024-25,Jordan Akins,,TE,,420.0,,,,,,,,,,,,,,,
+2024-25,Jameis Winston,NYG,QB,,421.0,,,,,,,,,,,,,,,
+2024-25,Malik Willis,GB,QB,,521.0,,,,,,,,,,,,,,,
+2024-25,Riley Patterson,,K4,,422.0,,,,,,,,,,,,,,,
+2024-25,Treylon Burks,TEN,WR,,347.0,,,,,,,,,,,,,,,
+2024-25,Keaontay Ingram,KC,RB,,349.0,,,,,,,,,,,,,,,
+2024-25,Sean Clifford,GB,QB,,550.5,,,,,,,,,,,,,,,
+2024-25,Matt Ryan,,QB,,350.0,,,,,,,,,,,,,,,
+2024-25,Byron Pringle,,WR,,580.0,,,,,,,,,,,,,,,
+2024-25,Ty Johnson,BUF,RB,,354.0,,,,,,,,,,,,,,,
+2024-25,Marcedes Lewis,,TE,,428.0,,,,,,,,,,,,,,,
+2024-25,Craig Reynolds,DET,RB,,356.0,,,,,,,,,,,,,,,
+2024-25,Drew Ogletree,IND,TE,,441.0,,,,,,,,,,,,,,,
+2024-25,Jalen Nailor,MIN,WR,,443.0,,,,,,,,,,,,,,,
+2024-25,Drew Sample,CIN,TE,,486.0,,,,,,,,,,,,,,,
+2024-25,Sam Howell,MIN,QB,,361.0,,,,,,,,,,,,,,,
+2024-25,Travis Homer,CHI,RB,,485.5,,,,,,,,,,,,,,,
+2024-25,Velus Jones Jr.,NO,WR,,442.5,,,,,,,,,,,,,,,
+2024-25,Jakob Johnson,HOU,RB,,364.0,,,,,,,,,,,,,,,
+2024-25,Ryan Flournoy,DAL,WR,,462.5,,,,,,,,,,,,,,,
+2024-25,Henry Pearson,,RB,,367.0,,,,,,,,,,,,,,,
+2024-25,Jake Tonges,SF,TE,,532.0,,,,,,,,,,,,,,,
+2024-25,Tutu Atwell,LAR,WR,,370.0,,,,,,,,,,,,,,,
+2024-25,Shane Zylstra,DET,TE,,372.0,,,,,,,,,,,,,,,
+2024-25,Chris Blair,ATL,WR,,605.5,,,,,,,,,,,,,,,
+2024-25,Nick Sciba,,K4,,373.0,,,,,,,,,,,,,,,
+2024-25,Alec Ingold,MIA,RB,,374.0,,,,,,,,,,,,,,,
+2024-25,Justyn Ross,KC,WR,,375.0,,,,,,,,,,,,,,,
+2024-25,Jake Funk,,RB,,445.5,,,,,,,,,,,,,,,
+2024-25,Khari Blasingame,,RB,,379.0,,,,,,,,,,,,,,,
+2024-25,Kenny McIntosh,SEA,RB,,379.0,,,,,,,,,,,,,,,
+2024-25,Emanuel Wilson,GB,RB,,380.0,,,,,,,,,,,,,,,
+2024-25,Ameer Abdullah,,RB,,381.0,,,,,,,,,,,,,,,
+2024-25,Dante Pettis,NO,WR,,594.5,,,,,,,,,,,,,,,
+2024-25,Davis Mills,HOU,QB,,528.5,,,,,,,,,,,,,,,
+2024-25,Nick Foles,,QB,,384.0,,,,,,,,,,,,,,,
+2024-25,James Turner,,K4,,385.0,,,,,,,,,,,,,,,
+2024-25,Tucker Fisk,LAC,TE,,565.0,,,,,,,,,,,,,,,
+2024-25,Jarrett Stidham,DEN,QB,,386.0,,,,,,,,,,,,,,,
+2024-25,Albert Okwuegbunam Jr.,IND,TE,,514.5,,,,,,,,,,,,,,,
+2024-25,Frank Gore Jr.,BUF,RB,,387.0,,,,,,,,,,,,,,,
+2024-25,Jordan Travis,,QB,,556.0,,,,,,,,,,,,,,,
+2024-25,Justin Jackson,,RB,,388.0,,,,,,,,,,,,,,,
+2024-25,Brayden Narveson,,K4,,388.0,,,,,,,,,,,,,,,
+2024-25,Matthew Wright,CAR,K5,,389.0,,,,,,,,,,,,,,,
+2024-25,Hunter Long,JAC,TE,,534.5,,,,,,,,,,,,,,,
+2024-25,Trishton Jackson,ARI,WR,,448.5,,,,,,,,,,,,,,,
+2024-25,Steven Sims Jr.,SEA,WR,,391.0,,,,,,,,,,,,,,,
+2024-25,Hunter Renfrow,CAR,WR,,392.0,,,,,,,,,,,,,,,
+2024-25,Bailey Zappe,KC,QB,,462.0,,,,,,,,,,,,,,,
+2024-25,Jamari Thrash,CLE,WR,,476.5,,,,,,,,,,,,,,,
+2024-25,Kevin Harris,,RB,,397.0,,,,,,,,,,,,,,,
+2024-25,Scotty Miller,PIT,WR,,509.5,,,,,,,,,,,,,,,
+2024-25,Israel Abanikanda,SF,RB,,401.0,,,,,,,,,,,,,,,
+2024-25,Ben DiNucci,,QB,,520.5,,,,,,,,,,,,,,,
+2024-25,Trey Palmer,TB,WR,,402.0,,,,,,,,,,,,,,,
+2024-25,Kayshon Boutte,NE,WR,,580.5,,,,,,,,,,,,,,,
+2024-25,Deneric Prince,,RB,,403.0,,,,,,,,,,,,,,,
+2024-25,Blake Watson,DEN,RB,,562.5,,,,,,,,,,,,,,,
+2024-25,River Cracraft,,WR,,494.5,,,,,,,,,,,,,,,
+2024-25,Ryan Succop,,K5,,406.0,,,,,,,,,,,,,,,
+2024-25,Charlie Smyth,NO,K5,,406.0,,,,,,,,,,,,,,,
+2024-25,Xavier Hutchinson,HOU,WR,,580.5,,,,,,,,,,,,,,,
+2024-25,Rodney Williams,,TE,,577.0,,,,,,,,,,,,,,,
+2024-25,Kareem Hunt,KC,RB,,409.0,,,,,,,,,,,,,,,
+2024-25,Mitchell Trubisky,BUF,QB,,455.5,,,,,,,,,,,,,,,
+2024-25,British Brooks,HOU,RB,,573.0,,,,,,,,,,,,,,,
+2024-25,Matthew Slater,,WR,,411.0,,,,,,,,,,,,,,,
+2024-25,Dare Ogunbowale,HOU,RB,,412.0,,,,,,,,,,,,,,,
+2024-25,Ray-Ray McCloud III,ATL,WR,,413.0,,,,,,,,,,,,,,,
+2024-25,Princeton Fant,DAL,TE,,484.0,,,,,,,,,,,,,,,
+2024-25,Parris Campbell,DAL,WR,,415.0,,,,,,,,,,,,,,,
+2024-25,James Robinson,,RB,,532.0,,,,,,,,,,,,,,,
+2024-25,Jake Browning,CIN,QB,,416.0,,,,,,,,,,,,,,,
+2024-25,Tylan Wallace,BAL,WR,,464.5,,,,,,,,,,,,,,,
+2024-25,Josh Pederson,,TE,,418.0,,,,,,,,,,,,,,,
+2024-25,Kylen Granson,PHI,TE,,419.0,,,,,,,,,,,,,,,
+2024-25,Carson Strong,,QB,,420.0,,,,,,,,,,,,,,,
+2024-25,Mark Ingram,II,RB,,421.0,,,,,,,,,,,,,,,
+2024-25,David Bell,CLE,WR,,422.0,,,,,,,,,,,,,,,
+2024-25,A.J. Green,,WR,,423.0,,,,,,,,,,,,,,,
+2024-25,Cody Schrader,LAR,RB,,462.0,,,,,,,,,,,,,,,
+2024-25,Ben Sims,GB,TE,,651.5,,,,,,,,,,,,,,,
+2024-25,Parker Washington,JAC,WR,,425.0,,,,,,,,,,,,,,,
+2024-25,Brady Russell,SEA,TE,,599.0,,,,,,,,,,,,,,,
+2024-25,Emari Demercado,ARI,RB,,430.0,,,,,,,,,,,,,,,
+2024-25,Hunter Luepke,DAL,RB,,602.0,,,,,,,,,,,,,,,
+2024-25,Jimmy Graham,,TE,,431.0,,,,,,,,,,,,,,,
+2024-25,Marquez Valdes-Scantling,SEA,WR,,466.0,,,,,,,,,,,,,,,
+2024-25,Zach Pascal,NYG,WR,,506.5,,,,,,,,,,,,,,,
+2024-25,Teddy Bridgewater,,QB,,434.0,,,,,,,,,,,,,,,
+2024-25,Ryan Tannehill,,QB,,435.0,,,,,,,,,,,,,,,
+2024-25,Brenton Strange,JAC,TE,,491.5,,,,,,,,,,,,,,,
+2024-25,Jha'Quan Jackson,TEN,WR,,667.5,,,,,,,,,,,,,,,
+2024-25,Noah Brown,WAS,WR,,438.0,,,,,,,,,,,,,,,
+2024-25,Tanner McKee,PHI,QB,,599.5,,,,,,,,,,,,,,,
+2024-25,Isaiah McKenzie,,WR,,470.5,,,,,,,,,,,,,,,
+2024-25,Parker Hesse,,TE,,534.0,,,,,,,,,,,,,,,
+2024-25,Melvin Gordon,III,RB,,441.0,,,,,,,,,,,,,,,
+2024-25,Tyreik McAllister,,RB,,490.0,,,,,,,,,,,,,,,
+2024-25,Rex Burkhead,,RB,,443.0,,,,,,,,,,,,,,,
+2024-25,Drew Lock,SEA,QB,,444.0,,,,,,,,,,,,,,,
+2024-25,Eric Saubert,SEA,TE,,510.5,,,,,,,,,,,,,,,
+2024-25,Donald Parham Jr.,PIT,TE,,445.0,,,,,,,,,,,,,,,
+2024-25,Caleb Shudak,,K5,,445.0,,,,,,,,,,,,,,,
+2024-25,Jeremy Ruckert,NYJ,TE,,473.0,,,,,,,,,,,,,,,
+2024-25,Zack Kuntz,NYJ,TE,,603.0,,,,,,,,,,,,,,,
+2024-25,Lil'Jordan Humphrey,NYG,WR,,447.0,,,,,,,,,,,,,,,
+2024-25,KJ Hamler,BUF,WR,,447.0,,,,,,,,,,,,,,,
+2024-25,Deonte Harty,,WR,,537.5,,,,,,,,,,,,,,,
+2024-25,Bub Means,NO,WR,,449.0,,,,,,,,,,,,,,,
+2024-25,Quez Watkins,ARI,WR,,450.0,,,,,,,,,,,,,,,
+2024-25,Trent Taylor,SF,WR,,515.0,,,,,,,,,,,,,,,
+2024-25,Dez Fitzpatrick,LAC,WR,,452.0,,,,,,,,,,,,,,,
+2024-25,Kene Nwangwu,NYJ,RB,,453.0,,,,,,,,,,,,,,,
+2024-25,Nathan Peterman,,QB,,515.5,,,,,,,,,,,,,,,
+2024-25,Michael Carter,ARI,RB,,454.0,,,,,,,,,,,,,,,
+2024-25,Lucas Krull,DEN,TE,,496.5,,,,,,,,,,,,,,,
+2024-25,Terrell Bynum,,WR,,674.0,,,,,,,,,,,,,,,
+2024-25,Malik Davis,,RB,,459.0,,,,,,,,,,,,,,,
+2024-25,Ellis Merriweather,GB,RB,,623.0,,,,,,,,,,,,,,,
+2024-25,Jerick McKinnon,,RB,,460.0,,,,,,,,,,,,,,,
+2024-25,Samson Nacua,,WR,,460.0,,,,,,,,,,,,,,,
+2024-25,Ronnie Rivers,LAR,RB,,461.0,,,,,,,,,,,,,,,
+2024-25,Randy Bullock,,K5,,462.0,,,,,,,,,,,,,,,
+2024-25,Cedric Tillman,CLE,WR,,462.0,,,,,,,,,,,,,,,
+2024-25,Zach Evans,NYJ,RB,,463.0,,,,,,,,,,,,,,,
+2024-25,Charlie Woerner,ATL,TE,,560.5,,,,,,,,,,,,,,,
+2024-25,Chris Rodriguez Jr.,WAS,RB,,464.0,,,,,,,,,,,,,,,
+2024-25,James McCourt,,K5,,464.0,,,,,,,,,,,,,,,
+2024-25,Gunner Olszewski,,WR,,548.0,,,,,,,,,,,,,,,
+2024-25,E.J. Jenkins,PHI,TE,,466.0,,,,,,,,,,,,,,,
+2024-25,John Stephens Jr.,DAL,WR,,620.5,,,,,,,,,,,,,,,
+2024-25,Xavier Gipson,NYJ,WR,,467.0,,,,,,,,,,,,,,,
+2024-25,Antoine Green,,WR,,609.0,,,,,,,,,,,,,,,
+2024-25,Chris Brooks,GB,RB,,468.0,,,,,,,,,,,,,,,
+2024-25,Jaheim Bell,NE,TE,,484.5,,,,,,,,,,,,,,,
+2024-25,Ian Thomas,LV,TE,,529.5,,,,,,,,,,,,,,,
+2024-25,Sean Tucker,TB,RB,,469.0,,,,,,,,,,,,,,,
+2024-25,Devaughn Vele,DEN,WR,,631.0,,,,,,,,,,,,,,,
+2024-25,Jonathan Garibay,,K5,,470.0,,,,,,,,,,,,,,,
+2024-25,Bryce Perkins,,QB,,471.0,,,,,,,,,,,,,,,
+2024-25,Jase McClellan,ATL,RB,,471.0,,,,,,,,,,,,,,,
+2024-25,Jacob Harris,,TE,,575.0,,,,,,,,,,,,,,,
+2024-25,Kameron Johnson,TB,WR,,473.0,,,,,,,,,,,,,,,
+2024-25,DeAndre Carter,CLE,WR,,636.5,,,,,,,,,,,,,,,
+2024-25,Tyrod Taylor,NYJ,QB,,475.0,,,,,,,,,,,,,,,
+2024-25,Xazavian Valladay,NO,RB,,674.5,,,,,,,,,,,,,,,
+2024-25,Austin Seibert,,K5,,545.0,,,,,,,,,,,,,,,
+2024-25,Brandon Bolden,,RB,,477.0,,,,,,,,,,,,,,,
+2024-25,Ashton Dulin,IND,WR,,477.0,,,,,,,,,,,,,,,
+2024-25,Damien Harris,,RB,,478.0,,,,,,,,,,,,,,,
+2024-25,Devin Culp,TB,TE,,478.0,,,,,,,,,,,,,,,
+2024-25,DeVante Parker,,WR,,479.0,,,,,,,,,,,,,,,
+2024-25,Marcus Mariota,WAS,QB,,480.0,,,,,,,,,,,,,,,
+2024-25,Reggie Gilliam,BUF,RB,,571.5,,,,,,,,,,,,,,,
+2024-25,C.J. Uzomah,,TE,,481.0,,,,,,,,,,,,,,,
+2024-25,Sterling Shepard,TB,WR,,482.0,,,,,,,,,,,,,,,
+2024-25,John Bates,WAS,TE,,500.5,,,,,,,,,,,,,,,
+2024-25,Chris Oladokun,KC,QB,,597.0,,,,,,,,,,,,,,,
+2024-25,Eno Benjamin,,RB,,484.0,,,,,,,,,,,,,,,
+2024-25,Luke Farrell,SF,TE,,580.5,,,,,,,,,,,,,,,
+2024-25,P.J. Walker,,QB,,487.0,,,,,,,,,,,,,,,
+2024-25,Charlie Kolar,BAL,TE,,591.0,,,,,,,,,,,,,,,
+2024-25,Matt Breida,,RB,,488.0,,,,,,,,,,,,,,,
+2024-25,Laviska Shenault,BUF,WR,,569.0,,,,,,,,,,,,,,,
+2024-25,Rashard Higgins,,WR,,490.0,,,,,,,,,,,,,,,
+2024-25,Royce Freeman,,RB,,491.0,,,,,,,,,,,,,,,
+2024-25,Chris Moore,WAS,WR,,531.5,,,,,,,,,,,,,,,
+2024-25,Mason Rudolph,PIT,QB,,541.5,,,,,,,,,,,,,,,
+2024-25,Cedrick Wilson Jr.,NO,WR,,494.0,,,,,,,,,,,,,,,
+2024-25,Bryce Ford-Wheaton,NYG,WR,,679.0,,,,,,,,,,,,,,,
+2024-25,Joe Reed,,WR,,495.0,,,,,,,,,,,,,,,
+2024-25,Will Dissly,LAC,TE,,496.0,,,,,,,,,,,,,,,
+2024-25,Boston Scott,,RB,,497.0,,,,,,,,,,,,,,,
+2024-25,Joshua Kelley,,RB,,576.5,,,,,,,,,,,,,,,
+2024-25,Trent Sherfield Sr.,DEN,WR,,498.0,,,,,,,,,,,,,,,
+2024-25,Matt Ammendola,,K5,,498.0,,,,,,,,,,,,,,,
+2024-25,Foster Moreau,NO,TE,,499.0,,,,,,,,,,,,,,,
+2024-25,Desmond Ridder,,QB,,596.0,,,,,,,,,,,,,,,
+2024-25,Michael Thomas,,WR,,500.0,,,,,,,,,,,,,,,
+2024-25,Trayveon Williams,NE,RB,,500.0,,,,,,,,,,,,,,,
+2024-25,Andrew Beck,NYJ,TE,,501.0,,,,,,,,,,,,,,,
+2024-25,Irv Smith Jr.,HOU,TE,,502.0,,,,,,,,,,,,,,,
+2024-25,Olamide Zaccheaus,CHI,WR,,503.0,,,,,,,,,,,,,,,
+2024-25,Devin Duvernay,CHI,WR,,505.0,,,,,,,,,,,,,,,
+2024-25,Harrison Bryant,PHI,TE,,506.0,,,,,,,,,,,,,,,
+2024-25,Salvon Ahmed,IND,RB,,508.0,,,,,,,,,,,,,,,
+2024-25,Nick Westbrook-Ikhine,MIA,WR,,510.0,,,,,,,,,,,,,,,
+2024-25,Tim Jones,MIN,WR,,511.0,,,,,,,,,,,,,,,
+2024-25,Kenny Yeboah,DET,TE,,512.0,,,,,,,,,,,,,,,
+2024-25,Tommy Tremble,CAR,TE,,514.0,,,,,,,,,,,,,,,
+2024-25,Tre' McKitty,CLE,TE,,517.0,,,,,,,,,,,,,,,
+2024-25,Dee Eskridge,MIA,WR,,518.0,,,,,,,,,,,,,,,
+2024-25,Jacob Cowing,SF,WR,,520.0,,,,,,,,,,,,,,,
+2024-25,Jack Stoll,NO,TE,,521.0,,,,,,,,,,,,,,,
+2024-25,John FitzPatrick,GB,TE,,522.0,,,,,,,,,,,,,,,
+2024-25,James Mitchell,CAR,TE,,524.0,,,,,,,,,,,,,,,
+2024-25,Tyler Goodson,IND,RB,,525.0,,,,,,,,,,,,,,,
+2024-25,Pierre Strong Jr.,CLE,RB,,529.0,,,,,,,,,,,,,,,
+2024-25,Dareke Young,SEA,WR,,533.0,,,,,,,,,,,,,,,
+2024-25,Harrison Mevis,,K5,,536.0,,,,,,,,,,,,,,,
+2024-25,Brandon Johnson,PIT,WR,,537.0,,,,,,,,,,,,,,,
+2024-25,Parker Romo,NE,K6,,540.0,,,,,,,,,,,,,,,
+2024-25,Dorian Thompson-Robinson,PHI,QB,,544.0,,,,,,,,,,,,,,,
+2024-25,Josh Whyle,TEN,TE,,546.0,,,,,,,,,,,,,,,
+2024-25,Cameron Latu,PHI,TE,,549.0,,,,,,,,,,,,,,,
+2024-25,Payne Durham,TB,TE,,550.0,,,,,,,,,,,,,,,
+2024-25,Spencer Shrader,IND,K6,,552.0,,,,,,,,,,,,,,,
+2024-25,Duece Watts,,WR,,553.0,,,,,,,,,,,,,,,
+2024-25,Hassan Hall,,RB,,554.0,,,,,,,,,,,,,,,
+2024-25,Jack Podlesny,,K6,,556.0,,,,,,,,,,,,,,,
+2024-25,Jack Colletto,,RB,,557.0,,,,,,,,,,,,,,,
+2024-25,Allen Robinson,II,WR,,562.0,,,,,,,,,,,,,,,
+2024-25,Martavis Bryant,,WR,,563.0,,,,,,,,,,,,,,,
+2024-25,Logan Thomas,,TE,,564.0,,,,,,,,,,,,,,,
+2024-25,Sam Hartman,WAS,QB,,565.0,,,,,,,,,,,,,,,
+2024-25,Jamison Crowder,,WR,,567.0,,,,,,,,,,,,,,,
+2024-25,Phillip Dorsett,II,WR,,568.0,,,,,,,,,,,,,,,
+2024-25,Chris Manhertz,NYG,TE,,569.0,,,,,,,,,,,,,,,
+2024-25,Michael Burton,DEN,RB,,570.0,,,,,,,,,,,,,,,
+2024-25,Taylor Heinicke,LAC,QB,,571.0,,,,,,,,,,,,,,,
+2024-25,Jeff Driskel,,QB,,573.0,,,,,,,,,,,,,,,
+2024-25,Robbie Chosen,,WR,,574.0,,,,,,,,,,,,,,,
+2024-25,C.J. Beathard,,QB,,575.0,,,,,,,,,,,,,,,
+2024-25,John Ross,,WR,,576.0,,,,,,,,,,,,,,,
+2024-25,Tarik Cohen,,RB,,580.0,,,,,,,,,,,,,,,
+2024-25,Anthony Firkser,,TE,,582.0,,,,,,,,,,,,,,,
+2024-25,Nick Mullens,JAC,QB,,583.0,,,,,,,,,,,,,,,
+2024-25,Robert Tonyan,KC,TE,,584.0,,,,,,,,,,,,,,,
+2024-25,Daurice Fountain,,WR,,586.0,,,,,,,,,,,,,,,
+2024-25,Nyheim Hines,,RB,,588.0,,,,,,,,,,,,,,,
+2024-25,Godwin Igwebuike,,RB,,589.0,,,,,,,,,,,,,,,
+2024-25,James Washington,,WR,,592.0,,,,,,,,,,,,,,,
+2024-25,David Wells,,TE,,593.0,,,,,,,,,,,,,,,
+2024-25,Mike White,BUF,QB,,594.0,,,,,,,,,,,,,,,
+2024-25,Logan Woodside,CIN,QB,,595.0,,,,,,,,,,,,,,,
+2024-25,Russell Gage Jr.,SF,WR,,596.0,,,,,,,,,,,,,,,
+2024-25,Mike Boone,,RB,,597.0,,,,,,,,,,,,,,,
+2024-25,KhaDarel Hodge,ATL,WR,,598.0,,,,,,,,,,,,,,,
+2024-25,John Wolford,JAC,QB,,599.0,,,,,,,,,,,,,,,
+2024-25,Myles Gaskin,,RB,,600.0,,,,,,,,,,,,,,,
+2024-25,Jarveon Howard,,RB,,601.0,,,,,,,,,,,,,,,
+2024-25,Riley Sharp,,TE,,602.0,,,,,,,,,,,,,,,
+2024-25,Chris Collier,LV,RB,,604.0,,,,,,,,,,,,,,,
+2024-25,Tyree Jackson,WAS,TE,,605.0,,,,,,,,,,,,,,,
+2024-25,TaMerik Williams,,RB,,606.0,,,,,,,,,,,,,,,
+2024-25,Zach Gentry,,TE,,608.0,,,,,,,,,,,,,,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,1.0,Kiyan,4034,,10.0,1.0,Christian McCaffrey,RB,CAR,3.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,2.0,Eric,4866,,6.0,1.0,Saquon Barkley,RB,NYG,2.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,3.0,Logan,4035,,9.0,1.0,Alvin Kamara,RB,NO,3.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,4.0,Trent,3164,,4.0,1.0,Ezekiel Elliott,RB,DAL,4.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,5.0,Scott,4029,,2.0,1.0,Dalvin Cook,RB,MIN,3.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,6.0,Adam,3198,,7.0,1.0,Derrick Henry,RB,TEN,4.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,7.0,James,6820,,5.0,1.0,Clyde Edwards-Helaire,RB,KC,0.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,8.0,Ira,4046,,8.0,1.0,Patrick Mahomes,QB,KC,3.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,9.0,Nate,3199,,1.0,1.0,Michael Thomas,WR,NO,4.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,10.0,Zack,5850,,3.0,1.0,Josh Jacobs,RB,LV,1.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,11.0,Zack,4663,,3.0,2.0,Austin Ekeler,RB,LAC,3.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,12.0,Nate,4018,,1.0,2.0,Joe Mixon,RB,CIN,3.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,8.0,,13.0,Ira,2315,,8.0,2.0,Todd Gurley II,RB,ATL,5.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,14.0,James,6151,,5.0,2.0,Miles Sanders,RB,PHI,1.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,6.0,,15.0,Adam,4988,,7.0,2.0,Nick Chubb,RB,CLE,2.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,16.0,Scott,3242,,2.0,2.0,Kenyan Drake,RB,ARI,4.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,4.0,,17.0,Trent,2133,,4.0,2.0,Davante Adams,WR,GB,6.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,18.0,Logan,4881,,9.0,2.0,Lamar Jackson,QB,BAL,2.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,19.0,Eric,4199,,6.0,2.0,Aaron Jones,RB,GB,3.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,20.0,Kiyan,947,,10.0,2.0,Julio Jones,WR,ATL,9.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,21.0,Kiyan,4273,,10.0,3.0,Chris Carson,RB,SEA,3.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,22.0,Eric,3321,,6.0,3.0,Tyreek Hill,WR,KC,4.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,3.0,,23.0,Logan,1426,,9.0,3.0,DeAndre Hopkins,WR,ARI,7.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,4.0,,24.0,Trent,4137,,4.0,3.0,James Conner,RB,PIT,3.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,25.0,Scott,4037,,2.0,3.0,Chris Godwin,WR,TB,3.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,26.0,Adam,1466,,7.0,3.0,Travis Kelce,TE,KC,7.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,27.0,James,4217,,5.0,3.0,George Kittle,TE,SF,3.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,28.0,Ira,3200,,8.0,3.0,Sterling Shepard,WR,NYG,4.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,29.0,Nate,4131,,1.0,3.0,Kenny Golladay,WR,DET,3.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,30.0,Zack,2216,,3.0,3.0,Mike Evans,WR,TB,6.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,31.0,Zack,1689,,3.0,4.0,Adam Thielen,WR,MIN,7.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,32.0,Nate,1992,,1.0,4.0,Allen Robinson II,WR,CHI,6.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,33.0,Ira,2078,,8.0,4.0,Odell Beckham Jr.,WR,CLE,6.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,34.0,James,4983,,5.0,4.0,D.J. Moore,WR,CAR,2.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,35.0,Adam,4039,,7.0,4.0,Cooper Kupp,WR,LAR,3.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,36.0,Scott,2391,,2.0,4.0,David Johnson,RB,HOU,5.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,37.0,Trent,6813,,4.0,4.0,Jonathan Taylor,RB,IND,0.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,38.0,Logan,4040,,9.0,4.0,JuJu Smith-Schuster,WR,PIT,3.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,39.0,Eric,5859,,6.0,4.0,A.J. Brown,WR,TEN,1.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,1.0,,40.0,Kiyan,1408,,10.0,4.0,Le'Veon Bell,RB,NYJ,7.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,41.0,Kiyan,2309,,10.0,5.0,Amari Cooper,WR,DAL,5.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,2.0,,42.0,Eric,2320,,6.0,5.0,Melvin Gordon III,RB,DEN,5.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,3.0,,43.0,Logan,5012,,9.0,5.0,Mark Andrews,TE,BAL,2.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,44.0,Trent,1352,,4.0,5.0,Robert Woods,WR,LAR,7.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,45.0,Scott,4981,,2.0,5.0,Calvin Ridley,WR,ATL,2.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,46.0,Adam,2374,,7.0,5.0,Tyler Lockett,WR,SEA,5.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,47.0,James,5846,,5.0,5.0,DK Metcalf,WR,SEA,1.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,48.0,Ira,5892,,8.0,5.0,David Montgomery,RB,CHI,1.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,9.0,,49.0,Nate,2749,,1.0,5.0,Raheem Mostert,RB,SF,5.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,50.0,Zack,1339,,3.0,5.0,Zach Ertz,TE,PHI,7.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,51.0,Zack,5927,,3.0,6.0,Terry McLaurin,WR,WAS,1.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,52.0,Nate,1479,,1.0,6.0,Keenan Allen,WR,LAC,7.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,53.0,Ira,4066,,8.0,6.0,Evan Engram,TE,NYG,3.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,54.0,James,956,,5.0,6.0,Mark Ingram II,RB,BAL,9.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,55.0,Adam,4951,,7.0,6.0,DJ Chark Jr.,WR,JAX,2.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,56.0,Scott,3294,,2.0,6.0,Dak Prescott,QB,DAL,4.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,57.0,Trent,6938,,4.0,6.0,Cam Akers,RB,LAR,0.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,58.0,Logan,1110,,9.0,6.0,T.Y. Hilton,WR,IND,8.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,59.0,Eric,2505,,6.0,6.0,Darren Waller,TE,LV,5.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,60.0,Kiyan,6945,,10.0,6.0,Antonio Gibson,RB,WAS,0.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,61.0,Kiyan,1234,,10.0,7.0,Russell Wilson,QB,SEA,8.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,62.0,Eric,4017,,6.0,7.0,Deshaun Watson,QB,HOU,3.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,63.0,Logan,515,,9.0,7.0,Rob Gronkowski,TE,TB,10.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,64.0,Trent,2319,,4.0,7.0,DeVante Parker,WR,MIA,5.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,5.0,,65.0,Scott,5045,,2.0,7.0,Courtland Sutton,WR,DEN,2.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,66.0,Adam,2449,,7.0,7.0,Stefon Diggs,WR,BUF,5.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,67.0,James,5849,,5.0,7.0,Kyler Murray,QB,ARI,1.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,68.0,Ira,6130,,8.0,7.0,Devin Singletary,RB,BUF,1.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,69.0,Nate,4098,,1.0,7.0,Kareem Hunt,RB,CLE,3.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,70.0,Zack,3969,,3.0,7.0,Leonard Fournette,RB,TB,3.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,71.0,Zack,3225,,3.0,8.0,Tyler Boyd,WR,CIN,4.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,72.0,Nate,5038,,1.0,8.0,Michael Gallup,WR,DAL,2.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,73.0,Ira,344,,8.0,8.0,Julian Edelman,WR,NE,11.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,74.0,James,5848,,5.0,8.0,Hollywood Brown,WR,BAL,1.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,75.0,Adam,6790,,7.0,8.0,D'Andre Swift,RB,DET,0.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,5.0,,76.0,Scott,5052,,2.0,8.0,Ronald Jones II,RB,TB,2.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,77.0,Trent,3157,,4.0,8.0,Will Fuller V,WR,HOU,4.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,78.0,Logan,4157,,9.0,8.0,Tarik Cohen,RB,CHI,3.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,79.0,Eric,830,,6.0,8.0,A.J. Green,WR,CIN,9.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,80.0,Kiyan,6806,,10.0,8.0,J.K. Dobbins,RB,BAL,0.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,81.0,Kiyan,3271,,10.0,9.0,Tyler Higbee,TE,LAR,4.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,82.0,Eric,1825,,6.0,9.0,Jarvis Landry,WR,CLE,6.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,83.0,Logan,1848,,9.0,9.0,James White,RB,NE,6.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,84.0,Trent,6786,,4.0,9.0,CeeDee Lamb,WR,DAL,0.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,85.0,Scott,5937,,2.0,9.0,Diontae Johnson,WR,PIT,1.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,86.0,Adam,4984,,7.0,9.0,Josh Allen,QB,BUF,2.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,87.0,James,4152,,5.0,9.0,Marlon Mack,RB,IND,3.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,88.0,Ira,6845,,8.0,9.0,Zack Moss,RB,BUF,0.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,89.0,Nate,2197,,1.0,9.0,Brandin Cooks,WR,HOU,6.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,90.0,Zack,5872,,3.0,9.0,Deebo Samuel,WR,SF,1.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,10.0,,91.0,Zack,5170,,3.0,10.0,Phillip Lindsay,RB,DEN,2.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,92.0,Nate,4973,,1.0,10.0,Hayden Hurst,TE,ATL,2.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,93.0,Ira,6149,,8.0,10.0,Darius Slayton,WR,NYG,1.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,94.0,James,3306,,5.0,10.0,Jordan Howard,RB,MIA,4.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,95.0,Adam,1476,,7.0,10.0,Latavius Murray,RB,NO,7.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,96.0,Scott,1067,,2.0,10.0,Marvin Jones Jr.,WR,DET,8.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,97.0,Trent,6007,,4.0,10.0,Ryquell Armstead,RB,JAX,1.0,COV,
+2020-21,,,,,,6.059000064944005e+17,3.0,,98.0,Logan,6789,,9.0,10.0,Henry Ruggs III,WR,LV,0.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,99.0,Eric,5068,,6.0,10.0,Kerryon Johnson,RB,DET,2.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,100.0,Kiyan,2410,,10.0,10.0,Jamison Crowder,WR,NYJ,5.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,1.0,,101.0,Kiyan,6783,,10.0,11.0,Jerry Jeudy,WR,DEN,0.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,102.0,Eric,3214,,6.0,11.0,Hunter Henry,TE,LAC,4.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,103.0,Logan,BAL,,9.0,11.0,Baltimore Ravens,DEF,BAL,,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,104.0,Trent,5013,,4.0,11.0,Anthony Miller,WR,CHI,2.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,105.0,Scott,24,,2.0,11.0,Matt Ryan,QB,ATL,12.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,106.0,Adam,538,,7.0,11.0,Emmanuel Sanders,WR,NO,10.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,107.0,James,6794,,5.0,11.0,Justin Jefferson,WR,MIN,0.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,108.0,Ira,6148,,8.0,11.0,Preston Williams,WR,MIA,1.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,109.0,Nate,SF,,1.0,11.0,San Francisco 49ers,DEF,SF,,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,110.0,Zack,4455,,3.0,11.0,Matt Breida,RB,MIA,3.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,111.0,Zack,4950,,3.0,12.0,Christian Kirk,WR,ARI,2.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,112.0,Nate,5890,,1.0,12.0,Damien Harris,RB,NE,1.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,8.0,,113.0,Ira,5000,,8.0,12.0,Chase Edmonds,RB,ARI,2.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,114.0,James,289,,5.0,12.0,Drew Brees,QB,NO,19.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,115.0,Adam,6828,,7.0,12.0,A.J. Dillon,RB,GB,0.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,116.0,Scott,367,,2.0,12.0,Jared Cook,TE,NO,11.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,117.0,Trent,CHI,,4.0,12.0,Chicago Bears,DEF,CHI,,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,118.0,Logan,6770,,9.0,12.0,Joe Burrow,QB,CIN,0.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,119.0,Eric,2378,,6.0,12.0,Tevin Coleman,RB,SF,5.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,120.0,Kiyan,4227,,10.0,12.0,Harrison Butker,K,KC,3.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,121.0,Kiyan,954,,10.0,13.0,Cam Newton,QB,NE,9.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,122.0,Eric,PIT,,6.0,13.0,Pittsburgh Steelers,DEF,PIT,,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,123.0,Logan,1264,,9.0,13.0,Justin Tucker,K,BAL,8.0,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,124.0,Trent,3161,,4.0,13.0,Carson Wentz,QB,PHI,4.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,5.0,,125.0,Scott,6798,,2.0,13.0,Jalen Reagor,WR,PHI,0.0,Doubtful,
+2020-21,,,,,,6.059000064944005e+17,6.0,,126.0,Adam,BUF,,7.0,13.0,Buffalo Bills,DEF,BUF,,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,127.0,James,5857,,5.0,13.0,Noah Fant,TE,DEN,1.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,128.0,Ira,NE,,8.0,13.0,New England Patriots,DEF,NE,,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,129.0,Nate,167,,1.0,13.0,Tom Brady,QB,TB,20.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,130.0,Zack,421,,3.0,13.0,Matthew Stafford,QB,DET,11.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,131.0,Zack,IND,,3.0,14.0,Indianapolis Colts,DEF,IND,,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,132.0,Nate,3678,,1.0,14.0,Wil Lutz,K,NO,4.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,133.0,Ira,1266,,8.0,14.0,Greg Zuerlein,K,DAL,8.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,134.0,James,MIN,,5.0,14.0,Minnesota Vikings,DEF,MIN,,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,135.0,Adam,49,,7.0,14.0,Robbie Gould,K,SF,15.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,136.0,Scott,LAC,,2.0,14.0,Los Angeles Chargers,DEF,LAC,,,
+2020-21,,,,,,6.059000064944005e+17,4.0,,137.0,Trent,4993,,4.0,14.0,Mike Gesicki,TE,MIA,2.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,138.0,Logan,6801,,9.0,14.0,Tee Higgins,WR,CIN,0.0,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,139.0,Eric,4962,,6.0,14.0,Sony Michel,RB,NE,2.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,140.0,Kiyan,6819,,10.0,14.0,Michael Pittman Jr.,WR,IND,0.0,,
+2020-21,,,,,,6.059000064944005e+17,1.0,,141.0,Kiyan,GB,,10.0,15.0,Green Bay Packers,DEF,GB,,,
+2020-21,,,,,,6.059000064944005e+17,2.0,,142.0,Eric,4666,,6.0,15.0,Younghoe Koo,K,ATL,3.0,,
+2020-21,,,,,,6.059000064944005e+17,3.0,,143.0,Logan,6803,,9.0,15.0,Brandon Aiyuk,WR,SF,0.0,Questionable,
+2020-21,,,,,,6.059000064944005e+17,4.0,,144.0,Trent,6528,,4.0,15.0,Joey Slye,K,CAR,1.0,,
+2020-21,,,,,,6.059000064944005e+17,5.0,,145.0,Scott,4233,,2.0,15.0,Zane Gonzalez,K,ARI,3.0,,
+2020-21,,,,,,6.059000064944005e+17,6.0,,146.0,Adam,5917,,7.0,15.0,Mecole Hardman,WR,KC,1.0,,
+2020-21,,,,,,6.059000064944005e+17,7.0,,147.0,James,17,,5.0,15.0,Matt Prater,K,DET,14.0,,
+2020-21,,,,,,6.059000064944005e+17,8.0,,148.0,Ira,5122,,8.0,15.0,Boston Scott,RB,PHI,2.0,,
+2020-21,,,,,,6.059000064944005e+17,9.0,,149.0,Nate,6826,,1.0,15.0,Cole Kmet,TE,CHI,0.0,,
+2020-21,,,,,,6.059000064944005e+17,10.0,,150.0,Zack,1945,,3.0,15.0,Chris Boswell,K,PIT,6.0,,
+2021-22,,,,,,7.261601181352632e+17,9.0,,72.0,Zack,3423,,3.0,8.0,Robby Anderson,WR,CAR,5.0,,
+2021-22,,,,,,7.261601181352632e+17,1.0,,80.0,Adam,4951,,7.0,8.0,D.J. Chark,WR,JAX,3.0,Questionable,
+2021-22,,,,,,7.261601181352632e+17,6.0,,86.0,Trent,6828,,4.0,9.0,A.J. Dillon,RB,GB,1.0,,
+2021-22,,,,,,7.261601181352632e+17,3.0,,123.0,Scott,5110,,2.0,13.0,Russell Gage,WR,ATL,3.0,,
+2021-22,,,,,,7.261601181352632e+17,4.0,,124.0,Ira,8040,,8.0,13.0,Quinn Nordin,K,NE,0.0,,
+2021-22,,,,,,7.261601181352632e+17,6.0,,146.0,Trent,7412,,4.0,15.0,Sandro Platzgummer,RB,NYG,1.0,,
+2022-23,,,,,,8.576664745196954e+17,4.0,,37.0,Zack,4983,,3.0,4.0,DJ Moore,WR,CAR,4.0,,
+2022-23,,,,,,8.576664745196954e+17,2.0,,62.0,Trent,1992,,4.0,7.0,Allen Robinson,WR,LAR,8.0,,
+2022-23,,,,,,8.576664745196954e+17,4.0,,137.0,Zack,5110,,3.0,14.0,Russell Gage,WR,TB,4.0,Questionable,
+2023-24,,,,,,9.914023854382449e+17,9.0,,49.0,Nate,4983,,1.0,5.0,DJ Moore,WR,CHI,5.0,,
+2023-24,,,,,,9.914023854382449e+17,1.0,,140.0,Ira,5284,,8.0,14.0,Jeff Wilson,RB,MIA,5.0,Questionable,
+2024-25,,,,,,1.1008368124838298e+18,8.0,,33.0,Adam,4983,"{'605824057266483200': ['happy'], '607791058134327296': ['shock']}",7.0,4.0,DJ Moore,WR,CHI,6.0,,
