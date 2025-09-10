@@ -2,10 +2,7 @@
 
 # Files
 
-Potential Data Sources
-- (NOT SURE YOU CAN PULL FROM HERE) https://nextgenstats.nfl.com/stats/receiving#percent-intended-yards
-- https://fantasydata.com/nfl/fantasy-football-leaders?season=2023&seasontype=1&scope=1&subscope=1&scoringsystem=2&aggregatescope=1&range=3
-- https://nflsavant.com/targets.php?ddlYear=2022&ddlPosition=&week=&rz=redzone&ddlTeam=
+
 
 Final Data Sources
 - pff_receiving: https://premium.pff.com/nfl/positions/2023/REG/receiving 
@@ -36,6 +33,11 @@ Final Data Sources
 - pfr_tm_def: https://www.pro-football-reference.com/years/2024/opp.htm
 - pfr_schedule: https://www.pro-football-reference.com/years/2024/games.htm
 
+Potential Data Sources
+- (NOT SURE YOU CAN PULL FROM HERE) https://nextgenstats.nfl.com/stats/receiving#percent-intended-yards
+- https://fantasydata.com/nfl/fantasy-football-leaders?season=2023&seasontype=1&scope=1&subscope=1&scoringsystem=2&aggregatescope=1&range=3
+- https://nflsavant.com/targets.php?ddlYear=2022&ddlPosition=&week=&rz=redzone&ddlTeam=
+
 Problems
 1. Rookies
 2. Injuries
@@ -45,11 +47,17 @@ Problems
 4. New coaches/schemes
 
 ** Overall Ideas **
-- WR Models
-- RB Models
-- TE Models
-- QB Models
-- Maybe it would be interesting to value players by projected points above average (of position) and then have the AI do mock drafts to look at the strategy?
-Graph week to week
-Consistency metric
-Trending Up players
+- Models to predict player performance
+    - Problem: Rookies | Solution A: Separate model for rookies
+    - Problem: Injuries | Solution A: Predict PPG instead of overall points
+    - Problem: Situation Changes
+        - Sub-Problem: QB change | Solution: Use data from new QB's previous season
+        - Sub-Problem: Coach Change
+    - Problem: How to factor training camp hype | Solution: Not totally sure, hopefully it is somewhat reflected in the depth chart.
+- Reinforcement Learning model to train draft agent to converge on ideal draft position/strategy given player ppg rankings
+    - Problem: Need actually accurate Draft Simulator to be able to integrate the Draft Agent | Solution A: Create yourself, Solution B: Use dataset of drafts
+- NEED TO LOOK INTO POINTS OVER REPLACEMENT STATISTIC
+- Create a Consistency metric, based on player availability, standard deviation of points/usage, likelihood of bust week
+- Data analysis on Trending Up players
+- Waiver value analyzer
+
