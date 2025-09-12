@@ -121,6 +121,8 @@
 | zone_yprr | yards per route run against zone coverage |
 
 # pfr_fp
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
 | Rk | Rank |
 | Player | Player Name |
 | Tm | Team |
@@ -157,6 +159,8 @@
 | -9999 | Pro Football Reference Player ID |
 
 # pfr_rz_rec
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
 | Player | Player Name |
 | Tm | Team |
 | Tgt20 | Targets within 20 yard line |
@@ -174,10 +178,116 @@
 | Link | |
 | -9999 | Pro Football Reference Player ID |
 
+# pfr_rz_run
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| Player | Player Name |
+| Tm | Team |
+| ins_20_att | Rush Attempts within 20 yard line |
+| ins_20_yds | Rush Yards within 20 yard line |
+| ins_20_tds | Rush Touchdowns  within 20 yard line |
+| ins_20_%rush | % of Total team runs within 20 yard line |
+| ins_10_att | Rush Attempts within 10 yard line |
+| ins_10_yds | Rush Yards within 10 yard line |
+| ins_10_tds | Rush Touchdowns  within 10 yard line |
+| ins_10_%rush | % of Total team runs within 10 yard line |
+| ins_5_att | Rush Attempts within 5 yard line |
+| ins_5_yds | Rush Yards within 5 yard line |
+| ins_5_tds | Rush Touchdowns  within 5 yard line |
+| ins_5_%rush | % of Total team runs within 5 yard line |
+| link | |
+| -9999 | Pro Football Reference Player ID |
+
+# pfr_tm_off
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| Rk | Team Offense Rank |
+| Tm | Team |
+| G | Games |
+| PF | Points For |
+| Tot_Yds | Team total offensive yards |
+| Tot_Ply | Team total offensive plays |
+| Y/P | Yards per Offensive Play |
+| TO | Turnovers |
+| FL | Fumbles Lost |
+| 1stD | First Downs |
+| P_Cmp | Pass Completions |
+| P_Att | Pass Attempts |
+| P_Yds | Passing Yards |
+| P_TD | Passing Touchdowns |
+| P_Int | Interceptions |
+| P_NY/A | Net Yards gained per Pass Attempt |
+| P_1stD | Passing First Downs |
+| R_Att | Rushing Attempts |
+| R_Yds | Rushing Yards |
+| R_TD | Rushing Touchdowns |
+| R_Y/A | Rushing Yards per Attempt |
+| R_1stD | Rushing First Downs |
+| Pen | Penalties committed |
+| Pen_Yds | Penalty Yards committed |
+| 1stPy | First Downs by penalty |
+| Sc% | % of Offensive Drives ended with Offensive Score |
+| TO% | % of Offensive Drives ended with Offensive Turnover |
+| EXP | Expected Offensive Points |
+
+# pff_ol_pass
 
 
-- pfr_rz_run: https://www.pro-football-reference.com/years/2024/redzone-rushing.htm
-- pfr_tm_off: https://www.pro-football-reference.com/years/2023/ (Team Offense Table)
+# pff_qb
+
+
+# qb_depth_chart
+
+
+# pff_rushing
+
+
+# pff_x_fantasy_week_points
+
+
+# fantasy_adp
+
+
+# pff_ol_run
+
+
+# pfr_draft
+
+
+# pfr_combine
+
+
+# pff_ncaa_rushing
+
+
+# pff_behind_los_passing
+
+
+# pff_short_passing
+
+
+# pff_int_passing
+
+
+# pff_deep_passing
+
+
+# pff_ncaa recieving
+
+
+# pff_ncaa_passing
+
+
+# pff_screens
+
+
+# pff_blitz 
+
+
+# pfr_tm_def
+
+
+# pfr_schedule
 - pff_ol_pass: https://premium.pff.com/nfl/positions/2023/REG/ol-pass-blocking-efficiency
 - pff_qb: https://premium.pff.com/nfl/positions/2023/REG/passing?position=QB
 - qb_depth_chart: https://www.ourlads.com/nfldepthcharts/
