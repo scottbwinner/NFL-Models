@@ -288,6 +288,11 @@
 
 
 # pfr_schedule
+
+
+
+
+
 - pff_ol_pass: https://premium.pff.com/nfl/positions/2023/REG/ol-pass-blocking-efficiency
 - pff_qb: https://premium.pff.com/nfl/positions/2023/REG/passing?position=QB
 - qb_depth_chart: https://www.ourlads.com/nfldepthcharts/
@@ -309,25 +314,4 @@
 - pff_blitz:  https://premium.pff.com/nfl/positions/2024/REG/passing-pressure?position=QB&split=blitz
 - pfr_tm_def: https://www.pro-football-reference.com/years/2024/opp.htm
 - pfr_schedule: https://www.pro-football-reference.com/years/2024/games.htm
-
-Potential Data Sources
-- https://nextgenstats.nfl.com/stats/receiving#percent-intended-yards
-- https://fantasydata.com/nfl/fantasy-football-leaders?season=2023&seasontype=1&scope=1&subscope=1&scoringsystem=2&aggregatescope=1&range=3
-- https://nflsavant.com/targets.php?ddlYear=2022&ddlPosition=&week=&rz=redzone&ddlTeam=
-
-
-** Overall Ideas **
-- Models to predict player performance
-    - Problem: Rookies | Solution A: Separate model for rookies
-    - Problem: Injuries | Solution A: Predict PPG instead of overall points
-    - Problem: Situation Changes
-        - Sub-Problem: QB change | Solution: Use data from new QB's previous season
-        - Sub-Problem: Coach Change
-    - Problem: How to factor training camp hype | Solution: Not totally sure, hopefully it is somewhat reflected in the depth chart.
-- Reinforcement Learning model to train draft agent to converge on ideal draft position/strategy given player ppg rankings
-    - Problem: Need actually accurate Draft Simulator to be able to integrate the Draft Agent | Solution A: Create yourself, Solution B: Use dataset of drafts
-- NEED TO LOOK INTO POINTS OVER REPLACEMENT STATISTIC
-- Create a Consistency metric, based on player availability, standard deviation of points/usage, likelihood of bust week
-- Data analysis on Trending Up players
-- Waiver value analyzer
 
