@@ -232,29 +232,219 @@
 
 # pff_ol_pass
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| team_name | Team |
+| franchise_id | PFF Team ID |
+| player_game_count | Games Played (Team) |
+| attempts | Pass Plays |
+| hits_allowed | QB Hits allowed |
+| hurries_allowed | QB Hurries allowed |
+| pass_snaps | # of Passing Plays |
+| pbe | Pass Blocking Efficiency |
+| pressures_allowed | QB Pressures allowed |
+| sacks_allowed | QB Sacks Allowed |
 
 # pff_qb
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player | Player Name |
+| player_id | PFF Player ID |
+| position | Position |
+| team_name | Team |
+| player_game_count | Games Played |
+| accuracy % | |
+| aimed_passes | |
+| attempts | Passing Attempts |
+| avg_depth_of_target | Average Depth of Target |
+| avg_time_to_throw | Average Time to Throw (seconds) |
+| bats | Passes batted down |
+| big_time_throws | Big time throws |
+| btt_rate | |
+| completion_percent | Pass Completions / Pass Attempts |
+| completions | # of Pass Completions |
+| declined_penalties | |
+| def_gen_pressures | Defense Generated Pressures |
+| drop_rate | % of Passes Dropped |
+| dropbacks | # of Dropbacks |
+| drops | # of Passes Dropped |
+| first_downs | # of First Downs |
+| franchise_id | PFF Team ID |
+| grades_hands_fumble | |
+| grades_offense | |
+| grades_pass | PFF Passing Grade |
+| grades_run | PFF Rushing Grade |
+| hit_as_threw | # of Passes hit as threw |
+| interceptions | # of Interceptions |
+| passing_snaps | # of Passing Snaps |
+| penalties | # of penalties |
+| pressure_to_sack_rate | Pressures : Sacks |
+| qb_rating | QB Rating |
+| sack_percent | % of plays Sacked |
+| scrambles | # of Scrambles |
+| spikes | # of Spikes |
+| thrown_aways | # of passes thrown away |
+| touchdowns | # of Passing Touchdowns | 
+| turnover_worthy_plays | # of Turnover worthy plays |
+| twp_rate | Rate of Turnover worthy plays |
+| ypa | Yards per Pass Attempt |
 
 # qb_depth_chart
+(only starters)
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| Team | Team |
+| Season | Season |
+| Name | Name |
 
 # pff_rushing
+
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player | Player Name |
+| player_id | PFF Player ID |
+| position | Position |
+| team_name | Team |
+| player_game_count | Games Played |
+| attempts | Rush Attempts |
+| avoided_tackles | Avoided Tackles |
+| breakaway_attempts | |
+| breakaway_percent | |
+| breakaway_yards | |
+| declined_penalties | |
+| designed_yards | |
+| drops | Drops |
+| elu_recv_mtf | |
+| elu_rush_mtf | |
+| elu_yco | |
+| elusive_rating | PFF Elusive Rating |
+| explosive | |
+| first_downs | First Downs |
+| franchise_id | PFF Team ID |
+| fumbles | Fumbles |
+| gap_attempts | Gap Rush Attempts |
+| grades_hands_fumble | PFF Fumble Grade |
+| grades_offense | |
+| grades_offense_penalty | |
+| grades_pass | |
+| grades_pass_block | PFF Pass Block Grade |
+| grades_pass_route | PFF Pass Route Grade |
+| grades_run | PFF Run Grade |
+| grades_run_block | PFF Run Block Grade |
+| longest | Longest Run |
+| penalties | Penalties |
+| rec_yards | Recieving Yards |
+| receptions | Receptions |
+| routes | # of Routes Run |
+| run_plays | # of Run Plays |
+| scramble_yards | Scramble Yards |
+| scrambles | # of Scrambles |
+| targets | # of Targets |
+| total_touches | # of Total Touches |
+| touchdowns | # of Rushing Touchdowns | 
+| yards | Rushing Yards |
+| yards_after_contact | Yards after Contact |
+| yco_attempt | |
+| ypa | Yards per Attempt |
+| yprr | Yards per Route Run |
+| zone_attempts | Zone Rush Attempts
 
 
 # pff_x_fantasy_week_points
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| Ovr | Total Season Points |
+| Name | Player Name |
+| Team | Team |
+| [W1-18] |  Score Week 1-18 respectively |
 
 # fantasy_adp
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| Rank | Rank |
+| Player | Player Name |
+| Team | Team |
+| Bye | Bye Week |
+| POS | Position with Position Rank |
+| ESPN | ADP on ESPN |
+| Sleeper | ADP on Sleeper |
+| NFL | ADP on NFL.com |
+| RTSports | ADP on RTSports |
+| FFC | ADP on FFC |
+| AVG | Average ADP amongst sites |
 
 # pff_ol_run
+
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player | Player |
+| player_id | PFF Player ID |
+| position | Position |
+| team_name | Team Name |
+| player_game_count | Games Played |
+| declined_penalties | |
+| franchise_id | PFF Team ID |
+| gap_grades_run_block | PFF Gap Run Block Grade |
+| gap_run_block_percent | % of Gap Running Plays |
+| gap_snap_counts_run_block | # of Gap Run Snaps |
+| gap_snap_counts_run_block_percent | |
+| gap_snap_counts_run_play | |
+| grades_run_block | PFF Run Block Grade |
+| penalties | |
+| run_block_percent | |
+| snap_counts_run_block | |
+| snap_counts_run_play | # of Snaps on Run Plays |
+| zone_grades_run_block | PFF Zone Run Block Grade |
+| zone_run_block_percent | % of run play snaps that are zone |
+| zone_snap_counts_run_block | |
+| zone_snap_counts_run_block_percent | |
+| zone_snap_counts_run_play | |
 
 
 # pfr_draft
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| Rnd | Round Number |
+| Pick | Pick Number |
+| Tm | Team |
+| Player | Player |
+| Pos | Position |
+| Age | Age |
+| To | Year Drafted |
+| AP1 | First Team All-Pro Selections |
+| PB | Pro Bowl Selections |
+| St | Number of years as primary starter for his team at his position |
+| wAV | Weighted Career Approximate Value |
+| DrAV | Weighted Approximate Value for team that drafted this player |
+| G | Games Played|
+| Cmp | Passes Completed |
+| Pass_Att | Passes Attempted |
+| Pass_Yds | Passing Yards |
+| Pass_TD | Passing Touchdowns |
+| Int | Interceptions Thrown |
+| Rush_Att | Rushing Attempts |
+| Rush_Yds | Rushing Yards |
+| Rush_TD | Rushing Touchdowns |
+| Rec | Receptions |
+| Rec_Yds | Receiving Yards |
+| Rec_TD | Receiving Touchdowns|
+| Solo | Tackles |
+| Int | Interceptions Caught|
+| Sk | Sacks |
+| College/University | School |
+| -9999 | Pro Football Reference Player ID |
+NOT DONE
 
 # pfr_combine
+
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+
 
 
 # pff_ncaa_rushing
