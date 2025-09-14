@@ -53,4 +53,5 @@ Potential Data Sources
 - Create a Consistency metric, based on player availability, standard deviation of points/usage, likelihood of bust week
 - Data analysis on Trending Up players
 - Waiver value analyzer
+- Injury Risk Stat
 

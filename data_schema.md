@@ -35,6 +35,7 @@
 | route_rate | % of passing plays where player ran route |
 | routes | # of routes run |
 | slot_rate | % of snaps in slot |
+| slot_snaps | # of snaps lined up in slot |
 | targeted_qb_rating | qb rating when targeted |
 | targets | # of targets |
 | touchdowns | # of recieving touchdowns |
@@ -254,7 +255,7 @@
 | position | Position |
 | team_name | Team |
 | player_game_count | Games Played |
-| accuracy % | |
+| accuracy_percent | |
 | aimed_passes | |
 | attempts | Passing Attempts |
 | avg_depth_of_target | Average Depth of Target |
@@ -282,12 +283,14 @@
 | pressure_to_sack_rate | Pressures : Sacks |
 | qb_rating | QB Rating |
 | sack_percent | % of plays Sacked |
+| sacks | # of Sacks Taken |
 | scrambles | # of Scrambles |
 | spikes | # of Spikes |
 | thrown_aways | # of passes thrown away |
 | touchdowns | # of Passing Touchdowns | 
 | turnover_worthy_plays | # of Turnover worthy plays |
 | twp_rate | Rate of Turnover worthy plays |
+| yards | Passing yards |
 | ypa | Yards per Pass Attempt |
 
 # qb_depth_chart
@@ -444,29 +447,223 @@ NOT DONE
 
 | VAR    | VAR FULL NAME |
 | -------- | ------- |
-
+| Player | Player Name |
+| Pos | Position |
+| School | School |
+| College | Irrelevant column |
+| Ht | Height (Currently misinterpreted as dates) |
+| Wt | Weight (lbs) |
+| 40 yd | 40 Yard Dash |
+| Vertical | Vertical Jump |
+| Bench | Bench Press Reps |
+| Broad Jump | Broad Jump |
+| 3Cone | 3 Cone |
+| Shuttle | Shuttle|
+| Drafted (tm/rnd/yr) | Team / Round / Year |
+| Player-additional | PFR Player ID |
 
 
 # pff_ncaa_rushing
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player | Player Name |
+| player_id | PFF Player ID |
+| position | Position |
+| team_name | Team |
+| player_game_count | Games Played |
+| attempts | Rushing Attempts |
+| avoided_tackles | Avoided Tackles |
+| breakaway_attempts | |
+| breakaway_percent | |
+| breakaway_yards | |
+| declined_penalties | |
+| designed_yards | Designed Rush Yards |
+| drops | Drops |
+| elu_recv_mtf | |
+| elu_rush_mtf | |
+| elu_yco | |
+| elusive_rating | PFF Elusive Rating |
+| explosive | |
+| first_downs | First Downs |
+| franchise_id | PFF Team ID |
+| fumbles | Fumbles |
+| gap_attempts | Gap Rush Attempts |
+| grades_hands_fumble | PFF Fumble Hands Grade |
+| grades_offense | |
+| grades_offesnse_penalty | |
+| grades_pass | |
+| grades_pass_block | PFF Pass Blocking Grade |
+| grades_pass_route | PFF Pass Route Grade |
+| grades_run | |
+| grades_run_block | PFF Run Block Grade |
+| longest | Longest Run (yds) |
+| penalties | |
+| rec_yards | Recieving Yards |
+| receptions | Receptions |
+| run_plays | # of Run Snaps |
+| scramble_yards | Scramble Yards |
+| scrambles | # of Scrambles |
+| targets | Targets |
+| total_touches | Total Touches |
+| touchdowns | |
+| yards | Rushing Yards |
+| yards_after_contact | Yards After Contact |
+| yco_attempt | |
+| ypa | Yards Per Attempt |
+| yprr | Yards per Route Run |
+| zone_attempts | Zone Rush Attempts |
+
 
 # pff_behind_los_passing
+**NOT DONE. For some reasons there is much more than behindLOS data here. It's literally for all over the field**
+
+
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player | Player Name |
+| player_id | PFF Player ID |
+| position | Position |
+| team_name | Team |
+| player_game_count | Games Played |
+| base_attempts | |
+| base_dropbacks | |
+| behind_los_accuracy_percent | Behind LOS Accuracy Percent |
+| behind_los_aimed_passes | |
+| behind_los_attempts | Behind LOS Pass Attempts |
+| behind_los_attempts_percent | % of Pass Attempts Behind LOS |
+| behind_los_avg_depth_of_target | Behind LOS Average Depth of Target |
+| behind_los_avg_time_to_throw | Behind LOS Average Time to Throw |
+| behind_los_bats | Behind LOS Passes Batted |
+| behind_los_big_time_throws | Behind LOS Big Time Throws |
+| behind_los_btt_rate | Behind LOS Big Time Throw Rate |
+| behind_los_completion_percent | Behind LOS Completion % |
+| behind_los_completions | Behind LOS Pass Completions |
+| behind_los_def_gen_pressures | Behind LOS Defense Generated Pressures |
+| behind_los_drop_rate | Behind LOS Passes Dropped Rate |
+| behind_los_dropbacks | |
+| behind_los_drops | # of Behind LOS Passes Dropped |
+| behind_los_first_downs | # of First Downs from Behind LOS Passes |
+| behind_los_hit_as_threw | # of Behind LOS Passes Hit as Threw |
+| behind_los_interceptions | # of Behind LOS Interceptions |
+| behind_los_passing_snaps | |
+| behind_los_pressure_to_sack_rate | |
+| behind_los_qb_rating | Behind LOS QB Rating |
+| behind_los_sack_percent | |
+| behind_los_sacks | | 
+| behind_los_scrambles | |
+| behind_los_spikes | |
+| behind_los_thrown_aways | |
+| behind_los_touchdowns | # of Behind LOS Pass Touchdowns |
+| behind_los_turnover_worthy_plays | # of Behind LOS Pass Turnover Worthy Plays |
+| behind_los_twp_rate | |
+| behind_los_yards | Yards on Behind LOS Passes |
+| behind_los_ypa | Yards Per Behind LOS Pass Attempt |
+| center_behind_los_accuracy_percent | |
+| center_behind_los_aimed_passes | |
 
 
 # pff_short_passing
-
-
 # pff_int_passing
-
-
 # pff_deep_passing
+I believe these last 4 are all the same...
 
 
 # pff_ncaa recieving
-
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player  | player name    |
+| player_id | pff player id     |
+| position    | player position    |
+| team_name | team abbreviation |
+| player_game_count | player game count |
+| avg_depth_of_target | average depth of target |
+| avoided_tackles | avoided tackles |
+| caught_percent | percent of targets that resulted in receptions |
+| contested_catch_rate | percent of contested targets that resulted in receptions |
+| contested_receptions | # of contested catches |
+| contested_targets | # of contest targets |
+| declined_penalties | # of declined penalties |
+| drop_rate | # of targets dropped |
+| drops | # of drops |
+| first_downs | # of first downs |
+| franchise_id | pff team id |
+| fumbles | # of fumbles |
+| grades_hands_drop | pff drop grade |
+| grades_hands_fumble | pff fumble grade |
+| grades_offense | |
+| grades_pass_block | |
+| grades_pass_route | |
+| inline_rate | % of snaps inline |
+| inline_snaps | # of inline snaps |
+| interceptions | |
+| longest | # of yards of longest catch |
+| pass_block_rate | % of passing snaps spent blocking |
+| pass_blocks | # of pass blocking plays |
+| pass_plays | # of pass plays |
+| penalties | # of penalties |
+| receptions | # of receptions |
+| route_rate | % of passing plays where player ran route |
+| routes | # of routes run |
+| slot_rate | % of snaps in slot |
+| slot_snaps | # of snaps lined up in slot |
+| targeted_qb_rating | qb rating when targeted |
+| targets | # of targets |
+| touchdowns | # of recieving touchdowns |
+| wide_rate | % of snaps lined up wide |
+| wide_snaps | # of snaps lined up wide |
+| yards | # of recieving yards |
+| yards_after_catch | yards after catch |
+| yards_after_catch_per_reception | yards after catch per reception |
+| yards_per_reception | yards per reception |
+| yprr | yards per route run |
 
 # pff_ncaa_passing
 
+| VAR    | VAR FULL NAME |
+| -------- | ------- |
+| player | Player Name |
+| player_id | PFF Player ID |
+| position | Position |
+| team_name | Team |
+| player_game_count | Games Played |
+| accuracy_percent | |
+| aimed_passes | |
+| attempts | Passing Attempts |
+| avg_depth_of_target | Average Depth of Target |
+| avg_time_to_throw | Average Time to Throw (seconds) |
+| bats | Passes batted down |
+| big_time_throws | Big time throws |
+| btt_rate | |
+| completion_percent | Pass Completions / Pass Attempts |
+| completions | # of Pass Completions |
+| declined_penalties | |
+| def_gen_pressures | Defense Generated Pressures |
+| drop_rate | % of Passes Dropped |
+| dropbacks | # of Dropbacks |
+| drops | # of Passes Dropped |
+| first_downs | # of First Downs |
+| franchise_id | PFF Team ID |
+| grades_hands_fumble | |
+| grades_offense | |
+| grades_pass | PFF Passing Grade |
+| grades_run | PFF Rushing Grade |
+| hit_as_threw | # of Passes hit as threw |
+| interceptions | # of Interceptions |
+| passing_snaps | # of Passing Snaps |
+| penalties | # of penalties |
+| pressure_to_sack_rate | Pressures : Sacks |
+| qb_rating | QB Rating |
+| sack_percent | % of plays Sacked |
+| sacks | # of Sacks Taken |
+| scrambles | # of Scrambles |
+| spikes | # of Spikes |
+| thrown_aways | # of passes thrown away |
+| touchdowns | # of Passing Touchdowns | 
+| turnover_worthy_plays | # of Turnover worthy plays |
+| twp_rate | Rate of Turnover worthy plays |
+| yards | Passing yards |
+| ypa | Yards per Pass Attempt |
 
 # pff_screens
 
