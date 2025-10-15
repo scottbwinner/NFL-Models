@@ -1,4 +1,9 @@
+# Ignore everything in fantasy_data
+fantasy_data/**
+# Re-include all directories (so folder structure stays)
 !fantasy_data/**/
+
+ncaa_data/** */
 !ncaa_data/**/
 qb_models/processed_qb_data/*
 rb_models/processed_rb_data/*
