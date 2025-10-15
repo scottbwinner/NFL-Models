@@ -1,0 +1,6 @@
+!fantasy_data/**/
+!ncaa_data/**/
+qb_models/processed_qb_data/*
+rb_models/processed_rb_data/*
+wr_models/processed_wr_data/*
+te_models/processed_te_data/*
