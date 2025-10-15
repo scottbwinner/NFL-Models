@@ -22,10 +22,7 @@ Final Data Sources
 - pfr_draft: https://www.pro-football-reference.com/years/2024/draft.htm
 - pfr_combine: https://www.pro-football-reference.com/draft/2025-combine.htm
 - pff_ncaa_rushing: https://premium.pff.com/ncaa/positions/2024/REGPO/rushing?division=fbs&customMinimum=1&minimum=5
-- pff_behind_los_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=behindLos
-- pff_short_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=short
-- pff_int_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=medium
-- pff_deep_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=deep
+- pff_area_passing: https://premium.pff.com/nfl/positions/2024/REG/passing-depth?position=QB&split=behindLos
 - pff_ncaa_receiving: https://premium.pff.com/ncaa/positions/2023/REGPO/receiving?division=fbs&position=WR,TE,RB&customMinimum=1&minimum=5
 - pff_ncaa_passing: https://premium.pff.com/ncaa/positions/2024/REGPO/passing?division=fbs&position=QB&customMinimum=1&minimum=10
 - pff_screens: https://premium.pff.com/nfl/positions/2024/REG/receiving-concept?position=WR,TE,RB&split=screen&minimum=1

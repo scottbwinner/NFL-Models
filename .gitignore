@@ -1,15 +1,16 @@
-# 1. Ignore everything under fantasy_data
 fantasy_data/**
-
-# 2. Explicitly re-include the top-level folder itself
 !fantasy_data/
-
-# 3. Re-include all subfolders (but not files)
 !fantasy_data/**/
+!fantasy_data/**/README*
 
 ncaa_data/**
 !ncaa_data/
 !ncaa_data/**/
+!ncaa_data/**/README*
+
+draft_data/*
+!draft_data/README.md
+
 qb_models/processed_qb_data/*
 rb_models/processed_rb_data/*
 wr_models/processed_wr_data/*
